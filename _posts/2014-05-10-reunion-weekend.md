@@ -98,6 +98,8 @@ This is an advance reservation only event. To reserve your spot now, send an ema
 **Deadline**: Last date for making boat cruise reservations is ___
 {: .notice}
 
+---
+
 ## Detailed Weekend Line-Up
 
 | Date | Time | Event | Details |
