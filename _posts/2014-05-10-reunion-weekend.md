@@ -89,7 +89,7 @@ Join us for a boat cruise along the Baltimore harbor on Saturday morning of July
 
 #### Reservations
 
-This is an advance reservation only event. To reserve your spot now, send an email to [Reunion Planner](mailto:yuchie2000@yahoo.com).
+This is an advance reservation only event. To reserve your spot now, send an email to [2014 Reunion Committee](mailto:maryland2014@fggconitsha.com).
 
 #### Ticket Price
 * Adults: $59.79  
@@ -106,6 +106,4 @@ This is an advance reservation only event. To reserve your spot now, send an ema
 |----
 | Saturday 26th  | 9:00 AM  | Boat Cruise | Boat Cruise at Baltimore Harbor   |
 | Saturday 26th  | 8:00 PM  | Gala Night  | More information to come   |
-|=====
-| Foot1   | Foot2   | Foot3
 {: rules="groups"}
