@@ -1,18 +1,18 @@
-title:            Site Title
-description:      Describe your website.
+title:            FGGC Onitsha - USA/Canada Alumni Association
+description:      The website for the FGGC Onitsha USA/Canada Alumni Association.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           FGGC Onitsha USA/Canada Alumni
+  avatar:         
+  bio:            "Pro Unitate"
+  email:          pending
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
-  facebook:
+  twitter:		https://twitter.com/fggcoshaalumni       
+  facebook:		https://www.facebook.com/groups/158911857461950/       
   github:
   stackoverflow:
   linkedin:
@@ -39,11 +39,10 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Reunion Weekend
+    url: /reunion-weekend
+  - title: Community
+    url: /community/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

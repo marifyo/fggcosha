@@ -1,30 +1,112 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
+title: About Us
+tagline: FGGC Osha Alumni Chapter
 tags: [about, Jekyll, theme, responsive]
 modified: 9-9-2013
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: houseflowers.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >About</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
-## Minimal Mistakes is all about:
+> As we graduate and move on with life, memories of our experiences at school continue to shape the strong and successful women we become.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+## The USA/Canada Alumni Chapter
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+The USA/Canada chapter of FGGC Onitsha was founded in 2009, primarily by members of the classes of '82 through '86. The chapter was founded with the following primary objectives: 
+ 
+1. Supporting the institution, which guided us through our formative years, by enhancing the educational and living environment and the activities of the institution.  
+2. Providing social and professional networks for the current and future alumni across North America.
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
 
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+The chapter's membership has continued to grow, and its social activities and charitable works, have garnered the recognition and support of the school, as well as other alumni chapters around the world.
+
+### Executives
+1. Vivian Oby Onyeama Denchukwu, Class of '86 - **President**
+2. Uche Stella Ibeziako Onwuta, Class of '82 - **Vice President**
+3. Stella O. Chuke, Class of '85 - **Secretary**
+4. Nene Okonmah Akintan, Class of '82 - **Treasurer**
+5. Uche Ewelukwa Ofodile, Class of '84 - **Legal Counsel**
+
+### Other Alumni Communities
+
+* FGGC Onitsha Abuja Chapter, Abuja Nigeria
+* FGGC Onitsha Lagos Chapter, Lagos, Nigeria  
+  
+
+---
+
+## Our Alma Mater
+
+Federal Government Girls' Secondary School Onitsha, an all girls boarding school and part of the Nigerian Federal Government Unity schools, was founded in `1977`. It is located in the Southeastern part of Nigeria. The first graduating class was the class of '82, guided by the leadership of its esteemed founding, and longest serving principal of the school, `Mrs. Okobi`. The current principal is Mrs. Nwerem.
+
+### School Anthem
+
+*Set to the theme of Beethoven's 9th Symphony*
+
+{% highlight text %}
+By the waters of the Niger  
+Flowing slowly to the seas  
+Stands a seat of Education  
+Built to foster unity  
+Federal Government Girls’ College,  
+Onitsha, Anambra State  
+Is where we live and learn together  
+Strive to make Nigeria great.
+
+We are students of Nigeria  
+And we come from far and near  
+Every state is represented  
+In the school we hold so dear  
+Walking over Pro Unitate  
+We live in peace and Unity  
+With loyalty we work together  
+Marching on in Unity.
+
+We strive for knowledge, truth and wisdom  
+God shall ever be our guide  
+Love and service are our watchword  
+Honesty is all our pride  
+Feminine, grace and love of beauty  
+All that is good is nurtured here  
+We strive for ever higher standard  
+Grow in strength from year to year  
+{% endhighlight %}
+
+
+---
+
+## How to Help
+
+Our goal is to build a strong alumnae group in the diaspora, so that collectively, we can give back to our Alma Mater. There are different ways in which you can support the FGGC Onitsha - USA/Canada Anumni chapter and its mission.
+
+### Membership
+> Our members are our foundation
+
+All FGGC Onitsha alumni who reside in the USA or Canada are invited to join the chapter.  
+To register, send an email to [Ifeyinwa Brown](mailto:ifeyinwa.brown@fggconitsha.com). Please include the following in your email: 
+
+1. Name while at FGGC Onitsha.
+2. Year of Graduation.
+3. Current Name if different.
+
+### Donations
+
+* Give online - through our paypal account (coming soon).  
+* Give by mail - mail your check made payable to:
+
+### Contact
+
+[Click here](mailto:contactus@fggconitsha.com) to contact us.
+
