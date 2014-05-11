@@ -1,7 +1,8 @@
 title:            FGGC Onitsha - USA/Canada Alumni Association
 description:      The website for the FGGC Onitsha USA/Canada Alumni Association.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://marifyo.github.io/fggcosha/
+ url:              http://marifyo.github.io/fggcosha
+# url:				http://localhost:4000 
 disqus_shortname:
 
 # Owner/author information
