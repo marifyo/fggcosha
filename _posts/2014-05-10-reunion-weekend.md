@@ -95,7 +95,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 * Adults: $59.79  
 * Kids: $44.79   
 
-**Cruise Reservation Deadline**: Last date for making boat cruise reservations is ___
+**Cruise Reservation Deadline**: Last date for making boat cruise reservations is **_May 31st, 2014_**
 {: .notice}
 
 ---
