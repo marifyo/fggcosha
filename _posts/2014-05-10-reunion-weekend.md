@@ -69,7 +69,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 [Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG")
 
-**Deadline:** Book by **_July 1st 2014_** to reserve a room!
+**Hotel Reservation Deadline:** Book by **_July 1st 2014_** to reserve a room!
 {: .notice}
 
 ### Air Travel
@@ -80,7 +80,7 @@ There are three (3) airports serving the DC Metro area, any of which are in reas
 2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed") 
 3. Ronald Reagan Washington National Airport : Arlington, VA. [Directions from Reagan airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed")   
 
-**Tip**: The airport closest to the hotel is BWI Airport. 
+**Travel Tip**: The airport closest to the hotel is BWI Airport. 
 {: .notice} 
 
 ### Boat Cruise 
@@ -95,7 +95,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 * Adults: $59.79  
 * Kids: $44.79   
 
-**Deadline**: Last date for making boat cruise reservations is ___
+**Boat Reservation Deadline**: Last date for making boat cruise reservations is ___
 {: .notice}
 
 ---
