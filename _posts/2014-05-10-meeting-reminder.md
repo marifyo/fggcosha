@@ -6,7 +6,7 @@ tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
 
-The F.G.G.C. Onitsha - USA and Canada alumni branch invites you to its monthly meeting on the 2nd Saturday of every month.  
+The F.G.G.C. Onitsha - USA and Canada alumni association invites you to its monthly meeting on the 2nd Saturday of every month.  
 
 Our next monthly meeting is on **Saturday, June 14 2014 at 11.00 am EST.**
 {: .notice} 

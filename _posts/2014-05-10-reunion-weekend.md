@@ -31,7 +31,7 @@ Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even bett
 
 1. It will be **FUN**. This year's reunion organizers have been working diligently to put together an absolutely amazing weekend that promises to entertain, excite and exceed all expectations. You just can't miss it.
 2. The opportunity to connect with a large group of your schoolmates, from across different classes, in such a vibrant and fun social setting is one you just won't find anywhere else.
-3. It was largely due to the funds raised at the past two reunions that we were able to raise enough funds to meet our initial give-back objective. Join us in helping make our next goal a reality. Let's keep on giving back.
+3. It was largely due to the funds raised at the past two reunions that we were able to meet our initial give-back objective. Join us in helping make our next goal a reality. Let's keep on giving back.
 
 ### What to Expect?
 
@@ -45,11 +45,11 @@ Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even bett
 
 ## Book Now
 
-Here is all the information to help you plan for the weekend.
+Here is  information to help you plan for the weekend.
 
 ### Lodging
 
-Hotel arrangements have been made with the **DoubleTree by Hilton, Baltimore North - Pikesville.** for special rates.
+Hotel arrangements have been made with the **DoubleTree by Hilton, Baltimore North - Pikesville** for special rates.
 
 #### Address
 1726 Reisterstown Road  
@@ -74,7 +74,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 ### Air Travel
 
-There are three (3) airports serving the DC Metro area, any of which will bring you to our weekend destination.  
+There are three (3) airports serving the DC Metro area, any of which are in reasonable proximity to our weekend destination, Baltimore.  
 
 1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed").   
 2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed") 
@@ -89,7 +89,7 @@ Join us for a boat cruise along the Baltimore harbor on Saturday morning of July
 
 #### Reservations
 
-This is an advance reservation only event. To reserve your spot now, send an email to [2014 Reunion Committee](mailto:maryland2014@fggconitsha.com).
+This is an advance reservation-only event. To reserve your spot now, send an email to [2014 Reunion Committee](mailto:maryland2014@fggconitsha.com).
 
 #### Ticket Price
 * Adults: $59.79  
@@ -102,10 +102,10 @@ This is an advance reservation only event. To reserve your spot now, send an ema
 
 ## Detailed Weekend Line-Up
 
-| Date | Time | Event | Details |
+| Day | Time | Event | Details |
 |:--------|:--------|:-------|:--------|
-| Friday 25th    | 8:00 PM     | Social Gathering    | Informal social gathering. Location to be confirmed    |
+| Friday | 8:00 PM     | Social Gathering    | Informal social gathering. Location to be provided    |
 |----
-| Saturday 26th  | 9:00 AM  | Boat Cruise | Boat Cruise at Baltimore Harbor   |
-| Saturday 26th  | 8:00 PM  | Gala Night  | More information to come   |
+| Saturday | 9:00 AM  | Boat Cruise | Boat Cruise at Baltimore Harbor   |
+| Saturday | 8:00 PM  | Gala Night  | More information to come   |
 {: rules="groups"}

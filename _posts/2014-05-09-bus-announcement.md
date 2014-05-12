@@ -11,7 +11,7 @@ comments: true
 We are delighted to announce that our alma mater has received the School Bus. After two years of planning and collaboration, on **_November 15 2013_**, the school bus, purchased by the FGGC Onitsha USA/Canada Alumni Chapter, through our collective fund-raising efforts, was delivered to the school.
 
 <figure>
-	<a href="/images/schoolbus1.jpg"><img src="/images/schoolbus1.jpg"></a>
+	<a href="{{ site.url }}/images/schoolbus1.jpg"><img src="{{ site.url }}/images/schoolbus1.jpg"></a>
 	<figcaption>The School bus as delivered.</figcaption>
 </figure>
 {: .image-pull-left}
@@ -21,15 +21,15 @@ We are delighted to announce that our alma mater has received the School Bus. Af
 ### The Story in Pictures
 
 <figure>
-	<a href="/images/schoolbusprincipal.jpg"><img src="/images/schoolbusprincipal.jpg"></a>
+	<a href="{{ site.url }}/images/schoolbusprincipal.jpg"><img src="{{ site.url }}/images/schoolbusprincipal.jpg"></a>
 		<figcaption>The principal, Mrs. Nwerem receiving the bus from alumni, Winnie Okolo.</figcaption>
 </figure>
 <figure>
-	<a href="/images/schoolbusceleb.jpg"><img src="/images/schoolbusceleb.jpg"></a>
+	<a href="{{ site.url }}/images/schoolbusceleb.jpg"><img src="{{ site.url }}/images/schoolbusceleb.jpg"></a>
 	<figcaption>Jubilating staff and students.</figcaption>
 </figure>
 <figure>
-	<a href="/images/schoolbusinside.jpg"><img src="/images/schoolbusinside.jpg"></a>
+	<a href="{{ site.url }}/images/schoolbusinside.jpg"><img src="{{ site.url }}/images/schoolbusinside.jpg"></a>
 	<figcaption>School children going for a ride on the bus.</figcaption>
 </figure>
 ---
