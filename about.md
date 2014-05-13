@@ -89,7 +89,7 @@ Grow in strength from year to year
 
 ## How to Help
 
-Our goal is to build a strong alumnae group in the diaspora, so that collectively, we can give back to our Alma Mater. There are different ways in which you can support the FGGC Onitsha - USA/Canada Anumni chapter and its mission.
+Our goal is to build a strong alumnae group in the diaspora, so that collectively, we can give back to our Alma Mater. There are different ways in which you can support the FGGC Onitsha - USA/Canada Alumni Association and its mission.
 
 ### Membership
 > Our members are our foundation

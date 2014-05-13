@@ -106,6 +106,6 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 |:--------|:--------|:-------|:--------|
 | Friday | 8:00 PM     | Social Gathering    | Informal social gathering. Location to be provided    |
 |----
-| Saturday | 9:00 AM  | Boat Cruise | Boat Cruise at Baltimore Harbor   |
+| Saturday | 11:30 AM  | Boat Cruise | Boat Cruise at Baltimore Harbor   |
 | Saturday | 8:00 PM  | Gala Night  | More information to come   |
 {: rules="groups"}
