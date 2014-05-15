@@ -24,13 +24,13 @@ image:
 
 ## The USA/Canada Alumni Chapter
 
-The USA/Canada chapter of FGGC Onitsha was founded in 2009, originally by members of the classes of '82 through '86, and quickly extending to include other active alumni from various graduating years. The chapter was founded with the following primary objectives: 
+The USA/Canada chapter of FGGC Onitsha was founded in 2009, originally by a few alumni from the pioneer class of '82 through the class of '86, and has quickly extended to include active alumni from across various graduating years. The chapter was founded with the following primary objectives: 
  
-1. Supporting the institution, which guided us through our formative years, by enhancing the educational and living environment and the activities of the institution.  
+1. Supporting the institution, which guided us through our formative years, by enhancing the educational and living environment, and the activities of the institution.  
 2. Providing social and professional networks for the current and future alumni across North America.
 
 
-The chapter's membership has continued to grow, and its social activities and charitable works, have garnered the recognition and support of the school, as well as other alumni chapters around the world.
+The chapter's membership continues to grow, and its social activities and charitable works, have garnered the recognition and support of the school, as well as other alumni chapters around the world.
 
 ### Executives
 1. Vivian Oby Onyeama Denchukwu, Class of '86 - **President**
