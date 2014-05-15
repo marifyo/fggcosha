@@ -24,7 +24,7 @@ image:
 
 ## The USA/Canada Alumni Chapter
 
-The USA/Canada chapter of FGGC Onitsha was founded in 2009, primarily by members of the classes of '82 through '86. The chapter was founded with the following primary objectives: 
+The USA/Canada chapter of FGGC Onitsha was founded in 2009, originally by members of the classes of '82 through '86, and quickly extending to include other active alumni from various graduating years. The chapter was founded with the following primary objectives: 
  
 1. Supporting the institution, which guided us through our formative years, by enhancing the educational and living environment and the activities of the institution.  
 2. Providing social and professional networks for the current and future alumni across North America.
