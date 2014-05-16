@@ -38,7 +38,7 @@ Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even bett
 > A weekend designed just for your entertainment!
 
 * **The Social Gathering**, Friday, July 25th - A night of music, fun and laughter for alumni and friends, setting the mood for the weekend. 
-* **The Morning Cruise**, Saturday, July 26th - A scenic boat cruise along the Baltimore harbor. This is an experience you don't want to miss. *By reservation only*. 
+* **The Boat Cruise**, Saturday, July 26th - A scenic boat cruise along the Baltimore harbor. This is an experience you don't want to miss. *By reservation only*. 
 * **Gala Night**, Saturday, July 26th - A formal and very special evening where there'll be great music, great food and great entertainment. *Formal Attire required*
 
 ---
