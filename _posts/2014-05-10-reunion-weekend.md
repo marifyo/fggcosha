@@ -30,16 +30,16 @@ Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even bett
 ### Why Come?
 
 1. It will be **FUN**. This year's reunion organizers have been working diligently to put together an absolutely amazing weekend that promises to entertain, excite and exceed all expectations. You just can't miss it.
-2. The opportunity to connect with a large group of your schoolmates, from across different classes, in such a vibrant and fun social setting is one you just won't find anywhere else.
+2. The opportunity to connect with a large group of your schoolmates, from across different classes, in such a vibrant and fun social setting is one you won't find anywhere else.
 3. It was largely due to the funds raised at the past two reunions that we were able to meet our initial give-back objective. Join us in helping make our next goal a reality. Let's keep on giving back.
 
 ### What to Expect?
 
 > A weekend designed just for your entertainment!
 
-* **Some social gathering**, Friday, July 25th - An informal night of music, fun and laughter, to set the mood for the weekend. 
+* **Social gathering**, Friday, July 25th - An informal night of music, fun and laughter, to set the mood for the weekend. 
 * **The Morning Cruise**, Saturday, July 26th - A scenic boat cruise along the Baltimore harbor. This is an experience you don't want to miss. *By reservation only*. 
-* **Gala Night**, Saturday, 26th - A special evening where there'll be great music, great food and great entertainment. *Formal Attire required*
+* **Gala Night**, Saturday, July 26th - A special evening where there'll be great music, great food and great entertainment. *Formal Attire required*
 
 ---
 
@@ -51,12 +51,13 @@ Here is  information to help you plan for the weekend.
 
 Hotel arrangements have been made with the **DoubleTree by Hilton, Baltimore North - Pikesville** for special rates.
 
-#### Address
+#### Address 
 1726 Reisterstown Road  
 Pikesville, Maryland  
 USA 21208  
 Tel: +1-410-653-1100  
-Fax: +1-410-415-6232  
+Fax: +1-410-415-6232 
+_Also the location for the Gala Night_ 
 
 #### Group Rate Information
 To make reservations by phone, call `+1-410-653-1100` and ask for our group rate: 
@@ -85,7 +86,7 @@ There are three (3) airports serving the DC Metro area, any of which are in reas
 
 ### Boat Cruise 
 
-Join us for a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line]("http://www.spiritcruisesbaltimore.com/Baltimore/ship")
+Join us for brunch on a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line]("http://www.spiritcruisesbaltimore.com/Baltimore/ship")
 
 #### Reservations
 
@@ -102,10 +103,19 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 
 ## Detailed Weekend Line-Up
 
-| Day | Time | Event | Details |
+### Friday, 25th July, 2014 Events
+
+| Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
-| Friday | 8:00 PM     | Social Gathering    | Informal social gathering. Location to be provided    |
+| 4pm - 8pm | Meet & Greet   |  Dinner for Alumni   | Hospitality Suite, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
 |----
-| Saturday | 11:30 AM  | Boat Cruise | Boat Cruise at Baltimore Harbor   |
-| Saturday | 8:00 PM  | Gala Night  | More information to come   |
+| 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
+{: rules="groups"}
+
+### Saturday, 26th July, 2014 Events
+| Time | Event | Description | Location |
+|:--------|:--------|:-------|:--------|
+| 11am - 2pm | Boat Cruise  | Brunch Cruise Aboard The Spirit of Baltimore  | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
+|----
+| 7pm - 2am | Gala Night  |  3rd International Reunion Gala & Fundraising Event  | The Preakness Ballroom, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) |
 {: rules="groups"}

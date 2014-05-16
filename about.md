@@ -49,7 +49,7 @@ The chapter's membership continues to grow, and its social activities and charit
 
 ## Our Alma Mater
 
-Federal Government Girls' Secondary School Onitsha, an all girls boarding school and part of the Nigerian Federal Government Unity schools, was founded in `1977`. It is located in the Southeastern part of Nigeria. The first graduating class was the class of '82, guided by the leadership of its esteemed founding, and longest serving principal of the school, `Mrs. Okobi`. The current principal is Mrs. Nwerem.
+Federal Government Girls' Secondary School Onitsha, an all girls boarding school and part of the Nigerian Federal Government Unity schools, was founded in `1977`. It is located in the Southeastern part of Nigeria. The first graduating class was the class of '82, guided by the leadership of its esteemed founding, and longest serving principal of the school, `Mrs. Okobi`. The current principal is Mrs. Nzerem.
 
 ### School Anthem
 

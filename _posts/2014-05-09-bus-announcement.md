@@ -22,7 +22,7 @@ We are delighted to announce that our alma mater has received the School Bus. Af
 
 <figure>
 	<a href="{{ site.url }}/images/schoolbusprincipal.jpg"><img src="{{ site.url }}/images/schoolbusprincipal.jpg"></a>
-		<figcaption>The principal, Mrs. Nwerem receiving the bus from alumni, Winnie Okolo.</figcaption>
+		<figcaption>The principal, Mrs. Nzerem receiving the bus from alumni, Winnie Okolo.</figcaption>
 </figure>
 <figure>
 	<a href="{{ site.url }}/images/schoolbusceleb.jpg"><img src="{{ site.url }}/images/schoolbusceleb.jpg"></a>
