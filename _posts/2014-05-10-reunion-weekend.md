@@ -113,6 +113,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 {: rules="groups"}
 
 ### Saturday, 26th July, 2014 Events
+
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
 | 11am - 2pm | Boat Cruise  | Brunch Cruise Aboard The Spirit of Baltimore  | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
