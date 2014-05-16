@@ -77,7 +77,7 @@ Marching on in Unity.
 
 We strive for knowledge, truth and wisdom  
 God shall ever be our guide  
-Love and service are our watchword  
+Love and service are our watchwords  
 Honesty is all our pride  
 Feminine, grace and love of beauty  
 All that is good is nurtured here  
