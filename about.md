@@ -37,7 +37,8 @@ The chapter's membership continues to grow, and its social activities and charit
 2. Uche Stella Ibeziako Onwuta, Class of '82 - **Vice President**
 3. Stella O. Chuke, Class of '85 - **Secretary**
 4. Nene Okonmah Akintan, Class of '82 - **Treasurer**
-5. Uche Ewelukwa Ofodile, Class of '84 - **Legal Counsel**
+5. Ifeyinwa Brown Halilu, Class of '82 - **Financial Secretary**
+6. Uche Ewelukwa Ofodile, Class of '84 - **Legal Counsel**
 
 ### Other Alumni Communities
 
@@ -105,7 +106,7 @@ To register, send an email to [Ifeyinwa Brown](mailto:ifeyinwa.brown@fggconitsha
 ### Donations
 
 * Give online - through our paypal account (coming soon).  
-* Give by mail - mail your check made payable to:
+* Give by mail - please contact [Ifeyinwa Brown](mailto:ifeyinwa.brown@fggconitsha.com) for mailing info.
 
 ### Contact
 
