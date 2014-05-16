@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Bus is Here"
+title: "Giving Back: The Bus is Here"
 description: "The school bus donated by the chapter has been delivered. Read about our success story."
 tags: [sample post, images, test]
 comments: true
@@ -36,19 +36,19 @@ We are delighted to announce that our alma mater has received the School Bus. Af
 
 ## Thank You
 
-We would like to express our heartfelt gratitude to all for their support and tireless effort. We couldn't have done it without you.
+We would like to express our heartfelt gratitude to all for their support. We could not have done it without you.
 
 ### Special Acknowledgement
 
 A special acknowledgement to the following people who went above and beyond.  
 
-* Chito Onochie (Class of '90 - USA): She made the connections.   
+* Chito Onochie (Class of '90 - USA): She made a lot of the connections.   
 * Bola Coker (Class of '86 - Lagos): She was our point of contact, represented us in the purchase transaction and facilitated shipment to Onitsha.  
 * Ijeoma Ubosi (Class of '89 - Lagos): She saved us a lot of money and wahala, helping us to get the best dollar exchange rate.  
-* Winnie Okolo (Class of '84 - Onitsha): In Onitsha, she received the school bus from the shipper and facilitated delivery to school - see photo link).   
+* Winnie Okolo (Class of '84 - Onitsha): In Onitsha, she received the school bus from the shipper and facilitated delivery to the school.   
 
-We thank you for your dedication and being instrumental in ensuring the successful completion this project.
+We thank you for your dedication and for being instrumental in ensuring the successful completion this project.
 
 ## More To Come...
-We are not done yet. Our aim is continue supporting FGGC Onitsha, giving back as much as we can. Please join us in this effort. 
+We are not done yet. Our aim is to continue supporting FGGC Onitsha, giving back as much as we can. Please join us in this effort. 
 
