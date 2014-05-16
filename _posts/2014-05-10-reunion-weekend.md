@@ -57,7 +57,7 @@ Pikesville, Maryland
 USA 21208  
 Tel: +1-410-653-1100  
 Fax: +1-410-415-6232  
-_(Also the location for the Meet & Greet and Gala Event)_ 
+_(Also the location for the Meet & Greet and Gala Events)_ 
 
 #### Group Rate Information
 To make reservations by phone, call `+1-410-653-1100` and ask for our group rate: 
