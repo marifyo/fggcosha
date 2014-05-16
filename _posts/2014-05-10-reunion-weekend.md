@@ -121,11 +121,3 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 | 7pm - 2am | Gala Night  |  3rd International Reunion Gala & Fundraising Event  | The Preakness Ballroom, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) |
 {: rules="groups"}
 
-### In Pictures
-
-<figure class="third">
-	<a href="{{ site.url }}/images/Peju's Kitchen.jpg"><img src="{{ site.url }}/images/Peju's Kitchen.jpg"></a>
-	<a href="{{ site.url }}/images/cruise.jpg"><img src="{{ site.url }}/images/cruise.jpg"></a>
-	<a href="{{ site.url }}/images/dinnerhotel.jpg"><img src="{{ site.url }}/images/dinnerhotel.jpg"></a>
-	<figcaption>Peju's Lounge; Spirit Cruise; Gala Night - The Preakness Ballroom</figcaption>
-</figure>
