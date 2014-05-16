@@ -123,11 +123,9 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 
 ### In Pictures
 
-{% highlight html %}
 <figure class="third">
 	<img src="{{ site.url }}/images/Peju's Kitchen.jpg">
 	<img src="{{ site.url }}/images/schoolbus1.jpg">
 	<img src="{{ site.url }}/images/dinnerhotel.jpg">
 	<figcaption>Peju's Lounge; Spirit Cruise; Gala Night - The Preakness Ballroom</figcaption>
 </figure>
-{% endhighlight %}
