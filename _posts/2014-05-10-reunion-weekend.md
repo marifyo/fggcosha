@@ -21,7 +21,7 @@ image:
 
 ## 3rd Alumni Reunion/Convention 
 
-The alumni chapter cordially invites all FGGC Onitsha alumni, along with their friends and family, to our 3rd reunion/convention weekend which takes place this year in **Baltimore, MD**. 
+The alumni chapter cordially invites all FGGC Onitsha alumni, along with their friends and family, to our 3rd reunion/convention weekend, which takes place this year in **Baltimore, MD**. 
 
 Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even better. **Don't miss out. Start making your arrangements today.**
 {: .notice}
@@ -38,14 +38,14 @@ Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even bett
 > A weekend designed just for your entertainment!
 
 * **The Social Gathering**, Friday, July 25th - A night of music, fun and laughter for alumni and friends, setting the mood for the weekend. 
-* **The Boat Cruise**, Saturday, July 26th - A scenic boat cruise along the Baltimore harbor. This is an experience you don't want to miss. *By reservation only*. 
+* **The Boat Cruise**, Saturday, July 26th - A scenic boat cruise along the Baltimore harbor. Brunch will be served. Make sure you're there. *By reservation only*. 
 * **Gala Night**, Saturday, July 26th - A formal and very special evening where there'll be great music, great food and great entertainment. *Formal Attire required*
 
 ---
 
 ## Book Now
 
-Here is  information to help you plan for the weekend.
+Here is information to help you plan for the weekend.
 
 ### Lodging
 
