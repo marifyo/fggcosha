@@ -75,7 +75,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 ### Air Travel
 
-There are three (3) airports serving the DC Metro area, any of which are in reasonable proximity to our weekend destination, Baltimore.  
+There are three (3) airports serving the DC Metro area, any of which is in reasonable proximity to our weekend destination, Baltimore.  
 
 1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed").   
 2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed") 
