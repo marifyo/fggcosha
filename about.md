@@ -100,7 +100,7 @@ To register, send an email to [Ifeyinwa Brown](mailto:ifeyinwa.brown@fggconitsha
 1. Name while at FGGC Onitsha.
 2. Year of Graduation.
 3. Current Name if different.
-4. Boarding House(s) and years of residence, if more than one.
+4. Boarding House(s), and years of residence if more than one.
 
 ### Donations
 
