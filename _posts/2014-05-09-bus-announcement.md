@@ -47,7 +47,7 @@ A special acknowledgement to the following people who went above and beyond.
 * Ijeoma Ubosi (Class of '89 - Lagos): She saved us a lot of money and wahala, helping us to get the best dollar exchange rate.  
 * Winnie Okolo (Class of '84 - Onitsha): In Onitsha, she received the school bus from the shipper and facilitated delivery to the school.   
 
-We thank you for your dedication and for being instrumental in ensuring the successful completion this project.
+We thank you for your dedication and for being instrumental in ensuring the successful completion of this project.
 
 ## More To Come...
 We are not done yet. Our aim is to continue supporting FGGC Onitsha, giving back as much as we can. Please join us in this effort. 
