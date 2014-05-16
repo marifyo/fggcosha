@@ -103,7 +103,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 
 ## Detailed Weekend Line-Up
 
-### Friday, 25th July, 2014 Events
+### Friday, 25th July Events
 
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
@@ -112,7 +112,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 | 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
 {: rules="groups"}
 
-### Saturday, 26th July, 2014 Events
+### Saturday, 26th July Events
 
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
