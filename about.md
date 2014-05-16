@@ -70,7 +70,7 @@ We are students of Nigeria
 And we come from far and near  
 Every state is represented  
 In the school we hold so dear  
-Walking over Pro Unitate  
+Walking ever Pro Unitate  
 We live in peace and Unity  
 With loyalty we work together  
 Marching on in Unity.
@@ -81,7 +81,7 @@ Love and service are our watchword
 Honesty is all our pride  
 Feminine, grace and love of beauty  
 All that is good is nurtured here  
-We strive for ever higher standard  
+We strive for ever higher standards  
 Grow in strength from year to year  
 {% endhighlight %}
 
