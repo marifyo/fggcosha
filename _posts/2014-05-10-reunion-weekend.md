@@ -103,7 +103,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 
 ## Detailed Weekend Line-Up
 
-### Friday, 25th July Events
+### - Friday, 25th July Events
 
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
@@ -112,11 +112,11 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 | 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
 {: rules="groups"}
 
-### Saturday, 26th July Events
+### - Saturday, 26th July Events
 
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
-| 11am - 2pm | Boat Cruise  | Brunch Cruise Aboard The Spirit of Baltimore  | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
+| 11am - 2pm | Boat Cruise  | Brunch Cruise aboard The Spirit of Baltimore  | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
 |----
 | 7pm - 2am | Gala Night  |  3rd International Reunion Gala & Fundraising Event  | The Preakness Ballroom, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) |
 {: rules="groups"}
