@@ -77,16 +77,16 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 There are three (3) airports serving the DC Metro area, any of which is in reasonable proximity to our weekend destination, Baltimore.  
 
-1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel](https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed).   
-2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel](https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed) 
-3. Ronald Reagan Washington National Airport : Arlington, VA. [Directions from Reagan airport to the hotel](https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed)   
+1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel](https://www.google.com/maps/dir/Baltimore%2FWashington+International+Thurgood+Marshall+Airport,+Baltimore,+MD+21240/Doubletree-Hilton,+1726+Reisterstown+Rd,+Pikesville,+MD+21208/@39.3231229,-76.7082724,10z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89b7e2fcbbc2e00b:0x150cfa971740!2m2!1d-76.668392!2d39.177404!1m5!1m1!1s0x89c819fff9cb969b:0xf28af64b84a5bd2a!2m2!1d-76.733504!2d39.382552).   
+2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel](https://www.google.com/maps/dir/Saarinen+Cir,+Sterling,+VA+20166/Doubletree-Hilton,+1726+Reisterstown+Rd,+Pikesville,+MD+21208/@39.2417889,-77.0649557,9z/am=t/data=!3m1!4b1!4m16!4m15!1m5!1m1!1s0x89b6474a7ed7bea5:0x682df475ac464a5f!2m2!1d-77.4468244!2d38.9555763!1m5!1m1!1s0x89c819fff9cb969b:0xf28af64b84a5bd2a!2m2!1d-76.733504!2d39.382552!2m1!6e4!3e0) 
+3. Ronald Reagan Washington National Airport : Arlington, VA. [Directions from Reagan airport to the hotel](https://www.google.com/maps/dir/Ronald+Reagan+Washington+National+Airport,+Arlington,+VA+22202/Doubletree-Hilton,+1726+Reisterstown+Rd,+Pikesville,+MD+21208/@39.2015756,-76.8513308,9z/am=t/data=!3m1!4b1!4m16!4m15!1m5!1m1!1s0x89b7b731402fe095:0x4168af016d076bad!2m2!1d-77.040231!2d38.851242!1m5!1m1!1s0x89c819fff9cb969b:0xf28af64b84a5bd2a!2m2!1d-76.733504!2d39.382552!2m1!6e4!3e0)   
 
 **Travel Tip**: The airport closest to the hotel is BWI Airport. 
 {: .notice} 
 
 ### Boat Cruise 
 
-Join us for brunch on a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line](http://www.spiritcruisesbaltimore.com/Baltimore/ship)
+Join us for brunch on a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line](http://www.spiritcruises.com/baltimore/about)
 
 #### Reservations
 
