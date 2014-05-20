@@ -68,7 +68,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 * Check-out -  28 July 2014  
 * Rates - From 129.00 USD/Night
 
-[Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG")
+[Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG)
 
 **Hotel Reservation Deadline:** Book by **_July 1st 2014_** to reserve a room!
 {: .notice}
@@ -77,16 +77,16 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 There are three (3) airports serving the DC Metro area, any of which is in reasonable proximity to our weekend destination, Baltimore.  
 
-1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed").   
-2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed") 
-3. Ronald Reagan Washington National Airport : Arlington, VA. [Directions from Reagan airport to the hotel]("https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed")   
+1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel](https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed).   
+2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel](https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed) 
+3. Ronald Reagan Washington National Airport : Arlington, VA. [Directions from Reagan airport to the hotel](https://maps.google.com/maps/ms?hl=en&ie=UTF8&msa=0&msid=114377042409989613060.000448f340caff862f70f&ll=39.192884,-76.674614&spn=0.12772,0.219727&z=12&iwloc=000448f36ff880887a391&source=embed)   
 
 **Travel Tip**: The airport closest to the hotel is BWI Airport. 
 {: .notice} 
 
 ### Boat Cruise 
 
-Join us for brunch on a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line]("http://www.spiritcruisesbaltimore.com/Baltimore/ship")
+Join us for brunch on a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line](http://www.spiritcruisesbaltimore.com/Baltimore/ship)
 
 #### Reservations
 
