@@ -65,12 +65,12 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 * Group Name - FGGC Onitsha Alumni Association USA/CANADA Chapter
 * Group Code -  `FGG`  
 * Check-in -  25 July 2014  
-* Check-out -  28 July 2014  
+* Check-out -  27 July 2014  
 * Rates - From 129.00 USD/Night
 
 [Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG)
 
-**Hotel Reservation Deadline:** Book by **_July 1st 2014_** to reserve a room!
+**Hotel Reservation Deadline:** Book by **_June 25th 2014_** to reserve a room!
 {: .notice}
 
 ### Air Travel
@@ -96,7 +96,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 * Adults: $59.79  
 * Kids: $44.79   
 
-**Cruise Reservation Deadline**: Last date for making boat cruise reservations is **_May 31st, 2014_**
+**Cruise Reservation Deadline**: Last date for making boat cruise reservations is **_June 30th, 2014_**
 {: .notice}
 
 ---
