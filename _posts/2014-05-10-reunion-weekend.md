@@ -70,7 +70,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 [Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG)
 
-**Hotel Reservation Deadline:** Book by **_June 25th 2014_** to reserve a room!
+**Hotel Reservation Deadline:** You have until **_July 12th 2014_** to reserve a room. But Book Now, rooms are going fast!
 {: .notice}
 
 ### Air Travel
