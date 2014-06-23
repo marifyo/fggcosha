@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "June Meeting Reminder"
+title: "July Meeting Reminder"
 description: "Join us for the next monthly meeting on July 12, 2014 at 11am EST."
 tags: [fggc osha alumni, meeting reminder]
 comments: true
