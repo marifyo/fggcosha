@@ -7,7 +7,7 @@ tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
 
-Please join us for the very important meeting on **Saturday July 19th at 11am EST**. This meeting is for the election of new officials. 
+Please join us for the very important meeting this **Saturday July 19th at 11am EST**. This meeting is for the election of new officials. 
 
 Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
 
