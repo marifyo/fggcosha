@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Election Meeting Notice - Saturday July 19th 2014"
-description: "Join us for our next meeting meeting on July 19, 2014 at 11am EST to elect the new alumni association officials."
+description: "Please join us for our meeting on July 19, 2014 at 11am EST to elect the new alumni association officials."
 tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
@@ -12,6 +12,8 @@ Our outgoing officials have done an incredible job, serving the alumni associati
 
 **Let your voice be heard**. Dial In: Saturday, July 19 2014 @ 11am EST.
 {: .notice} 
+
+> Please be punctual and inform as many people as you know.
 
 ---
 
@@ -40,5 +42,3 @@ Here are the positions and the nominees up for consideration.
 ### Public Relations Officer
 1. Ifeyinwa Obi
 
-
-> Please be punctual and inform as many people as you know.
