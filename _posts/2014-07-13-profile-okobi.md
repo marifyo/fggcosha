@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Profile of the Month - Mrs. Okobi
-description: "Check out our profile of the month - our inestimable founding principal, Mrs. Okobi"
+description: "Check out our profile of the month featuring our inestimable founding principal, Mrs. Okobi"
 modified: 2014-07-14
 tags: [fggc osha alumni, profile]
 comments: true
 image:
-  feature: reunionbanner.jpg
+  feature: okobiprofile.png
 ---
 
 ## Mrs. Okobi, 1932 – 
 
-Ask any alumni from the early years of FGGC Onitsha who their inspiration was; who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman; who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values which we would come to appreciate even more in later years; I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
+Ask any alumni from the early years of FGGC Onitsha who their inspiration was; who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman; who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values, which we would come to appreciate even more in later years; I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
 
 <br>
 **Mrs. Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe)**, principal extraordinaire, wife, mother, teacher, role model. What a woman!
@@ -35,7 +35,7 @@ She was sometimes unorthodox in her methods and approach and extremely protectiv
 Mrs. Okobi was well respected and loved, not just by her students, but also by her teachers and the parents. And we know she was so much more than that to so many others, especially her children.
 
 <br>
-Continue reading for more on her biography, as written by her daughter...
+Continue reading for more on Mrs. Okobi, as written by her daughter...
 
 ---
 
@@ -66,7 +66,6 @@ The commencement of her career witnessed strings of “firsts”, some of which 
 Describing my mother in very superlative terms will not do much justice to her, I mean, sometimes when we need them most, words fail us! She successfully conquered in all her endeavours! Her charm, intellect, integrity, charisma, compassion and firmness were evident at all times and under all circumstances. She was an adorable, caring and loving mother and wife. 
 
 <br>
-
 As a principal, she was strict but yet very approachable and compassionate. She operated in the most quiet but dynamic manner. She was a great disciplinarian, counsellor, mother and motivator. She inspired her students with confidence, self-esteem, and ambition to excel in any enterprise. She helped students to demystify their fear of mathematics and in the bargain, drew many to excel in the subject. 
 
 <br>

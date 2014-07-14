@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Election Meeting Notice - Saturday July 19th 2014"
-description: "Please join us for our important meeting on July 19, 2014 at 11am EST to elect the new alumni association officials."
+description: "Please join us for our important meeting on Saturday, July 19, 2014 at 11am EST to elect the new alumni association officials."
 tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
