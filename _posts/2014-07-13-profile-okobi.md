@@ -17,7 +17,7 @@ Ask any alumni from the early years of FGGC Onitsha who their inspiration was; w
 **Mrs. Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe)**, principal extraordinaire, wife, mother, teacher, role model. What a woman!
 
 <br>
-For those alumni who were not as fortunate to know her, there is so much that cannot be put in words, but we will try to introduce you to this very special woman.
+For those alumni who never met her, there is so much that cannot be put in words, but we will try to introduce you to this very special woman.
 
 <br>
 She was the founding principal of our alma mater, FGGC Onitsha, which was established in 1977, and was the principal for 14 years until she retired in 1991.
@@ -42,14 +42,19 @@ Continue reading for more on her biography, as written by her daughter...
 ## Mrs. Okobi's Bio 
 
 Mrs Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe) was born on the 11th of August 1932 to the family of Mr. Reuben and Mrs Florence Maduekwe who were then a Catechist of the Anglican Church and a school teacher respectively. 
+
 <br>
 As a daughter of a Catechist and teacher, she was brought up with the fear of God and was taught to be very disciplined, respectful, studious and hard working. These were VALUES that all through her life, she brought to bear in every area of her endeavour. 
+
 <br>
 She proceeded to the University College, Ibadan in 1957 and graduated in 1960 with a combined Bachelors Honours in English & Mathematics. It is significant to point out at this juncture that on her way to commence college, she was involved in an auto accident, which eventually led to the amputation of one of her legs. 
+
 <br>
 Notwithstanding this handicap, she was able to weather through the storms of life undaunted and achieved greatness. 
+
 <br>
 She became a role model, a University graduate who excelled and was not deterred by her handicap; rather she utilized every challenge in life as an inspiration to greater effort and to lofty achievements. 
+
 <br>
 The commencement of her career witnessed strings of “firsts”, some of which include: 
 
@@ -59,14 +64,20 @@ The commencement of her career witnessed strings of “firsts”, some of which 
 * In 1977, she was transferred to become the 1st Principal of Federal Girls Government College (FGGC) Onitsha where she remained till 1991 when she retired meritoriously from service. 
 
 Describing my mother in very superlative terms will not do much justice to her, I mean, sometimes when we need them most, words fail us! She successfully conquered in all her endeavours! Her charm, intellect, integrity, charisma, compassion and firmness were evident at all times and under all circumstances. She was an adorable, caring and loving mother and wife. 
+
 <br>
+
 As a principal, she was strict but yet very approachable and compassionate. She operated in the most quiet but dynamic manner. She was a great disciplinarian, counsellor, mother and motivator. She inspired her students with confidence, self-esteem, and ambition to excel in any enterprise. She helped students to demystify their fear of mathematics and in the bargain, drew many to excel in the subject. 
+
 <br>
 She was always going round her schools to monitor the activities of her students and even during the nights, she paid surprise visits to the dormitories to ensure students’ safety and compliance to the rules of light out. 
+
 <br>
 She always utilised the opportunity presented by the assembly time to address important issues regarding moral values, mode of dressing and bad habits which she always wanted to correct. Invariably, she would devise subtle means of attracting attention to the issue of concern, to ensure the lesson was understood and retained by adolescent young girls and staff. 
+
 <br>
 A graphic picture of her “methods” is exemplified in this short story: Several years ago, while battling with a systemic problem in a school she managed, she walked sluggishly into the school assembly, unusually late and dressed in a very sloppy manner. Everybody was shocked and thought their principal had gone crazy. It turned out to be merely an act in which she wanted to draw attention to the issue of indecent and careless dressing seen amongst girls. Thereafter, comportment and self confidence was inculcated and imbibed by the students and full compliance achieved. 
+
 <br>
 For us her children, she thought us that “a little thing is a little thing, but faithfulness in little things is a very GREAT thing!” While seeking to help us understand and appreciate the world around us and to apply passion, love and simplicity to all things, her teachings could be summarized in this abridged poem: 
 
@@ -85,3 +96,5 @@ How do I end this ramble?
 <br>
 *Two mice fell into a bucket of milk; one drowned but the other struggled so hard that she turned milk into butter and crawled out.  That second mouse was my mother, Late Mrs Mary Ann Ukachi Ngozi Okobi.*
 
+<br>
+*Daughter's name*
