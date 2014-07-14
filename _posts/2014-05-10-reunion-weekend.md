@@ -2,7 +2,7 @@
 layout: post
 title: 2014 Reunion Weekend, July 25th - 27th
 description: "Get all the information about the upcoming 3rd Alumni Reunion Weekend."
-modified: 2014-07-13
+modified: 2014-07-14
 tags: [fggc osha alumni, reunion weekend]
 comments: true
 image:
