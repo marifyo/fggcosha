@@ -6,7 +6,7 @@ modified: 2014-07-14
 tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
-
+## Come Cast Your Vote
 Please join us for the very important meeting this **Saturday July 19th at 11am EST**. This meeting is for the election of new officials. 
 
 <br>
