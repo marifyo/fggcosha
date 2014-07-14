@@ -22,6 +22,7 @@ image:
 ## 3rd Alumni Reunion/Convention 
 
 **_Are you ready for some fun?_**
+<br>
 
 The alumni chapter cordially invites all FGGC Onitsha alumni, along with their friends and family, to our 3rd reunion/convention weekend, which takes place this year in **Baltimore, MD**. 
 
