@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Profile of the Month - Mrs. Okobi
-description: "Get all the information about the upcoming 3rd Alumni Reunion Weekend."
+description: "Read about our profile of the month - our inestimable founding principal, Mrs. Okobi"
 modified: 2014-07-14
 tags: [fggc osha alumni, profile]
 comments: true
@@ -13,23 +13,33 @@ image:
 
 Ask any alumni from the early years of FGGC Onitsha who their inspiration was; who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman; who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values which we would come to appreciate even more in later years; and I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
 
-Mrs. Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe), principal extraordinaire, wife, mother, teacher, role model. What a woman!
+
+**Mrs. Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe)**, principal extraordinaire, wife, mother, teacher, role model. What a woman!
+
 
 For those alumni who were not as fortunate to know her, there is so much that cannot be put in words, but we will try to introduce you to this very special woman.
 
+
 She was the founding principal of our alma mater, FGGC Onitsha, which was established in 1977, and was the principal for 14 years until she retired in 1991.
+
 
 A truly remarkable woman of great character and integrity, she was not only our principal, but was also our guide. In her years as principal, she taught her charges so much, leading largely by example, while providing the discipline and structure we needed, being young girls away from home for the first time. 
 
+
 She was very intelligent, had great presence and was quite witty. She presented a sternness that somewhat belied her compassionate heart, and though strict, as one would need to be with a horde of adolescent girls, her students never doubted her good intentions. Every action of hers had a purpose and she respected her students enough to share the reasons behind her decisions and directions.
+
 
 She was sometimes unorthodox in her methods and approach and extremely protective of “her girls”, as a mother would be. Whatever the situation, her students always knew she was there for them. 
 
+
 Mrs. Okobi was well respected and loved, not just by her students, but also by her teachers and the parents. And we know she was so much more than that to so many others, especially her children.
+
 
 Continue reading for more on her biography, as written by her daughter...
 
 ---
+
+## Mrs. Okobi Bio 
 
 Mrs Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe) was born on the 11th of August 1932 to the family of Mr. Reuben and Mrs Florence Maduekwe who were then a Catechist of the Anglican Church and a school teacher respectively. 
 
@@ -42,6 +52,7 @@ Notwithstanding this handicap, she was able to weather through the storms of lif
 She became a role model, a University graduate who excelled and was not deterred by her handicap; rather she utilized every challenge in life as an inspiration to greater effort and to lofty achievements. 
 
 The commencement of her career witnessed strings of “firsts”, some of which include: 
+
 * In 1962, she became the 1st Nigerian Principal of Anglican Girls Secondary School, Ogidi (A missionary school in the present Anambra State). She was the principal here till July 1967 when the civil war broke out. 
 * In 1973, she was transferred by the Ministry of Education of the East Central State to become the 1st Non Catholic principal of a wholly owned catholic school - The Queen of the Rosary (QRC) College, Onitsha 
 * In 1975, she moved to the Federal Service and was made the 1st Principal of Federal Government Girls College (FGGC) Abuloma, Port Harcourt 
@@ -72,111 +83,5 @@ There is a little bit of happiness in every single day!"
 
 How do I end this ramble? 
 
-> Two mice fell into a bucket of milk; one drowned but the other struggled so hard that she turned milk into butter and crawled out. 
-
-That second mouse was my mother, Late Mrs Mary Ann Ukachi Ngozi Okobi.
-
-
-
-*Have you made your booking yet?*
-
-The alumni chapter cordially invites all FGGC Onitsha alumni, along with their friends and family, to our 3rd reunion/convention weekend, which takes place this year in **Baltimore, MD**. 
-
-Atlanta 2011 and Houston 2012 were great! Maryland 2014 promises to be even better. **Don't miss out. Start making your arrangements today.**
-{: .notice}
-
-
-### Why Come?
-
-1. It will be **FUN**. This year's reunion organizers have been working diligently to put together an absolutely amazing weekend that promises to entertain, excite and exceed all expectations. You just can't miss it.
-2. The opportunity to connect with a large group of your schoolmates, from across different classes, in such a vibrant and fun social setting is one you won't find anywhere else.
-3. It was largely due to the funds raised at the past two reunions that we were able to meet our initial give-back objective. Join us in helping make our next goal a reality. Let's keep on giving back.
-
-### What to Expect?
-
-> A weekend designed just for your entertainment!
-
-* **The Social Gathering**, Friday, July 25th - A night of music, fun and laughter for alumni and friends, setting the mood for the weekend. 
-* **The Boat Cruise**, Saturday, July 26th - A scenic boat cruise along the Baltimore harbor. Brunch will be served. Make sure you're a part of it! *By reservation only*. 
-* **Gala Night**, Saturday, July 26th - A formal and very special evening where there'll be great music, great food and great entertainment. *Formal Attire required*
-
----
-
-## Book Now
-
-Here is information to help you plan for the weekend.
-
-### Lodging
-
-Hotel arrangements have been made with the **DoubleTree by Hilton, Baltimore North - Pikesville** for special rates.
-
-#### Address 
-1726 Reisterstown Road  
-Pikesville, Maryland  
-USA 21208  
-Tel: +1-410-653-1100  
-Fax: +1-410-415-6232  
-_(Also the location for the Meet & Greet and Gala Events)_ 
-
-#### Group Rate Information
-To make reservations by phone, call `+1-410-653-1100` and ask for our group rate: 
- 
-* Group Name - FGGC Onitsha Alumni Association USA/CANADA Chapter
-* Group Code -  `FGG`  
-* Check-in -  25 July 2014  
-* Check-out -  27 July 2014  
-* Rates - From 129.00 USD/Night
-
-[Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG)
-
-**Hotel Reservation Deadline:** Group rate reservation deadline elapsed **_July 12th 2014_**. 
-{: .notice}
-
-### Air Travel
-
-There are three (3) airports serving the DC Metro area, any of which is in reasonable proximity to our weekend destination, Baltimore.  
-
-1. Baltimore Washington International (BWI) Airport : 7062 Elm Rd, Baltimore, MD 21240. [Directions from BWI airport to the hotel](https://www.google.com/maps/dir/Baltimore%2FWashington+International+Thurgood+Marshall+Airport,+Baltimore,+MD+21240/Doubletree-Hilton,+1726+Reisterstown+Rd,+Pikesville,+MD+21208/@39.3231229,-76.7082724,10z/am=t/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89b7e2fcbbc2e00b:0x150cfa971740!2m2!1d-76.668392!2d39.177404!1m5!1m1!1s0x89c819fff9cb969b:0xf28af64b84a5bd2a!2m2!1d-76.733504!2d39.382552).   
-2. Dulles International Airport : Sterling, VA. [Directions from Dulles airport to the hotel](https://www.google.com/maps/dir/Saarinen+Cir,+Sterling,+VA+20166/Doubletree-Hilton,+1726+Reisterstown+Rd,+Pikesville,+MD+21208/@39.2417889,-77.0649557,9z/am=t/data=!3m1!4b1!4m16!4m15!1m5!1m1!1s0x89b6474a7ed7bea5:0x682df475ac464a5f!2m2!1d-77.4468244!2d38.9555763!1m5!1m1!1s0x89c819fff9cb969b:0xf28af64b84a5bd2a!2m2!1d-76.733504!2d39.382552!2m1!6e4!3e0) 
-3. Ronald Reagan Washington National Airport : Arlington, VA. [Directions from Reagan airport to the hotel](https://www.google.com/maps/dir/Ronald+Reagan+Washington+National+Airport,+Arlington,+VA+22202/Doubletree-Hilton,+1726+Reisterstown+Rd,+Pikesville,+MD+21208/@39.2015756,-76.8513308,9z/am=t/data=!3m1!4b1!4m16!4m15!1m5!1m1!1s0x89b7b731402fe095:0x4168af016d076bad!2m2!1d-77.040231!2d38.851242!1m5!1m1!1s0x89c819fff9cb969b:0xf28af64b84a5bd2a!2m2!1d-76.733504!2d39.382552!2m1!6e4!3e0)   
-
-**Travel Tip**: The airport closest to the hotel is BWI Airport. 
-{: .notice} 
-
-### Boat Cruise 
-
-Join us for brunch on a boat cruise along the Baltimore harbor on Saturday morning of July 26th. [Click here to find out more about the cruise line](http://www.spiritcruises.com/baltimore/about)
-
-#### Reservations
-
-This is an advance reservation-only event. To reserve your spot now, send an email to [2014 Reunion Committee](mailto:maryland2014@fggconitsha.com).
-
-#### Ticket Price
-* Adults: $59.79  
-* Kids: $44.79   
-
-**Cruise Reservation Deadline**: The cruise reservation deadline has elapsed. However, please contact [2014 Reunion Committee](mailto:maryland2014@fggconitsha.com) to get shortlisted in case there are last minute cancelations.
-{: .notice}
-
----
-
-## Detailed Weekend Line-Up
-
-### - Friday, 25th July Events
-
-| Time | Event | Description | Location |
-|:--------|:--------|:-------|:--------|
-| 4pm - 8pm | Meet & Greet   |  Dinner for Alumni   | Hospitality Suite, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
-|----
-| 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
-{: rules="groups"}
-
-### - Saturday, 26th July Events
-
-| Time | Event | Description | Location |
-|:--------|:--------|:-------|:--------|
-| 11am - 2pm | Boat Cruise  | Brunch Cruise aboard The Spirit of Baltimore  | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
-|----
-| 7pm - 2am | Gala Night  |  3rd International Reunion Gala & Fundraising Event  | The Preakness Ballroom, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) |
-{: rules="groups"}
+**Two mice fell into a bucket of milk; one drowned but the other struggled so hard that she turned milk into butter and crawled out.  That second mouse was my mother, Late Mrs Mary Ann Ukachi Ngozi Okobi.**
 
