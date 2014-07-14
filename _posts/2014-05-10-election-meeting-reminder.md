@@ -1,30 +1,35 @@
 ---
 layout: post
-title: "Election Meeting Notice"
+title: "Election Meeting Notice - Saturday July 19th 2014"
 description: "Join us for our next meeting meeting on July 19, 2014 at 11am EST to elect the new alumni association officials."
 tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
 
-Please join us for the very important meeting on Saturday July 19th at 11am EST. This meeting is for the election of new officials. Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
+Please join us for the very important meeting on *Saturday July 19th at 11am EST*. This meeting is for the election of new officials. Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
 
-Let your voice be heard. Dial In: Saturday, July 19 2014 @ 11am EST.
+*Let your voice be heard*. Dial In: Saturday, July 19 2014 @ 11am EST.
 {: .notice} 
 
 ## Nominated Candidates 
 ### President
 1. Juliet Ume
-2. 
+
 ### Vice President
 1. Chiazo Asika
+
 ### Secretary
 1. Chizo Odunze
+
 ### Treasurer
 1. Ijeoma Agulefo
+
 ### Financial Secretary
 1. Ijeoma Ejiofor
+
 ### Legal Counsel
 1. Titilayo Alakija
+
 ### Public Relations Officer
 1. Ifeyinwa Obi
 
