@@ -21,11 +21,10 @@ For those alumni who never met her, there is so much that cannot be put in words
 
 <figure>
 	<a href="{{ site.url }}/images/okobigrp.gif"><img src="{{ site.url }}/images/okobigrp.gif"></a>
-	<figcaption>Mrs. Okobi and her students</figcaption>
+	<figcaption>Mrs. Okobi and a few of "her girls"</figcaption>
 </figure>
 {: .image-pull-left}
 
-<br>
 She was the founding principal of our alma mater, FGGC Onitsha, which was established in 1977, and was its principal for 14 years until she retired in 1991.
 
 <br>

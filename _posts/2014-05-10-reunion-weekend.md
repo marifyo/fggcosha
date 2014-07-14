@@ -21,7 +21,7 @@ image:
 
 ## 3rd Alumni Reunion/Convention 
 
-*Have you made your booking yet?*
+**_Are you ready for some fun?_**
 
 The alumni chapter cordially invites all FGGC Onitsha alumni, along with their friends and family, to our 3rd reunion/convention weekend, which takes place this year in **Baltimore, MD**. 
 
@@ -72,7 +72,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 [Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG)
 
-**Hotel Reservation Deadline:** Group rate reservation deadline elapsed **_July 12th 2014_**. 
+**Hotel Reservation Deadline:** Group rate reservation deadline **_July 12th 2014_** has elapsed. 
 {: .notice}
 
 ### Air Travel
