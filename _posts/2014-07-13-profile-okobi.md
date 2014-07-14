@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Profile of the Month - Mrs. Okobi
-description: "Read our profile of the month - our inestimable founding principal, Mrs. Okobi"
+description: "Check out our profile of the month - our inestimable founding principal, Mrs. Okobi"
 modified: 2014-07-14
 tags: [fggc osha alumni, profile]
 comments: true
@@ -11,12 +11,12 @@ image:
 
 ## Mrs. Okobi, 1932 – 
 
-Ask any alumni from the early years of FGGC Onitsha who their inspiration was; who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman; who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values which we would come to appreciate even more in later years; and I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
+Ask any alumni from the early years of FGGC Onitsha who their inspiration was; who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman; who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values which we would come to appreciate even more in later years; I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
 
-###
+<br>
 **Mrs. Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe)**, principal extraordinaire, wife, mother, teacher, role model. What a woman!
 
-###
+<br>
 For those alumni who were not as fortunate to know her, there is so much that cannot be put in words, but we will try to introduce you to this very special woman.
 
 
@@ -39,7 +39,7 @@ Continue reading for more on her biography, as written by her daughter...
 
 ---
 
-## Mrs. Okobi Bio 
+## Mrs. Okobi's Bio 
 
 Mrs Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe) was born on the 11th of August 1932 to the family of Mr. Reuben and Mrs Florence Maduekwe who were then a Catechist of the Anglican Church and a school teacher respectively. 
 
@@ -83,5 +83,5 @@ There is a little bit of happiness in every single day!"
 
 How do I end this ramble? 
 
-**Two mice fell into a bucket of milk; one drowned but the other struggled so hard that she turned milk into butter and crawled out.  That second mouse was my mother, Late Mrs Mary Ann Ukachi Ngozi Okobi.**
+*Two mice fell into a bucket of milk; one drowned but the other struggled so hard that she turned milk into butter and crawled out.  That second mouse was my mother, Late Mrs Mary Ann Ukachi Ngozi Okobi.*
 
