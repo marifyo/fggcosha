@@ -2,7 +2,7 @@
 layout: post
 title: 2014 Reunion Weekend, July 25th - 27th
 description: "Get all the information about the upcoming 3rd Alumni Reunion Weekend."
-modified: 2014-05-10
+modified: 2014-07-13
 tags: [fggc osha alumni, reunion weekend]
 comments: true
 image:
@@ -20,6 +20,8 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## 3rd Alumni Reunion/Convention 
+
+*Have you made your booking yet?*
 
 The alumni chapter cordially invites all FGGC Onitsha alumni, along with their friends and family, to our 3rd reunion/convention weekend, which takes place this year in **Baltimore, MD**. 
 
@@ -70,7 +72,7 @@ To make reservations by phone, call `+1-410-653-1100` and ask for our group rate
 
 [Click here to make reservations online](http://doubletree.hilton.com/en/dt/groups/personalized/P/PIKDTDT-FGG-20140725/index.jhtml?WT.mc_id=POG)
 
-**Hotel Reservation Deadline:** You have until **_July 12th 2014_** to reserve a room. But Book Now, rooms are going fast!
+**Hotel Reservation Deadline:** Group rate reservation deadline elapsed **_July 12th 2014_**. 
 {: .notice}
 
 ### Air Travel
@@ -96,7 +98,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 * Adults: $59.79  
 * Kids: $44.79   
 
-**Cruise Reservation Deadline**: Last date for making boat cruise reservations is **_June 30th, 2014_**
+**Cruise Reservation Deadline**: The cruise reservation deadline has elapsed. However, please contact [2014 Reunion Committee](mailto:maryland2014@fggconitsha.com) to get shortlisted in case there are last minute cancelations.
 {: .notice}
 
 ---
