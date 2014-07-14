@@ -38,29 +38,7 @@ Here are the positions to be filled and the nominees up for consideration.
 | Legal Counsel | Titilayo Alakija  |  
 |----
 | Public Relations Officer | Ifeyinwa Obi |  
-| Public Relations Officer | Titilayo Alakija  |  
+|  | Titilayo Alakija  |  
 |----
 {: rules="groups"}
-
-### President
-1. Juliet Ume
-
-### Vice President
-1. Chiazo Asika
-
-### Secretary
-1. Chizo Odunze
-
-### Treasurer
-1. Ijeoma Agulefo
-
-### Financial Secretary
-1. Ijeoma Ejiofor
-
-### Legal Counsel
-1. Titilayo Alakija
-
-### Public Relations Officer
-1. Ifeyinwa Obi
-2. Titilayo Alakija
 
