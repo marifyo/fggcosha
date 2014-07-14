@@ -25,20 +25,25 @@ Here are the positions to be filled and the nominees up for consideration.
 
 | Position | Nominees | 
 |:--------|:--------|
-| President | Juliet Umeh  |  
+| President | Juliet Umeh Onyido - Class of '90 |  
+|  | Chiazor Asika - Class of '90 |  
+|  | Chizo Odunze Iruchukwu - Class of '86 |  
 |----
-| Vice President | Chiazo Asika  |  
+| Vice President | Chiazor Asika - Class of '90 |  
+|  | Chiazor Asika - Class of '90 |  
+|  | Ifeoma Izuchukwu - Class of '83 |  
+|  | Titilayo Alakija - Class of '89 |  
 |----
-| Secretary | Chizo Odunze  |  
+| Secretary | Chizo Odunze Iruchukwu - Class of '86 |  
 |----
-| Treasurer | Ijeoma Agulefo  |  
+| Financial Secretary | Ijeoma Ejiofor Onwuogu - Class of '90 |  
 |----
-| Financial Secretary | Ijeoma Ejiofor  |  
+| Treasurer | Ijeoma Agulefo Obunse - Class of '89 |  
 |----
-| Legal Counsel | Titilayo Alakija  |  
+| Legal Counsel | Titilayo Alakija - Class of '89 |  
 |----
-| Public Relations Officer | Ifeyinwa Obi |  
-|  | Titilayo Alakija  |  
+| Public Relations Officer | Ifeyinwa Obi - Class of '89 |  
+|  | Titilayo Alakija - Class of '89 |  
 |=====
 {: rules="groups"}
 
