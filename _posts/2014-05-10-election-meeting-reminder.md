@@ -19,7 +19,7 @@ Our outgoing officials have done an incredible job, serving the alumni associati
 
 ## Executive Positions and Nominees
 
-Here are the positions and the nominees up for consideration. 
+Here are the positions to be filled and the nominees up for consideration. 
 
 ### President
 1. Juliet Ume
@@ -41,4 +41,5 @@ Here are the positions and the nominees up for consideration.
 
 ### Public Relations Officer
 1. Ifeyinwa Obi
+2. Titilayo Alakija
 

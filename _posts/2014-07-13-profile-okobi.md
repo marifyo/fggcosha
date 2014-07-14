@@ -11,7 +11,7 @@ image:
 
 ## Mrs. Okobi, 1932 – 
 
-Ask any alumni from the early years of FGGC Onitsha who their inspiration was; who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman; who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values, which we would come to appreciate even more in later years; I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
+Ask any alumni from the early years of FGGC Onitsha who their inspiration was, who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman, who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values, which we would come to appreciate even more in later years; I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
 
 <br>
 **Mrs. Mary Ann Ukachi Ngozi Okobi (Nee Maduekwe)**, principal extraordinaire, wife, mother, teacher, role model. What a woman!
@@ -19,14 +19,20 @@ Ask any alumni from the early years of FGGC Onitsha who their inspiration was; w
 <br>
 For those alumni who never met her, there is so much that cannot be put in words, but we will try to introduce you to this very special woman.
 
+<figure>
+	<a href="{{ site.url }}/images/okobigrp.gif"><img src="{{ site.url }}/images/okobigrp.gif"></a>
+	<figcaption>Mrs. Okobi and her students</figcaption>
+</figure>
+{: .image-pull-left}
+
 <br>
-She was the founding principal of our alma mater, FGGC Onitsha, which was established in 1977, and was the principal for 14 years until she retired in 1991.
+She was the founding principal of our alma mater, FGGC Onitsha, which was established in 1977, and was its principal for 14 years until she retired in 1991.
 
 <br>
 A truly remarkable woman of great character and integrity, she was not only our principal, but was also our guide. In her years as principal, she taught her charges so much, leading largely by example, while providing the discipline and structure we needed, being young girls away from home for the first time. 
 
 <br>
-She was very intelligent, had great presence and was quite witty. She presented a sternness that somewhat belied her compassionate heart, and though strict, as one would need to be with a horde of adolescent girls, her students never doubted her good intentions. Every action of hers had a purpose and she respected her students enough to share the reasons behind her decisions and directions.
+She was very intelligent, had great presence and was quite witty. She presented a stern demeanor that somewhat belied her compassionate heart, and though strict, as one would need to be with a horde of adolescent girls, her students never doubted her good intentions. Every action of hers had a purpose and she respected her students enough to share the reasons behind her decisions and directions.
 
 <br>
 She was sometimes unorthodox in her methods and approach and extremely protective of “her girls”, as a mother would be. Whatever the situation, her students always knew she was there for them. 
