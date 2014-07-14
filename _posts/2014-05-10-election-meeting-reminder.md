@@ -6,12 +6,19 @@ tags: [fggc osha alumni, meeting reminder]
 comments: true
 ---
 
-Please join us for the very important meeting on *Saturday July 19th at 11am EST*. This meeting is for the election of new officials. Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
+Please join us for the very important meeting on **Saturday July 19th at 11am EST**. This meeting is for the election of new officials. 
 
-*Let your voice be heard*. Dial In: Saturday, July 19 2014 @ 11am EST.
+Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
+
+**Let your voice be heard**. Dial In: Saturday, July 19 2014 @ 11am EST.
 {: .notice} 
 
-## Nominated Candidates 
+---
+
+## Executive Positions and Nominees
+
+Here are the positions and the nominees up for consideration. 
+
 ### President
 1. Juliet Ume
 
