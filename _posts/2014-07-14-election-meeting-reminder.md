@@ -12,7 +12,7 @@ Please join us for the very important meeting this **Saturday July 19th at 11am 
 <br>
 Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
 
-**Let your voice be heard**. Dial In: Saturday, July 19 2014 @ 11am EST.
+**Let your voice be heard. Dial In: Saturday, July 19 2014 @ 11am EST.**
 {: .notice} 
 
 > Please be punctual and inform as many people as you know.
@@ -39,6 +39,6 @@ Here are the positions to be filled and the nominees up for consideration.
 |----
 | Public Relations Officer | Ifeyinwa Obi |  
 |  | Titilayo Alakija  |  
-|----
+|=====
 {: rules="groups"}
 
