@@ -34,7 +34,7 @@ A truly remarkable woman of great character and integrity, she was not only our 
 She was very intelligent, had great presence and was quite witty. She presented a stern demeanor that somewhat belied her compassionate heart, and though strict, as one would need to be with a horde of adolescent girls, her students never doubted her good intentions. Every action of hers had a purpose and she respected her students enough to share the reasons behind her decisions and directions.
 
 <br>
-She was sometimes unorthodox in her methods and approach and extremely protective of “her girls”, as a mother would be. Whatever the situation, her students always knew she was there for them. 
+She was sometimes unorthodox in her methods and approach and extremely protective of “her girls”, as a good mother would be. Whatever the situation, her students always knew she was there for them. 
 
 <br>
 Mrs. Okobi was well respected and loved, not just by her students, but also by her teachers and the parents. And we know she was so much more than that to so many others, especially her children.
