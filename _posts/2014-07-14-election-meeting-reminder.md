@@ -34,24 +34,24 @@ Here are the positions to be filled and the nominees up for election.
 |  | Titilayo Alakija - Class of '89 |  
 |----
 | Secretary | Chizo Odunze Irechukwu - Class of '86 |  
-|  | <nominee pending> |  
-|  | <nominee pending> |  
+|  | nominee pending |  
+|  | nominee pending |  
 |----
 | Financial Secretary | Ijeoma Ejiofor Onwuogu - Class of '90 |  
 |  | Chinwe Onyekwelu Abaelu - Class of '89 |  
-|  | <nominee pending> |  
+|  | nominee pending |  
 |----
 | Treasurer | Ijeoma Agulefo Obunse - Class of '89 |  
-|  | <nominee pending> |  
-|  | <nominee pending> |  
+|  | nominee pending |  
+|  | nominee pending |  
 |----
 | Legal Counsel | Titilayo Alakija - Class of '89 |  
-|  | <nominee pending> |  
-|  | <nominee pending> |  
+|  | nominee pending |  
+|  | nominee pending |  
 |----
 | Public Relations Officer | Ifeyinwa Obi - Class of '89 |  
 |  | Titilayo Alakija - Class of '89 |  
-|  | <nominee pending> |  
+|  | nominee pending |  
 |=====
 {: rules="groups"}
 
