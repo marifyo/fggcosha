@@ -10,9 +10,9 @@ comments: true
 Please join us for the very important meeting this **Saturday, July 19th at 11am EST**. This meeting is for the election of new officials. 
 
 <br>
-Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the wonderful work.
+Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the amazing work.
 
-**Saturday, July 19 2014 @ 11am EST.**  <br> Let your voice be heard. Contact [Stella Chuke](mailto:stella.chuke@fggconitsha.com) for Dial-In details.
+**Saturday, July 19 2014 @ 11am EST**  <br> Let your voice be heard. Contact [Stella Chuke](mailto:stella.chuke@fggconitsha.com) for Dial-In details
 {: .notice} 
 
 <br>
@@ -56,7 +56,7 @@ Here are the positions to be filled and the nominees up for election.
 |=====
 {: rules="groups"}
 
-If you have a candidate for the nominee positions still open, please send this information to [Stella Chuke](mailto:stella.chuke@fggconitsha.com) before Thursday, July 17th 2014.
+If you have a candidate for the nominee positions still available as shown above, please send this information to [Stella Chuke](mailto:stella.chuke@fggconitsha.com) before Thursday, July 17th 2014.
 
 <br>
 **_Final nominee list will be published on Thursday, July 17th 2014_**
