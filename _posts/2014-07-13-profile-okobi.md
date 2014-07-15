@@ -37,7 +37,7 @@ She was very intelligent, had great presence and was quite witty. She presented 
 She was sometimes unorthodox in her methods and approach and extremely protective of “her girls”, as a good mother would be. Whatever the situation, her students always knew she was there for them. 
 
 <br>
-Mrs. Okobi was well respected and loved, not just by her students, but also by her teachers and the parents. And we know she was so much more than that to so many others, especially her children.
+Mrs. Okobi was very well respected and loved, not just by her students, but also by the parents and staff. And we know she was so much more than that to so many others, especially her children.
 
 <br>
 Continue reading for more on Mrs. Okobi, in the words of her daughter...
