@@ -40,7 +40,7 @@ She was sometimes unorthodox in her methods and approach and extremely protectiv
 Mrs. Okobi was well respected and loved, not just by her students, but also by her teachers and the parents. And we know she was so much more than that to so many others, especially her children.
 
 <br>
-Continue reading for more on Mrs. Okobi, as written by her daughter...
+Continue reading for more on Mrs. Okobi, in the words of her daughter...
 
 ---
 
