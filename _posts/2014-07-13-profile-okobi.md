@@ -97,8 +97,9 @@ There is a little bit of happiness in every single day!"
 {% endhighlight %}
 
 How do I end this ramble? 
+
 <br>
 *Two mice fell into a bucket of milk; one drowned but the other struggled so hard that she turned milk into butter and crawled out.  That second mouse was my mother, Late Mrs Mary Ann Ukachi Ngozi Okobi.*
 
 <br>
-*Dumebi Okobi, Class of 1989*
+*~ Dumebi Okobi, Class of 1989*
