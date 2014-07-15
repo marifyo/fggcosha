@@ -21,19 +21,19 @@ Our outgoing officials have done an incredible job, serving the alumni associati
 
 ## Executive Positions and Nominees
 
-Here are the positions to be filled and the nominees up for consideration. 
+Here are the positions to be filled and the nominees up for election. 
 
 | Position | Nominees | 
 |:--------|:--------|
 | President | Juliet Umeh Onyido - Class of '90 |  
 |  | Chiazor Asika - Class of '90 |  
-|  | Chizo Odunze Iruchukwu - Class of '86 |  
+|  | Chizo Odunze Irechukwu - Class of '86 |  
 |----
 | Vice President | Chiazor Asika - Class of '90 |  
 |  | Ifeoma Izuchukwu - Class of '83 |  
 |  | Titilayo Alakija - Class of '89 |  
 |----
-| Secretary | Chizo Odunze Iruchukwu - Class of '86 |  
+| Secretary | Chizo Odunze Irechukwu - Class of '86 |  
 |----
 | Financial Secretary | Ijeoma Ejiofor Onwuogu - Class of '90 |  
 |  | Chinwe Onyekwelu Abaelu - Class of '89 |  
