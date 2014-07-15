@@ -30,13 +30,13 @@ Here are the positions to be filled and the nominees up for consideration.
 |  | Chizo Odunze Iruchukwu - Class of '86 |  
 |----
 | Vice President | Chiazor Asika - Class of '90 |  
-|  | Chiazor Asika - Class of '90 |  
 |  | Ifeoma Izuchukwu - Class of '83 |  
 |  | Titilayo Alakija - Class of '89 |  
 |----
 | Secretary | Chizo Odunze Iruchukwu - Class of '86 |  
 |----
 | Financial Secretary | Ijeoma Ejiofor Onwuogu - Class of '90 |  
+|  | Chinwe Onyekwelu Abaelu - Class of '89 |  
 |----
 | Treasurer | Ijeoma Agulefo Obunse - Class of '89 |  
 |----
