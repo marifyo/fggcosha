@@ -110,16 +110,17 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
-| 4pm - 8pm | Meet & Greet   |  Dinner for Alumni   | Hospitality Suite, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
+| 4pm - 6.30pm | Meet & Greet   |  Dinner for Alumni   | Hospitality Suite 520, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
+| 6.30pm - 8.30pm | General Meeting   |  Alumni General Meeting    | Hospitality Suite 520, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
 |----
-| 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
+| 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends. Wear an Orange Top   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
 {: rules="groups"}
 
 ### - Saturday, 26th July Events
 
 | Time | Event | Description | Location |
 |:--------|:--------|:-------|:--------|
-| 11am - 2pm | Boat Cruise  | Brunch Cruise aboard The Spirit of Baltimore  | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
+| 11am - 2pm | Boat Cruise  | Brunch Cruise aboard The Spirit of Baltimore . Wear your FGGC Osha Yellow T-shirt | [Spirit Cruises](http://www.spiritcruises.com/baltimore),  561 Light Street, Baltimore, MD 21202   |
 |----
 | 7pm - 2am | Gala Night  |  3rd International Reunion Gala & Fundraising Event  | The Preakness Ballroom, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) |
 {: rules="groups"}

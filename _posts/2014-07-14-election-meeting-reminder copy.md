@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Election Meeting Notice - Saturday July 19th 2014"
-description: "Please join us for our important meeting on Saturday, July 19, 2014 at 11am EST to elect the new alumni association officials."
+description: "Please join us for an important meeting on Saturday, July 19, 2014 at 11am EST to elect the new alumni association officials."
 modified: 2014-07-14
 tags: [fggc osha alumni, meeting reminder]
 comments: true
@@ -35,7 +35,7 @@ Here are the positions to be filled and the nominees up for election.
 |  | Titilayo Alakija - Class of '89 |  
 |----
 | Secretary | Chizo Odunze Irechukwu - Class of '86 |  
-|  | - *2nd nominee pending* -  |  
+|  | Chito Onochie Uwanwune - Class of '90 |  
 |  | - *3rd nominee pending* - |  
 |----
 | Financial Secretary | Ijeoma Ejiofor Onwuogu - Class of '90 |  
@@ -43,20 +43,18 @@ Here are the positions to be filled and the nominees up for election.
 |  | - *3rd nominee pending* - |  
 |----
 | Treasurer | Ijeoma Agulefo Obunse - Class of '89 |  
-|  | - *2nd nominee pending* - |  
+|  | Adaobi Okafor - Class of '88 |  
 |  | - *3rd nominee pending* - |  
 |----
 | Legal Counsel | Titilayo Alakija - Class of '89 |  
-|  | - *2nd nominee pending* - |  
+|  | Ngozi Balonwu - Class of '88 |  
 |  | - *3rd nominee pending* - |  
 |----
 | Public Relations Officer | Ifeyinwa Obi - Class of '89 |  
 |  | Titilayo Alakija - Class of '89 |  
-|  | - *3rd nominee pending* - |  
+|  | Chiazor Asika - Class of '90 |  
 |=====
 {: rules="groups"}
 
-If you have a candidate for the nominee positions still available as shown above, please send this information to [Stella Chuke](mailto:stella.chuke@fggconitsha.com) before Thursday, July 17th 2014.
-
 <br>
-**_Final nominee list will be published on Thursday, July 17th 2014_**
+**_This is the final nominee list_**
