@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MD 2014 Reunion Weekend - Schedule, Directions and "
+title: "Get your Reunion Logistics Information - Schedule, Directions ..."
 description: "Check out the full schedule of events for MD 2014 Alumni Reunion"
 modified: 2014-07-17
 tags: [fggc osha alumni, meeting reminder]
@@ -11,26 +11,26 @@ comments: true
 
 ### Friday July 25, 2014 
 
-| | |
+| |  |
 |:--------|:--------|
-| 4:30pm to 6:30pm  | Meet and Greet. Dinner for Alumni at the Hospitality Suite Room 520 at Double Tree Hilton Pikesville |  
+| 4:30pm - 6:30pm  | Meet and Greet. Dinner for Alumni at the Hospitality Suite Room 520 at Double Tree Hilton Pikesville |  
 |----
-| 6:30pm to 8:30pm | General Meeting at Room 520 | 
+| 6:30pm - 8:30pm | General Meeting at Room 520 | 
 |----
-| 10pm to 1am | Social Gathering at The VIP Lounge at Peju’s Lounge <br> **_Wear an Orange Top_** <br> 1724 Woodlawn Drive, Baltimore, MD 21207 | 
+| 10pm - 1am | Social Gathering at The VIP Lounge at Peju’s Lounge <br> **_Wear an Orange Top_** <br> 1724 Woodlawn Drive, Baltimore, MD 21207 | 
 |=====
 {: rules="groups"}
 
 
 ### Saturday July 26, 2014 
 
-| | | 
+| Time | Event Details | 
 |:--------|:--------|
-| 11am to 2pm | Brunch Cruise aboard the Spirit of Baltimore <br> **_Wear your F.G.G.C Yellow T-Shirt_**  <br> 561 Light Street, Baltimore, MD 21202 |  
+| 11am - 2pm | Brunch Cruise aboard the Spirit of Baltimore <br> **_Wear your F.G.G.C Yellow T-Shirt_**  <br> 561 Light Street, Baltimore, MD 21202 |  
 |----
-| 7pm to 2am | 3rd International Reunion Gala at the Preakness Ballroom <br> Not Nigerian time, be punctual! <br> | 
+| 7pm - 2am | 3rd International Reunion Gala at the Preakness Ballroom <br> Not Nigerian time, be punctual! <br> | 
 |----
-| 10pm to 1am | Social Gathering at The VIP Lounge at Peju’s Lounge <br> **_Wear an Orange Top_** <br> 1724 Woodlawn Drive, Baltimore, MD 21207 <br> DoubleTree by Hilton Pikesville, 1726 Reisterstown Road, Baltimore MD 21208 | 
+| 10pm - 1am | Social Gathering at The VIP Lounge at Peju’s Lounge <br> **_Wear an Orange Top_** <br> 1724 Woodlawn Drive, Baltimore, MD 21207 <br> DoubleTree by Hilton Pikesville, 1726 Reisterstown Road, Baltimore MD 21208 | 
 |=====
 {: rules="groups"}
 
