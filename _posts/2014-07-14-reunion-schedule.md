@@ -25,7 +25,7 @@ comments: true
 
 ### Saturday July 26, 2014 
 
-|  |  | 
+|  Time | Event Description | 
 |:--------|:--------|
 | 11am - 2pm | Brunch Cruise aboard the Spirit of Baltimore <br> 561 Light Street, Baltimore, MD 21202 <br> **_Wear your F.G.G.C Yellow T-Shirt_** |  
 |----

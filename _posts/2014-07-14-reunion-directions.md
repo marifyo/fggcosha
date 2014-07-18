@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reunion Info - Directions to Events"
-description: "All set for the weekend? Get directions to all the weekend events right here."
+description: "All set for the weekend? Wondering where all the action is? Get directions to all the weekend events right here."
 modified: 2014-07-17
 tags: [fggc osha alumni, reunion]
 categories: [reunion]

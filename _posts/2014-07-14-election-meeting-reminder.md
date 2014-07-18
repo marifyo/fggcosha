@@ -36,19 +36,15 @@ Here are the positions to be filled and the nominees up for election.
 |----
 | Secretary | Chizo Odunze Irechukwu - Class of '86 |  
 |  | Chito Onochie Uwanwune - Class of '90 |  
-|  | - *3rd nominee pending* - |  
 |----
 | Financial Secretary | Ijeoma Ejiofor Onwuogu - Class of '90 |  
 |  | Chinwe Onyekwelu Abaelu - Class of '89 |  
-|  | - *3rd nominee pending* - |  
 |----
 | Treasurer | Ijeoma Agulefo Obunse - Class of '89 |  
 |  | Adaobi Okafor - Class of '88 |  
-|  | - *3rd nominee pending* - |  
 |----
 | Legal Counsel | Titilayo Alakija - Class of '89 |  
 |  | Ngozi Balonwu - Class of '88 |  
-|  | - *3rd nominee pending* - |  
 |----
 | Public Relations Officer | Ifeyinwa Obi - Class of '89 |  
 |  | Titilayo Alakija - Class of '89 |  
