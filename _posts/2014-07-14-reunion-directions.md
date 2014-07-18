@@ -23,6 +23,8 @@ comments: true
 11. Keep right at the fork, follow signs for Pikesville/Maryland 140 S and merge onto MD-140 E/Reisterstown Rd
 12. Destination will be on the right
 
+---
+
 ## Directions from Reagan National Airport to Pikesville Hilton DoubleTree
 
 1. Head southeast on Aviation Drive
@@ -39,6 +41,8 @@ comments: true
 12. Take exit 20 for MD-140 Reisterstown Road toward Pikesville/Garrison
 13. Keep right at the fork, follow signs for Pikesville/Maryland 140S and merge onto MD-140 E/Reisterstown Rd 
 
+---
+
 ## Directions from Pikesville Hilton to Peju’s (Friday Night Event)
 1. Get on I-695 W from Reisterstown Road
 2. Head southeast on Reisterstown Rd
@@ -49,8 +53,10 @@ comments: true
 7. Keep left at the fork; follow signs for Maryland 122 E/Security Blvd E/Woodlawn
 8. Turn left onto Security Blvd
 9. Turn left onto Woodlawn Dr
-10. At the first light turn left
-11. Turn right Peju’s is at the corner in the shopping strip.
+10. At the first light, turn left
+11. Turn right, Peju’s is at the corner in the shopping strip.
+
+--- 
 
 ## Directions to Spirit of Baltimore Parking Garage at Royal Sonesta Hotel from Pikesville Hilton DoubleTree
 
@@ -63,8 +69,7 @@ comments: true
 7. Turn right onto E Pleasant St
 8. Turn left onto MD-2 S
 9. Turn right onto E Lee St
-10. Turn Right to enter the Royal Sonesta Garage
+10. Turn right to enter the Royal Sonesta Garage
 
 To get to the boat walk cross Light Street and walk straight toward water. The boats are on the left.
 
---- 

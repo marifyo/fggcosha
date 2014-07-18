@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "Reunion Info - Schedule of Events"
-description: "Check out the full list of the events lined up for the reunion weekend"
+description: "Check out the full schedule of the events lined up for the reunion weekend."
 modified: 2014-07-17
 tags: [fggc osha alumni, reunion]
 categories: [reunion]
 comments: true
 ---
 
-## Schedule of Events
-
-### Friday July 25, 2014 
+## Friday July 25, 2014 
 
 | Time | Event Description |
 |:--------|:--------|
@@ -23,7 +21,7 @@ comments: true
 {: rules="groups"}
 
 
-### Saturday July 26, 2014 
+## Saturday July 26, 2014 
 
 |  Time | Event Description | 
 |:--------|:--------|
@@ -34,6 +32,6 @@ comments: true
 {: rules="groups"}
 
 
-### Sunday July 27, 2014 
+## Sunday July 27, 2014 
 * Alumni Departs
 
