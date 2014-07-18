@@ -4,6 +4,7 @@ title: Spotlight Corner - Mrs. Okobi
 description: "Check out our Spotlight Corner - Celebrating Women's Achievements, featuring our inestimable founding principal, Mrs. Okobi"
 modified: 2014-07-14
 tags: [fggc osha alumni, profile]
+categories: [spotlight]
 comments: true
 image:
   feature: okobiprofile.png

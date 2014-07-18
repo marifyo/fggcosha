@@ -57,10 +57,22 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap"> 
+  {% unless post.category == "reunion"%}
+  <div class="related-articles">
+  <h4>Check out other reunion information <small class="pull-right">(<a href="{{ site.url }}/posts/">View all reunion info</a>)</small></h4>
+    <ul>
+	{% for post in site.categories.reunion %}
+       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <hr />
+  </div> 
+  {% endunless %}
 <!--
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
     <ul>
+
     {% for post in site.related_posts limit:3 %}
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endfor %}
