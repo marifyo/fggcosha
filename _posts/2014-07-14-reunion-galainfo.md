@@ -8,7 +8,7 @@ categories: [reunion]
 comments: true
 ---
 
-It's not just dining and dancing we have lined up for the Saturday night party. There will be lots of fun goings-on and you'll have a chance to sign up and win some of these fabulous prizes.
+It's not just dining and dancing we have lined up for the Saturday night party. There will be lots of fun goings-on and you'll have a chance to sign up and win some of these fabulous prizes:
 
 1. Bags by Le Look
 2. An electric tooth brush
@@ -18,7 +18,7 @@ It's not just dining and dancing we have lined up for the Saturday night party. 
 6. Gift basket from Heralph Beauty Product
 7. Cook Book from our very own Nkiru Iweka
 
-Don't miss out! And don't forget, this is also a fundraising for us to give back to our alma mater so come prepared with your hearts open and your pockets well lined.
+Don't miss out! And don't forget, this is also a fundraising for us to give back to our alma mater so **_come prepared with your hearts open and your pockets well lined_**.
 
 <br>
 

@@ -11,7 +11,7 @@ comments: true
 ## Schedule of Events
 
 ### Friday July 25, 2014 
-| |  |
+| Time | Event Description |
 |:--------|:--------|
 | 4:30pm - 6:30pm  | Meet and Greet. Dinner for Alumni at the Hospitality Suite Room 520 at Double Tree Hilton Pikesville |  
 |----
