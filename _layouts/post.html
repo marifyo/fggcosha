@@ -57,7 +57,8 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap"> 
-  {% unless page.category == "reunion"%}
+ {% for pc in page.categories %}
+ {% if pc == "reunion" %}
   <div class="related-articles">
   <h4>Check out other reunion information </h4>
     <ul>
@@ -69,7 +70,8 @@
     </ul>
     <hr />
   </div> 
-  {% endunless %}
+  {% endif %}
+  {% endfor %}
 <!--
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
