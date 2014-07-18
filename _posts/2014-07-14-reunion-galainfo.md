@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reunion Information - Great Raffle Prizes on Gala Night!"
+title: "Reunion Info - Great Raffle Prizes on Gala Night!"
 description: "Check out the fabulous raffle prizes you can win at the Gala night."
 modified: 2014-07-17
 tags: [fggc osha alumni, reunion]
