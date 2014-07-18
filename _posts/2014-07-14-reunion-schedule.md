@@ -11,6 +11,7 @@ comments: true
 
 ### Friday July 25, 2014 
 
+| | |
 |:--------|:--------|
 | 4:30pm to 6:30pm  | Meet and Greet. Dinner for Alumni at the Hospitality Suite Room 520 at Double Tree Hilton Pikesville |  
 |----
@@ -23,6 +24,7 @@ comments: true
 
 ### Saturday July 26, 2014 
 
+| | | 
 |:--------|:--------|
 | 11am to 2pm | Brunch Cruise aboard the Spirit of Baltimore <br> **_Wear your F.G.G.C Yellow T-Shirt_**  <br> 561 Light Street, Baltimore, MD 21202 |  
 |----
