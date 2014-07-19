@@ -1,22 +1,22 @@
 ---
 layout: post
 title: "Election Update"
-description: "Please join us for an important meeting on Saturday, July 19, 2014 at 11am EST to elect the new alumni association officials."
+description: "Get the latest news on the election of our Executives!"
 modified: 2014-07-14
 tags: [fggc osha alumni, meeting reminder]
 comments: true
 published: true
 ---
-Thanks to all those who dialed in for the Election Meeting.
+Thanks to all those who dialed into the Election Meeting on Saturday, July 19th. As always, your attendance is highly valued.
 
 <br>
 The election has now been moved to SurveyMonkey in order to allow all members of the alumni chapter to participate.
 
 <br>
-All members would have received an email with a link to the SurveyMonkey site so that they can cast their votes.
+All members should have received an email from our Secretary, Stella Chuke, with a link to the SurveyMonkey site so that they can cast their votes.
 
 <br>
-The voting will be open till 11.50PM ET on Monday, 21st July 2014. 
+**_The voting will be open till 11.50PM ET on Monday, 21st July 2014._** 
 
 <br>
 Please check your emails and go and cast your vote. Your voice is important!
