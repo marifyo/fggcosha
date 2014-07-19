@@ -1,23 +1,25 @@
 ---
 layout: post
-title: "Election Meeting Notice - Saturday July 19th 2014"
+title: "Election Update"
 description: "Please join us for an important meeting on Saturday, July 19, 2014 at 11am EST to elect the new alumni association officials."
 modified: 2014-07-14
 tags: [fggc osha alumni, meeting reminder]
 comments: true
-published: false
+published: true
 ---
-## Come Cast Your Vote
-Please join us for the very important meeting this **Saturday, July 19th at 11am EST**. This meeting is for the election of new officials. 
+Thanks to all those who dialed in for the Election Meeting.
 
 <br>
-Our outgoing officials have done an incredible job, serving the alumni association and community for the past 4 years. Now it is time to pass the torch to another capable team to carry on the amazing work.
-
-**Saturday, July 19 2014 @ 11am EST**  <br> Let your voice be heard. Contact [Stella Chuke](mailto:stella.chuke@fggconitsha.com) for Dial-In details
-{: .notice} 
+The election has now been moved to SurveyMonkey in order to allow all members of the alumni chapter to participate.
 
 <br>
-Please be punctual and inform as many people as you know.
+All members would have received an email with a link to the SurveyMonkey site so that they can cast their votes.
+
+<br>
+The voting will be open till 11.50PM ET on Monday, 21st July 2014. 
+
+<br>
+Please check your emails and go and cast your vote. Your voice is important!
 
 ---
 
@@ -54,4 +56,3 @@ Here are the positions to be filled and the nominees up for election.
 {: rules="groups"}
 
 <br>
-**_This is the final nominee list_**
