@@ -22,3 +22,4 @@ Don't miss out! And don't forget, this is also a fundraising for us to give back
 
 <br>
 
+> Got questions about the weekend? Please call 213-533-9760.

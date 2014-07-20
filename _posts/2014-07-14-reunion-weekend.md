@@ -126,3 +126,4 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 | 7pm - 2am | Gala Night  |  3rd International Reunion Gala & Fundraising Event  | The Preakness Ballroom, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html) |
 {: rules="groups"}
 
+> Got questions about the weekend? Please call 213-533-9760.

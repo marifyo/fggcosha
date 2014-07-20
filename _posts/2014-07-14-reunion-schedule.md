@@ -35,3 +35,4 @@ comments: true
 ## Sunday July 27, 2014 
 * Alumni Departs
 
+> Got questions about the weekend? Please call 213-533-9760.

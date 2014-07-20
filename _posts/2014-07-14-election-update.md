@@ -16,7 +16,7 @@ The election has now been moved to SurveyMonkey in order to allow all members of
 All members should have received an email from our Secretary, Stella Chuke, with a link to the SurveyMonkey site so that they can cast their votes.
 
 <br>
-**_The voting will be open till 11.50PM ET on Monday, 21st July 2014._** 
+**_The voting will be open till 11.59PM ET on Monday, 21st July 2014._** 
 
 <br>
 Please check your emails and go and cast your vote. Your voice is important!
