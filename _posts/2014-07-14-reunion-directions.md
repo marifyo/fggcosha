@@ -73,5 +73,7 @@ comments: true
 
 To get to the boat walk cross Light Street and walk straight toward water. The boats are on the left.
 
+---
+
 > Got questions about the weekend? Please call 213-533-9760.
 
