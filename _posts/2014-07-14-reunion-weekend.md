@@ -5,7 +5,8 @@ description: "Get all the information about the upcoming 3rd Alumni Reunion Week
 modified: 2014-07-14
 tags: [fggc osha alumni, reunion weekend]
 categories: [reunion]
-comments: false
+comments: true
+published: false
 image:
   feature: reunionbanner.jpg
 ---
