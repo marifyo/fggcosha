@@ -6,6 +6,7 @@ modified: 2014-07-17
 tags: [fggc osha alumni, reunion]
 categories: [reunion]
 comments: true
+published: false
 ---
 
 ## Friday July 25, 2014 
@@ -16,7 +17,7 @@ comments: true
 |----
 | 6:30pm - 8:30pm | General Meeting at Room 520 | 
 |----
-| 10pm - 1am | Social Gathering at The VIP Lounge at Peju’s Lounge <br> 1724 Woodlawn Drive, Baltimore, MD 21207  <br> **_Wear an Orange Top_** | 
+| 10pm - 1.45am | Social Gathering at The VIP Lounge at Peju’s Lounge <br> 1724 Woodlawn Drive, Baltimore, MD 21207  <br> **_Wear an Orange Top_** | 
 |=====
 {: rules="groups"}
 

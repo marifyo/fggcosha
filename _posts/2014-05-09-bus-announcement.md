@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Giving Back: The Bus is Here"
-description: "The school bus donated by the chapter has been delivered. Read about our success story."
+description: "The school bus donated by the chapter has been delivered! Read about our success story and be inspired to get in on the action."
 tags: [sample post, images, test]
 comments: true
 ---

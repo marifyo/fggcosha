@@ -5,7 +5,7 @@ description: "Get all the information about the upcoming 3rd Alumni Reunion Week
 modified: 2014-07-14
 tags: [fggc osha alumni, reunion weekend]
 categories: [reunion]
-comments: true
+comments: false
 image:
   feature: reunionbanner.jpg
 ---
@@ -114,7 +114,7 @@ This is an advance reservation-only event. To reserve your spot now, send an ema
 | 4pm - 6.30pm | Meet & Greet   |  Dinner for Alumni   | Hospitality Suite 520, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
 | 6.30pm - 8.30pm | General Meeting   |  Alumni General Meeting    | Hospitality Suite 520, [DoubleTree by Hilton, Pikesville MD](http://doubletree3.hilton.com/en/hotels/maryland/doubletree-by-hilton-hotel-baltimore-north-pikesville-PIKDTDT/index.html)  |
 |----
-| 10pm - 1am | Social Gathering   |  Informal party for Alumni & Friends. Wear an Orange Top   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
+| 10pm - 1.45am | Social Gathering   |  Party for Alumni & Friends. Wear an Orange Top   | [Peju’s Lounge](http://www.pejuskitchen.com), 1724 Woodlawn Drive, Baltimore, MD 21207  |
 {: rules="groups"}
 
 ### - Saturday, 26th July Events
