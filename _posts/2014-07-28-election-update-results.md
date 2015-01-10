@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Election Update - Meet Our New Executives Elect"
+title: "Meet Our New Executives Elect"
 description: "The results are in. Get the latest news on the election of our Executives!"
-modified: 2014-07-14
+modified: 2014-08-11
 tags: [fggc osha alumni, meeting reminder]
 comments: true
-published: true
+published: false
 ---
 Thanks to all your votes, the new Executives have been elected! 
 
@@ -28,7 +28,7 @@ Now, meet our new Executives-Elect who have been mandated with carrying on the w
 |----
 | Vice President | Chiazor Asika <br> Class of '90 | Uche Stella Ibeziako Onwuta <br> Class of '82 | 
 |----
-| Secretary | Chizo Odunze Irechukwu <br> Class of '86 | Stella O. Chuke <br> Class of '85 | 
+| Secretary | Ijeoma Ejiofor Onwuogu <br> Class of '90  | Stella O. Chuke <br> Class of '85 | 
 |----
 | Financial Secretary | Chinwe Onyekwelu Abaelu <br> Class of '89 | Ifeyinwa Brown Halilu <br> Class of '82 |
 |----
@@ -39,6 +39,8 @@ Now, meet our new Executives-Elect who have been mandated with carrying on the w
 | Public Relations Officer/Web Administrator | Ifeyinwa Obi <br> Class of '89 |  |
 |=====
 {: rules="groups"}
+
+> Note: *Ijeoma Ejiofor Onwuogu* was nominated to the Secretary role at our meeting of August 9th, 2014, replacing Chizo Odunze Irechukwu, our previously elected candidate. For personal reasons, Mrs. Irechukwu is unable to take on the Secretary role at this time. We appreciate all the support and hands-on participation in the Alumni activities and especially the MD Reunion planning, and look forward to her continued involvement in all association endeavors.
 
 ---
 

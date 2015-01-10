@@ -6,7 +6,7 @@ modified: 2014-07-31
 tags: [fggc osha alumni, reunion]
 categories: [reunion]
 comments: true
-published: true
+published: false
 ---
 <figure>
 	<a href="{{ site.url }}/images/reunionentrance.png"><img src="{{ site.url }}/images/reunionentrance.png"></a>
@@ -23,7 +23,7 @@ From the Friday night social gathering event at Peju's Lounge, the Saturday Boat
 A huge Thank You to all who attended or contributed in any way to making this happen.
 
 <br>
-Please stay tuned. We'll be sharing the tidbits on the weekend shortly.
+Please stay tuned. We'll be sharing the tidbits on the weekend bit by bit.
 
 <br>
 In the meantime, you can check out photos from the Gala night [on Facebook](https://www.facebook.com/media/set/?set=a.636302806484111.1073741941.332826696831725&type=1)
