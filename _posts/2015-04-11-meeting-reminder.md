@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Monthly Meeting Reminder: Join us for our April Monthly Meeting"
+title: "Monthly Meeting Reminder: Join us for our April Meeting"
 description: "Join us for the next monthly meeting on April 11, 2015 at 11am EST."
 modified: 2015-3-14
 tags: [fggc osha alumni, meeting reminder]
