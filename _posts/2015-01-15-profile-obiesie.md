@@ -10,7 +10,7 @@ published: true
 image:
   feature: MrsObiesie6.png
 ---
-*by Ifeyinwa Obi*
+*Introduction by Ifeyinwa Obi*
 
 <br>
 Those who attended our alma mater in the ‘80 - 90s will surely remember Mrs. Obiesie, perhaps as Vice Principal from 1983 to XXX, or as the successor to our founding Principal, Mrs. Okobi, serving as Principal from 1988 to XXX.
@@ -29,7 +29,7 @@ We invite you to get to know this amazing woman, yet another woman of substance 
 
 ---
 
-My first memory of my mother was at the age of 3. I saw her sitting in front of her dressing mirror, applying her lipstick, combing her hair and adjusting her clothes and I was instantly fascinated. She noticed my intense looks and smiled, held out her arms and lifted me up; her words to me that day was that no matter how hard you work, taking out time to look tidy and presentable was very key. She added that this will aid my organization in life with relation to academics, career and home making, and looking back to this point, it has been an advice that has been of tremendous value to my siblings and I.
+My first memory of my mother was at the age of 3. I saw her sitting in front of her dressing mirror, applying her lipstick, combing her hair and adjusting her clothes and I was instantly fascinated. She noticed my intense looks and smiled, held out her arms and lifted me up; her words to me that day were that no matter how hard you work, taking out time to look tidy and presentable was very key. She added that this will aid my organization in life with relation to academics, career and home making, and looking back to this point, it has been an advice that has been of tremendous value to my siblings and I.
  
 <br>
 Elizabeth Ozoemena Obiesie was born xx years ago in Port Harcourt, Rivers State, Nigeria. She excelled at her studies and proceeded to the United Kingdom for her secondary school education. Afterwards, she attended Howard University in the United States and graduated with a BA degree in Education. She met my father upon her return to England, he had finished his law degree from the University of Dublin in Ireland, and after two years of courtship, they got married, relocated to Nigeria and had four children - 3 girls and a boy.

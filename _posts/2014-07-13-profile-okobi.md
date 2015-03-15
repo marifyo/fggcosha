@@ -9,7 +9,7 @@ comments: true
 image:
   feature: okobiprofile.png
 ---
-*by Ifeyinwa Obi*
+*Introduction by Ifeyinwa Obi*
 
 ## A Woman of Substance, Founding Principal (1977 - xxxx)
 
