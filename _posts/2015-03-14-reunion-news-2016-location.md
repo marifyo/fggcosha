@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "2016 Reunion News - Location Location Location..."
-description: "We are oh so close to selecting the location for our next reunion weekend in 2016. Check out our update."
+title: "2016 Reunion News - Location Location Location"
+description: "We are oh so close to selecting the location for our next reunion weekend in 2016. Check out our update..."
 modified: 2015-03-14
 tags: [fggc osha alumni]
 categories: [reunion2016]
