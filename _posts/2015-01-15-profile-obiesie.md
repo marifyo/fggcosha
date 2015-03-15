@@ -8,7 +8,7 @@ categories: [spotlight]
 comments: true
 published: true
 image:
-  feature: MrsObiesie5.png
+  feature: MrsObiesie6.png
 ---
 *by Ifeyinwa Obi*
 
