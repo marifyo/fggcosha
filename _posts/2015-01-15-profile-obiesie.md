@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotlight Corner - Mrs. Obiesie
+title: Spotlight Corner
 description: "Check out our Spotlight Corner - Celebrating Women's Achievements, featuring our former principal, Mrs. Obiesie"
 modified: 2015-01-15
 tags: [fggc osha alumni, profile]
@@ -25,12 +25,10 @@ Indeed, from what I have learned of our former principal, these could have been 
 ~ David O. McKay
 {% endhighlight %}
 
-<br>
 We invite you to get to know this amazing woman, yet another woman of substance and influence, who contributed much towards the individual and collective development of her students and the school she served, through the words of her daughter and alumna, Anwuli. 
 
 ---
 
-<br>
 My first memory of my mother was at the age of 3. I saw her sitting in front of her dressing mirror, applying her lipstick, combing her hair and adjusting her clothes and I was instantly fascinated. She noticed my intense looks and smiled, held out her arms and lifted me up; her words to me that day was that no matter how hard you work, taking out time to look tidy and presentable was very key. She added that this will aid my organization in life with relation to academics, career and home making, and looking back to this point, it has been an advice that has been of tremendous value to my siblings and I.
  
 <br>

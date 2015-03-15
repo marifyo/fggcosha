@@ -16,7 +16,6 @@ Although over a year away, the excitement is already heating up as we engage in 
 * What group of committed alumna will be involved in the planning and execution of what will surely be a weekend to remember?
 * Who will answer the call to serve, to give, to contribute to the success of 2016 and continued growth of our Alumnae chapter?
 
-<br>
 After reviewing the logistics involved in hosting the 2016 reunion weekend in Toronto, Canada, as previously decided at the 2014 reunion weekend, and based on feedback from the alumnae, both in the US and across the globe, a decision was made to move the destination back to the U.S of A until the world shrinks sufficiently as to make Toronto the successful host we fully expect it to be in the future.
 
 <br>
