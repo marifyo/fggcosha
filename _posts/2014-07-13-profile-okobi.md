@@ -11,7 +11,7 @@ image:
 ---
 *by Ifeyinwa Obi*
 
-## A Woman of Substance, Founding Principal (1977 - 1991)
+## A Woman of Substance, Founding Principal (1977 - xxxx)
 
 Ask any alumni from the early years of FGGC Onitsha who their inspiration was, who made the most impact on them in those formative years when we were awkwardly navigating the transition from child to woman, who epitomized strength and grace in a woman, who challenged us at every juncture to aspire to greatness, while instilling in us values, which we would come to appreciate even more in later years; I am fairly confident that 9 out of 10 people would give you this one name - *Mrs. Okobi*.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Torch is Passed - Our New Executives Assume Office"
-description: "As we usher in a new year, so we usher in a new committee to take over the leadership"
+description: "As we usher in a new year, so we usher in a new committee to take over the leadership..."
 modified: 2015-01-10
 tags: [fggc osha alumni, meeting reminder]
 comments: true
@@ -10,7 +10,8 @@ published: true
 As we usher in a new year full of hopes and plans, so we usher in our new executives, passing the torch from our founding executives who have done a fabulous job for four years, onto the new alumni who were elected to the executive committee in July 2014.
 
 <br>
-## New Executives 
+
+## New Executives 2015 - 
 
 Join us as we welcome our new Executive Members and pledge our support to them through their next two years at the helm:
 
@@ -33,7 +34,7 @@ Join us as we welcome our new Executive Members and pledge our support to them t
 {: rules="groups"}
 
 
-## Outgoing Executives
+## Outgoing Executives 2010 - 2014
 
 We wish to express our heartfelt gratitude to our founding members and outgoing executives for their inspiring and foundational work over the past four years. The future is bright, and that is because of the present and the past...
 

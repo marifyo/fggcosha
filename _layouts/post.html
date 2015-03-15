@@ -58,11 +58,24 @@
 
 <div class="footer-wrap"> 
  {% for pc in page.categories %}
- {% if pc == "reunion" %}
+ {% if pc == "spotlight" %}
   <div class="related-articles">
-  <h4>Check out other reunion information </h4>
+  <h4>Check out our other Spotlights </h4>
     <ul>
-	{% for post in site.categories.reunion %}
+	{% for post in site.categories.spotlight %}
+	    {% if page.title != post.title %}   
+       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+         {% endif %}
+    {% endfor %}
+    </ul>
+    <hr />
+  </div> 
+  {% endif %}
+   {% if pc == "reunion2016" %}
+  <div class="related-articles">
+  <h4>Check out related posts on the 2016 Reunion </h4>
+    <ul>
+	{% for post in site.categories.reunion2016 %}
 	    {% if page.title != post.title %}   
        <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
          {% endif %}

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Monthly Meeting Reminder: Join us for our first meeting of 2015"
-description: "Join us for the next monthly meeting on February 14, 2015 at 11am EST."
+description: "Join us for the next monthly meeting on Saturday, February 21st 2015 at 11am EST."
 modified: 2015-1-10
 tags: [fggc osha alumni, meeting reminder]
 comments: true
+published: false
 ---
 
-The F.G.G.C. Onitsha - USA and Canada alumni association invites you to its monthly meeting on the 2nd Saturday of every month. 
+The F.G.G.C. Onitsha - USA and Canada alumni association invites you to its monthly meeting which this month will take place on the 3rd Saturday of the month. 
 
 <br>
 Thanks to all who attended our last meeting on December 13th 2014. Minutes of the meeting have already been distributed via email.
@@ -15,7 +16,7 @@ Thanks to all who attended our last meeting on December 13th 2014. Minutes of th
 <br>
 This is our first meeting of 2015 so please try to attend as we begin a new year brimming with ideas of how to foster the association and our community.
 
-Our next monthly meeting is on **Saturday, February 14 2014 at 11.00 am EST.**. 
+Our next meeting is on **Saturday, February 21 2014 at 11.00 am EST.**. 
 {: .notice} 
 
 ## Dial In 

@@ -1,6 +1,6 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+description: "Website for Federal Government Girls' College Onitsha Alumni Association, USA/Canada Chapter."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: homepagebannercountdown.png
