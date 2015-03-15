@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotlight Corner - Mrs Obiesie
+title: Spotlight Corner - Mrs. Obiesie
 description: "Check out our Spotlight Corner - Celebrating Women's Achievements, featuring our former principal, Mrs. Obiesie."
 modified: 2015-01-15
 tags: [fggc osha alumni, profile]

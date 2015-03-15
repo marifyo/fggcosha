@@ -17,6 +17,6 @@ Our next monthly meeting is on **Saturday, April 11 2015 at 11.00 am EST.**.
 {: .notice} 
 
 ## Dial In 
-All members and potential new members are invited to dial into this very important meeting. For conference call details, email [Ijeoma Ejiofor Onwuogu](#mailto:ijeoma.ejiofor@fggconitsha.com).
+All members and potential new members are invited to dial into this very important meeting. For conference call details, email [Ijeoma Ejiofor Onwuogu](mailto:ijeoma.ejiofor@fggconitsha.com).
 
 > Please be punctual and inform as many people as you know.

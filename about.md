@@ -35,11 +35,11 @@ The chapter's membership continues to grow, and its social activities and charit
 ### Executives
 1. [Juliet Umeh Ume-Onyido](mailto:juliet.umeh@fggconitsha.com), Class of '92 - **President**
 2. [Chiazor Asika](mailto:chiazor.asika@fggconitsha.com), Class of '90 - **Vice President**
-3. [Ijeoma Ejiofor Onwuogu](ijeoma.ejiofor@fggconitsha.com), Class of '90 - **Secretary**
-4. [Ijeoma Agulefo Obunse](ijeoma.agulefo@fggconitsha.com), Class of '89 - **Treasurer**
-5. [Chinwe Onyekwelu Abaelu](chinwe.onyekwelu@fggconitsha.com), Class of '89 - **Financial Secretary**
-6. [Titilayo Alakija](titilayo.alakija@fggconitsha.com), Class of '89 - **Legal Counsel**
-7. [Ifeyinwa Obi](ify.obi@fggconitsha.com), Class of '89 - **Public Relations Officer/Web Admin**
+3. [Ijeoma Ejiofor Onwuogu](mailto:ijeoma.ejiofor@fggconitsha.com), Class of '90 - **Secretary**
+4. [Ijeoma Agulefo Obunse](mailto:ijeoma.agulefo@fggconitsha.com), Class of '89 - **Treasurer**
+5. [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com), Class of '89 - **Financial Secretary**
+6. [Titilayo Alakija](mailto:titilayo.alakija@fggconitsha.com), Class of '89 - **Legal Counsel**
+7. [Ifeyinwa Obi](mailto:ify.obi@fggconitsha.com), Class of '89 - **Public Relations Officer/Web Admin**
 
 ### Other Alumni Communities
 
@@ -97,7 +97,7 @@ Our goal is to build a strong alumnae group in the diaspora, so that collectivel
 > Our members are our foundation
 
 All FGGC Onitsha alumni who reside in the USA or Canada are invited to join the chapter.  
-To register, send an email to [Chinwe Onyekwelu Abaelu](chinwe.onyekwelu@fggconitsha.com). Please include the following in your email: 
+To register, send an email to [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com). Please include the following in your email: 
 
 1. Name while at FGGC Onitsha.
 2. Year of Graduation.
@@ -108,7 +108,7 @@ To register, send an email to [Chinwe Onyekwelu Abaelu](chinwe.onyekwelu@fggconi
 ### Donations
 
 * Give online - through our paypal account (coming soon).  
-* Give by mail - please contact [Chinwe Onyekwelu Abaelu](chinwe.onyekwelu@fggconitsha.com) for mailing info.
+* Give by mail - please contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for mailing info.
 
 ### Contact
 
