@@ -46,5 +46,5 @@ title: In Memoriam
 * Uzoamaka Iweka
 
 
-*Do you know any one of our departed who is not listed above? [Please contact us](mailto:contactus@fggconitsha.com) and let us know.*
+*Do you know any one of our dear departed who is not listed above? [Please contact us](mailto:contactus@fggconitsha.com) and let us know.*
 {: .notice}
