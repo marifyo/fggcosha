@@ -4,7 +4,7 @@ permalink: /events/
 title: Events and Milestones
 ---
 
-## April
+## 04 2015
 
 | Date     | |  |
 |:--------|:---|:--------|
@@ -15,5 +15,5 @@ title: Events and Milestones
 {: rules="groups"}
 
 
-> *Got an event or milestone you want to highlight? [Please let us know](mailto:contactus@fggconitsha.com).*
-
+*Got an event or milestone you want to highlight? [Please let us know](mailto:contactus@fggconitsha.com).*
+{: .notice}
