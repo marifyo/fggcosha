@@ -28,10 +28,10 @@ The USA/Canada chapter of FGGC Onitsha was founded in 2009, originally by a few 
 <br> The chapter's membership continues to grow, and its social activities and charitable works, have garnered the recognition and support of the school, as well as other alumni chapters around the world.
 
 ### Our Mission Statement
-> To provide opportunities for FGGC Onitsha alumnae across North America, to collectively give back for the continued growth and development of our Alma Mater and the society, and to promote networking between alumnae that enrich their professional & personal lives.
+> To provide opportunities for FGGC Onitsha alumnae across North America, to collectively give back for the continued growth and development of our Alma Mater and the society, and to promote networking between alumnae that enrich their professional and personal lives.
 
 ### Our Vision Statement
-> To build a strong sisterhood and provide all Alumnae the opportunity to actively and collectively support the school through service, philanthropy and leadership.
+To build a strong sisterhood and provide all Alumnae the opportunity to actively and collectively support the school through service, philanthropy and leadership.
 
 ### Our Goals and Objectives
 
