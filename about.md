@@ -109,13 +109,17 @@ Our goal is to build a strong alumnae group in the diaspora, so that collectivel
 > Our members are our foundation
 
 All FGGC Onitsha alumni who reside in the USA or Canada are invited to join the chapter.  
-To register, send an email to [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com). Please include the following in your email: 
+<br>
+To register, send an email to our Financial Secretary, [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com). Please include the following in your email: 
 
 1. Name while at FGGC Onitsha.
 2. Year of Graduation.
 3. Current Name if different.
 4. Boarding House(s) while at FGGC Onitsha, and years of residence if more than one.
 5. Birthday (Month and Day, Year is optional).
+
+####
+There is a one time registration fee of $20 and an annual membership fee of $100 due by April 15th of each calendar year. Payment plans options are available on request. 
 
 ### Donations
 
