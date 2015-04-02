@@ -6,7 +6,7 @@ title: In Memoriam
 
 *A light glows in memory of those who have gone before us*
 <figure>
-	<a href="{{ site.url }}/images/inmemoriam3.jpeg"><img src="{{ site.url }}/images/inmemoriam3jpeg"></a>
+	<a href="{{ site.url }}/images/inmemoriam3.jpeg"><img src="{{ site.url }}/images/inmemoriam3.jpeg"></a>
 </figure>
 
 ## Staff
