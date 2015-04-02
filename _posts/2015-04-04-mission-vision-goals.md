@@ -25,7 +25,8 @@ To build a strong sisterhood and provide all Alumnae the opportunity to actively
 6. Strengthening the bonds of alumni members through different life cycles and phases such as birthdays, childbirths, weddings, loss of nuclear family members (spouse, parents, children, siblings).
 7. Celebrating members of the Alumni community; highlighting their achievements as a source of inspiration to all.
 
+<br>
+<br>
+<br>
+
 *Be part of it. Join us in making our vision a possibility, our mission a commitment and our goals a reality.*
-<br>
-<br>
-*Igwebuike Anyi*
