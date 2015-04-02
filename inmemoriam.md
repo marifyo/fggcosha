@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /community/
+permalink: /inmemoriam/
 title: In Memoriam
 ---
 
