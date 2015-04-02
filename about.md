@@ -24,13 +24,23 @@ image:
 
 ## The USA/Canada Alumni Chapter
 
-The USA/Canada chapter of FGGC Onitsha was founded in 2009, originally by a few alumnae from the pioneer class of '82 through the class of '86, and has quickly extended to include active alumnae from across various graduating years. The chapter was founded with the following primary objectives: 
- 
-1. Supporting the institution, which guided us through our formative years, by enhancing the educational and living environment, and the activities of the institution.  
-2. Providing social and professional networks for the current and future alumni across North America.
+The USA/Canada chapter of FGGC Onitsha was founded in 2009, originally by a few alumnae from the pioneer class of '82 through the class of '86, and has quickly extended to include active alumnae from across various graduating years. The chapter's membership continues to grow, and its social activities and charitable works, have garnered the recognition and support of the school, as well as other alumni chapters around the world.
 
+### Our Mission Statement
+"To provide opportunities for FGGC Onitsha alumnae across North America, to collectively give back for the continued growth and development of our Alma Mater and the society, and to promote networking between alumnae that enrich their professional & personal lives."
 
-The chapter's membership continues to grow, and its social activities and charitable works, have garnered the recognition and support of the school, as well as other alumni chapters around the world.
+### Our Vision Statement
+"To build a strong sisterhood and provide all Alumnae the opportunity to actively and collectively support the school through service, philanthropy and leadership."
+
+### Our Goals and Objectives
+
+1. Maintaining a comprehensive database of alumnae community in North America, to enhance collective engagement and contributions to our alma mater.
+2. Supporting the institution, which guided us through our formative years, by enhancing the educational (human capital) and infrastructural development (living environment), of the institution.
+3. Providing avenues for social and professional mentoring & networking for the alumnae community.
+4. Implementing fundraising and social events/activities like the bi-annual conventions to support our alma mater.
+5. Undertaking projects that directly enhance the quality of life, teaching and learning environments of the students and members of staff.
+6. Strengthening the bonds of alumni members through different life cycles and phases such as birthdays, childbirths, weddings, loss of nuclear family members (spouse, parents, children, siblings).
+7. Celebrating members of the Alumni community; highlighting their achievements as a source of inspiration to all.
 
 ### Executives
 1. [Juliet Umeh Ume-Onyido](mailto:juliet.umeh@fggconitsha.com), Class of '92 - **President**
