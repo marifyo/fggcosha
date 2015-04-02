@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /events/
-title: Events and Milestones
+title: Upcoming Events and Milestones
 ---
 
 
