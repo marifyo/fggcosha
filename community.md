@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /community/
-title: Community
+title: In Memoriam
 ---
 
-## In Memoriam
+*A light glows in memory of those who have gone before us*
 <figure>
-	<a href="{{ site.url }}/images/inmemoriam2.jpeg"><img src="{{ site.url }}/images/inmemoriam2.jpeg"></a>
+	<a href="{{ site.url }}/images/inmemoriam3.jpeg"><img src="{{ site.url }}/images/inmemoriam3jpeg"></a>
 </figure>
 
-### Staff
+## Staff
 * Mrs. Okobi (Founding Principal)
 * Mr. Ibekwe (Maths) 
 * Mr. Maduka (Agric)  
@@ -17,7 +17,7 @@ title: Community
 * Mrs. Ononye ( Matron)
 
 
-### Students
+## Students
 * Aluba Uche (Class of ’89)
 * Chiamaka Ikenta
 * Chika Nwude
