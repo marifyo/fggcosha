@@ -118,7 +118,7 @@ To register, send an email to our Financial Secretary, [Chinwe Onyekwelu Abaelu]
 4. Boarding House(s) while at FGGC Onitsha, and years of residence if more than one.
 5. Birthday (Month and Day, Year is optional).
 
-####
+#### Membership Dues
 There is a one time registration fee of $20 and an annual membership fee of $100 due by April 15th of each calendar year. Payment plans options are available on request. 
 
 ### Donations
