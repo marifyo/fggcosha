@@ -103,7 +103,7 @@ Grow in strength from year to year
 
 ## How to Help
 
-There are different ways in which you can support the FGGC Onitsha - USA/Canada Alumni Association and its mission.
+There are various ways in which you can support the FGGC Onitsha - USA/Canada Alumni Association and its mission.
 
 ### Membership
 > Our members are our foundation
