@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OUr Mission, Our Vision, Our Goals"
+title: "Our Mission, Our Vision, Our Goals"
 description: "Thanks to all of you, we have clarified our mission, our vision and our goals as an organization, and as a family."
 modified: 2015-04-05
 tags: [fggc osha alumni]
