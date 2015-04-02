@@ -17,7 +17,7 @@ image:
 Those who attended our alma mater in the ‘80 - 90s will surely remember Mrs. Obiesie, perhaps as Vice Principal for most of the eighties, or as the successor to our founding Principal, Mrs. Okobi, serving as Principal from 1992 to 1995.
 
 <br>
-Mrs. Elizabeth Obiesie, the second principal of the then still young FGGC Onitsha, gave several years of her life and self to the institution, serving with the dedication, dignity and grace that epitomized her principles. She served for a total of 35 years with the Ministry of Education, including her years of service with our Alma Mater.
+Mrs. Elizabeth Obiesie, the second principal of the then still young FGGC Onitsha, gave several years of her life and self to the institution, serving with the dedication, dignity and grace that epitomized her principles. She served for a total of 35 years with the Ministry of Education, including her years of service to our Alma Mater.
 
 <br>
 Indeed, from what I have learned of our former principal, these could have been her words.
@@ -36,7 +36,9 @@ My first memory of my mother was at the age of 3. I saw her sitting in front of 
 Elizabeth Ozoemena Obiesie was born in Port Harcourt, Rivers State, Nigeria. She excelled at her studies and proceeded to the United Kingdom for her secondary school education. Afterwards, she attended Howard University in the United States and graduated with a BA degree in Education. She met my father upon her return to England, he had finished his law degree from the University of Dublin in Ireland, and after two years of courtship, they got married, relocated to Nigeria and had four children - 3 girls and a boy.
 
 <br> 
-My mother first came to work in FGGC Onitsha in 1982 as the vice principal, administering under Mrs. Mary Okobi, who was the principal of the school at the time. It was a very sobering period for my sister, Chinwe and I, then both students of the school, as she had drilled into us the dire consequences of bad behavior under her watch. She expected us to be at the top of the class academically and of excellent behavior outside the class room. <br> In fairness to her, her standards were not unrealistic. The problem was my sister and I were just too rascally to avoid trouble. Although Chinwe did meet the expected academic standard, I managed to scale through with the achievable goal each term not to be at the bottom of the class for fear of what punitive consequences awaited me at home during the holidays!
+My mother first came to work in FGGC Onitsha in 1982 as the vice principal, administering under Mrs. Mary Okobi, who was the principal of the school at the time. It was a very sobering period for my sister, Chinwe and I, then both students of the school, as she had drilled into us the dire consequences of bad behavior under her watch. She expected us to be at the top of the class academically and of excellent behavior outside the class room. 
+
+<br> In fairness to her, her standards were not unrealistic. The problem was my sister and I were just too rascally to avoid trouble. Although Chinwe did meet the expected academic standard, I managed to scale through with the achievable goal each term not to be at the bottom of the class for fear of what punitive consequences awaited me at home during the holidays!
  
 <br>
 She left FGGC Onitsha to serve as Principal of FGGC Akure in 1984, returning again in 1985 as Vice Principal in order to be close to her family. She became principal in 1992, following Mrs. Okobi's retirement. Her record as principal was recognized both by parents and colleagues as an excellent one - academic standards were high; and the dormitories, classrooms and school compound were always in clean and hygienic conditions. 
