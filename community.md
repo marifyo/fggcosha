@@ -5,7 +5,7 @@ title: Community
 ---
 
 ## Spotlights
-
+<div>
  {% for pc in page.categories %}
  {% if pc == "spotlight" %}
  	{% for post in site.categories.spotlight %}
@@ -15,3 +15,4 @@ title: Community
     {% endfor %}
   {% endif %}
   {% endfor %}
+</div?
