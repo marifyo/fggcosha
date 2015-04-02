@@ -15,7 +15,7 @@ published: true
 It's that time of year again. Here's our reminder to pay your annual membership fees by April 15th. 
 
 <br>
-Payment plans are available. Contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
+Payment plans are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
 
 <br>
 As always, you are the strength of this chapter.
