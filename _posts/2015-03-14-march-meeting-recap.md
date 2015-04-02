@@ -22,4 +22,4 @@ If you are a member of this alumnae chapter and do not receive the Meeting Minut
 As always, you are the strength of this chapter.
 
 <br>
-*Igwebike Anyi!*
+*Igwebuike Anyi!*
