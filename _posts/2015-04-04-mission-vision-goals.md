@@ -7,7 +7,7 @@ tags: [fggc osha alumni]
 comments: true
 published: true
 image:
-  feature: MissionVisionGoals5.png
+  feature: MissionVisionGoals6.png
 ---
 ## Mission 
 To provide opportunities for FGGC Onitsha alumnae across North America, to collectively give back for the continued growth and development of our Alma Mater and the society, and to promote networking between alumnae that enrich their professional and personal lives.
