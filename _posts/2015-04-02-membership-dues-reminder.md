@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Your Annual Membership Fees are Due - April 15th is Fast Approaching"
-description: "The deadline is approaching. Please pay your annual membership dues."
+title: "Your Annual Membership Fees are Due"
+description: "The deadline of April 15th for your dues is fast approaching. Please pay your membership fees."
 modified: 2015-4-02
 tags: [fggc osha alumni, membership reminder]
 comments: true
