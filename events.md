@@ -5,7 +5,7 @@ title: Events and Milestones
 ---
 
 
-| ## 04 2015     | |  |
+| April 2015     | |  |
 |:--------|:---|:--------|
 | **11th** | | Monthly Meeting @ 11 am EST. Contact [Ijeoma Ejiofor Onwuogu](mailto:ijeoma.ejiofor@fggconitsha.com) for conference details.|  
 |----
