@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 <figure>
-	<a href="{{ site.url }}/images/MembershipFee.png"><img src="{{ site.url }}/images/MembershipFee.png"></a>
+	<a href="{{ site.url }}/images/MembershipFee3.png"><img src="{{ site.url }}/images/MembershipFee3.png"></a>
 </figure>
 {: .image-pull-left}
 
