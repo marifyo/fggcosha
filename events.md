@@ -14,5 +14,5 @@ title: Upcoming Events and Milestones
 {: rules="groups"}
 
 
-*Got an event or milestone you want to highlight? [Please contact us](mailto:contactus@fggconitsha.com) and let us know.*
+*Got an event or milestone you want to share? [Please contact us](mailto:contactus@fggconitsha.com) and let us know.*
 {: .notice}
