@@ -12,7 +12,7 @@ title: Community
 	    {% if page.title != post.title %}   
 	    <article>
     	 <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-    	<article>
+    	</article>
          {% endif %}
     {% endfor %}
   {% endif %}
