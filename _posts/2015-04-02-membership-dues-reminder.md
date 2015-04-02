@@ -7,14 +7,14 @@ tags: [fggc osha alumni, membership reminder]
 comments: true
 published: true
 ---
-
-It's that time of year again. Here's our reminder to pay your annual membership fees by April 15th. 
-
 <figure>
 	<a href="{{ site.url }}/images/MembershipFee.png"><img src="{{ site.url }}/images/MembershipFee.png"></a>
 </figure>
 {: .image-pull-left}
 
+It's that time of year again. Here's our reminder to pay your annual membership fees by April 15th. 
+
+<br>
 Payment plans are available. Contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
 
 <br>
