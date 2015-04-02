@@ -14,7 +14,6 @@ image:
 
 ## Vice Principal (1982 - 1984; 1985 - 1991), Principal (1992 - 1995)
 
-<br>
 Those who attended our alma mater in the ‘80 - 90s will surely remember Mrs. Obiesie, perhaps as Vice Principal for most of the eighties, or as the successor to our founding Principal, Mrs. Okobi, serving as Principal from 1992 to 1995.
 
 <br>
