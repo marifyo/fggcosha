@@ -12,7 +12,7 @@ published: true
 </figure>
 {: .image-pull-left}
 
-It's that time of year again. Here's our reminder to pay your annual membership fees by April 15th. 
+It's that time of year again. Here's our reminder to pay your $100 annual membership fees by April 15th. New members will need to pay the additional $20 registration fee, a one-time payment.
 
 <br>
 Payment plans are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
