@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Annual Membership Fees are Due - April 15th Fast Approaching"
+title: "Your Annual Membership Fees are Due - April 15th is Fast Approaching"
 description: "The deadline is approaching. Please pay your annual membership dues."
 modified: 2015-4-02
 tags: [fggc osha alumni, membership reminder]
@@ -11,7 +11,7 @@ published: true
 It's that time of year again. Here's our reminder to pay your annual membership fees by April 15th. 
 
 <figure>
-	<a href="{{ site.url }}/images/MembershipFee.jpg"><img src="{{ site.url }}/images/MembershipFee.jpg"></a>
+	<a href="{{ site.url }}/images/MembershipFee.png"><img src="{{ site.url }}/images/MembershipFee.png"></a>
 </figure>
 {: .image-pull-left}
 
