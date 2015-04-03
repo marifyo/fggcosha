@@ -5,7 +5,7 @@ description: "Thanks to all of you, we have clarified our mission, our vision an
 modified: 2015-04-05
 tags: [fggc osha alumni]
 comments: true
-published: false
+published: true
 image:
   feature: MissionVisionGoals6.png
 ---
