@@ -45,10 +45,11 @@ links:
     url: /events/
  # - title: Reunion Weekend
  #   url: /reunion-weekend
-  - title: In Memoriam
-    url: /inmemoriam/
    - title: Spotlight
     url: /profile-obiesie/
+   - title: In Memoriam
+    url: /inmemoriam/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
