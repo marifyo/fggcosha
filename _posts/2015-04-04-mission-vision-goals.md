@@ -26,4 +26,5 @@ To build a strong sisterhood and provide all Alumnae the opportunity to actively
 7. Celebrating members of the Alumni community; highlighting their achievements as a source of inspiration to all.
 
 <br>
+<br>
 *Be part of it. Join us in making our vision a possibility, our mission a commitment and our goals a reality.*
