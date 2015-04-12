@@ -11,15 +11,15 @@ image:
   feature: losangeles.png
 ---
 
-## All eyes to the West
-
 The location for our 4th Reunion is set. The city of Los Angeles, California will be hosting us for the Reunion, which next year, will be a 4-day weekend. 
 
-We know it will be packed with activities and excitement! Will you be there?
-{: .notice}
+> We know it will be packed with activities and excitement! Will you be there?
 
 <br>
-Next up will be engaging members and alumnae, far and wide, in the planning of the weekend. Committees have been set up. Expect details of the committees shortly along with descriptions so you can see where you will lend your talents, skills and time.
+Next up will be engaging members and alumnae, far and wide, in the planning of the weekend. Committees have been set up. 
+
+<br>
+Expect details of the committees shortly along with descriptions so you can see where you will lend your talents, skills and time.
 
 <br>
 *"Coming together is a beginning. Keeping together is progress. Working together is success."*
