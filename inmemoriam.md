@@ -24,7 +24,7 @@ title: In Memoriam
 * Chikaodili Ezeife 
 * Chineze Udezue 
 * Chinwe Joan Onuorah 
-* Chinwe Ochei, 
+* Chinwe Ochei 
 * Chinwe Onyema
 * Chinwe Osefo
 * Chinyere Igbozulike
