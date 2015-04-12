@@ -11,7 +11,7 @@ image:
   feature: losangeles.png
 ---
 
-The location for our 4th Reunion is set. The city of Los Angeles, California will be hosting us for the Reunion, which next year, will be a 4-day weekend. 
+The location for our 4th Reunion is set. The city of Los Angeles, California will be hosting us for the Reunion, which next year will be a 4-day weekend. 
 
 > We know it will be packed with activities and excitement! Will you be there?
 
