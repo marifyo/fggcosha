@@ -15,8 +15,7 @@ The location for our 4th Reunion is set. The city of Los Angeles, California wil
 
 > We know it will be packed with activities and excitement! Will you be there?
 
-<br>
-Next up will be engaging members and alumnae, far and wide, in the planning of the weekend. Committees have been set up. 
+Next up will be engaging alumnae and association members, far and wide, in the planning of the weekend. Committees have been set up. 
 
 <br>
 Expect details of the committees shortly along with descriptions so you can see where you will lend your talents, skills and time.
