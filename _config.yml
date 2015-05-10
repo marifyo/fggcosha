@@ -47,8 +47,8 @@ links:
 #    url: /events/
  # - title: Reunion Weekend
  #   url: /reunion-weekend
- # - title: Spotlight
- #  url: /spotlight/profile-obiesie/
+   - title: Spotlight
+    url: /spotlight
   - title: In Memoriam
     url: /inmemoriam/
 
