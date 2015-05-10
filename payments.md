@@ -25,18 +25,16 @@ comments: true
 </figure>
 {: .image-pull-left}
 
-#### Testing
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DXBYSHJD5CQG4">
 <table>
-<tr><td><input type="hidden" name="on0" value="Fees:"><h4>Fees:</h4></td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Fees:"><h5>Fees:</h5></td></tr><tr><td><select name="os0">
 	<option value="Annual Membership">Annual Membership $100.00 USD</option>
 	<option value="One-time Registration">One-time Registration $20.00 USD</option>
 	<option value="One-time Registration + Annual Membership Fee">One-time Registration + Annual Membership Fee $120.00 USD</option>
 </select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Member's Name:">Member's Name:</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on1" value="Member's Name:"><h5>Member's Name:</h5></td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
