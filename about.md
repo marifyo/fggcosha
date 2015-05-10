@@ -124,15 +124,17 @@ To register, send an email to our Financial Secretary, [Chinwe Onyekwelu Abaelu]
 #### Membership Dues
 There is a one time registration fee of $20 and an annual membership fee of $100, which is due by April 15th of every year. Payment plans options are available on request. 
 
-You can pay via our PayPal option. [Click Here](http://fggconitsha.com/payments) to go to our Payments page.
+<br>
+You can pay via our PayPal option. [Click here to go to our Payments page](http://fggconitsha.com/payments).
 
+<br>
 You may also pay by mail, or into our bank account. [Contact Accounts](mailto:payments@fggconitsha.com) for more information.
 
 ### Donations
 
 We have multiple projects in the works and your contributions are always welcome. 
 
-#### Via Paypal
+#### Donate online
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G7XHMY79JWAFC">
@@ -141,7 +143,7 @@ We have multiple projects in the works and your contributions are always welcome
 </form> 
 
 #### Give by mail 
-Please contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for mailing info.
+Please [Contact Us](mailto:payments@fggconitsha.com) for mailing info.
 
 ### Contact
 
