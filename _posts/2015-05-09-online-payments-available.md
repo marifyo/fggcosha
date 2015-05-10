@@ -14,10 +14,10 @@ We are pleased to announce that you can now make payments via our [PayPal](http:
 Pay your registration and membership dues online via credit card or using your PayPal account. 
 
 <br>
-We shall soon make online Donations available as well.
+We shall soon make online donation options available as well.
 
 <br>
-Stay tuned and remember, you are the strength of this chapter.
+Stay tuned for updates, and remember, YOU are the strength of this chapter.
 
 <br>
 *Igwebuike Anyi!*
