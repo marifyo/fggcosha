@@ -43,12 +43,14 @@ links:
     url: /posts/
   - title: Payments
     url: /payments
+  - title: Spotlight
+    url: /spotlight
 #  - title: Events
 #    url: /events/
  # - title: Reunion Weekend
  #   url: /reunion-weekend
-   - title: Spotlight
-    url: /spotlight
+#   - title: Spotlight
+#    url: /spotlight
   - title: In Memoriam
     url: /inmemoriam/
 
