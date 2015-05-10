@@ -132,14 +132,16 @@ You may also pay by mail, or into our bank account. [Contact Accounts](mailto:pa
 
 We have multiple projects in the works and your contributions are always welcome. 
 
-* Give online via Paypal
+#### Via Paypal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="G7XHMY79JWAFC">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form> 
-* Give by mail - please contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for mailing info.
+
+#### Give by mail 
+Please contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for mailing info.
 
 ### Contact
 
