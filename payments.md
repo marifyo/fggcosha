@@ -15,7 +15,9 @@ comments: true
 </figure>
 {: .image-pull-left}
 
-### Option 1: Pay Online via PayPal
+We have multiple options for payments.
+
+### Option 1: Pay Now via PayPal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DXBYSHJD5CQG4">
@@ -37,6 +39,9 @@ Send your check directly to our Treasurer. [Contact Us](mailto:payments@fggconit
 
 ### Option 3: Pay into the Bank
 Pay directly into our bank account (In person, Bill Pay or Wire Transfers). [Contact Us](mailto:payments@fggconitsha.com) for bank account information.
+
+## Payment Plans
+Payment plans are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
 
 ---
 
