@@ -15,5 +15,4 @@ comments: true
    <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p>{{ post.date | date: '%D' }} </p>
         <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-      {% endif %}
- {% endfor %}
+  {% endfor %}
