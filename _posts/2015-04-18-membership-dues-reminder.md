@@ -5,7 +5,7 @@ description: "If you have not paid your membership fee, please do so now. The Ap
 modified: 2015-4-18
 tags: [fggc osha alumni, membership reminder]
 comments: true
-published: false
+published: true
 ---
 <figure>
 	<a href="{{ site.url }}/images/MembershipFee3.png"><img src="{{ site.url }}/images/MembershipFee3.png"></a>

@@ -17,6 +17,7 @@ Pay your registration and membership dues online via credit card or using your P
 We shall soon make online Donations available as well.
 
 <br>
-Stay tuned and remember, you are our Strength.
+Stay tuned and remember, you are the strength of this chapter.
 
+<br>
 *Igwebuike Anyi!*
