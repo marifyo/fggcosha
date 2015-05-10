@@ -31,7 +31,7 @@ comments: true
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DXBYSHJD5CQG4">
 <table>
-<tr><td><input type="hidden" name="on0" value="Fees:">Fees:</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Fees:"><h4>Fees:<h4></td></tr><tr><td><select name="os0">
 	<option value="Annual Membership">Annual Membership $100.00 USD</option>
 	<option value="One-time Registration">One-time Registration $20.00 USD</option>
 	<option value="One-time Registration + Annual Membership Fee">One-time Registration + Annual Membership Fee $120.00 USD</option>
