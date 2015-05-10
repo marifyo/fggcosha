@@ -65,6 +65,9 @@ To build a strong sisterhood and provide all Alumnae the opportunity to actively
 
 Federal Government Girls' College Onitsha, an all girls boarding secondary school and part of the Nigerian Federal Government Unity schools, was founded in `1977`. It is located in the Southeastern part of Nigeria. The first graduating class was the class of '82, guided by the leadership of its esteemed founding, and longest serving principal of the school, `Mrs. Okobi`. The current principal is Mrs. Chinwe Nwosu.
 
+<br>
+[Visit the School Website](http://fggconitshang.com/)
+
 ### School Anthem
 
 *Set to the theme of Beethoven's 9th Symphony*
@@ -121,9 +124,15 @@ To register, send an email to our Financial Secretary, [Chinwe Onyekwelu Abaelu]
 #### Membership Dues
 There is a one time registration fee of $20 and an annual membership fee of $100, which is due by April 15th of every year. Payment plans options are available on request. 
 
+You can pay via our PayPal option. [Click Here]() to go to our Payments page.
+
+You may also pay by mail, or into our bank account. [Contact Accounts](mailto:payments@fggconitsha.com) for more information.
+
 ### Donations
 
-* Give online - through our paypal account (coming soon).  
+We have multiple projects in the works and your contributions are always welcome. 
+
+* Give online - go here to make donations via our PayPal option.  
 * Give by mail - please contact [Chinwe Onyekwelu Abaelu](mailto:chinwe.onyekwelu@fggconitsha.com) for mailing info.
 
 ### Contact

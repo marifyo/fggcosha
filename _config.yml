@@ -41,8 +41,10 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Events
-    url: /events/
+  - title: Payments
+    url: /payments
+#  - title: Events
+#    url: /events/
  # - title: Reunion Weekend
  #   url: /reunion-weekend
  # - title: Spotlight
