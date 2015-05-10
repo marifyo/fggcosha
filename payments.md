@@ -40,6 +40,8 @@ Send your check directly to our Treasurer. [Contact Us](mailto:payments@fggconit
 ### Option 3: Pay into the Bank
 Pay directly into our bank account (In person, Bill Pay or Wire Transfers). [Contact Us](mailto:payments@fggconitsha.com) for bank account information.
 
+---
+
 ## Payment Plans
 Payment plans are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
 
