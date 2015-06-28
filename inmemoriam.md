@@ -15,34 +15,38 @@ title: In Memoriam
 * Mr. Maduka (Agric)  
 * Miss Sunny Joe (Guidance/Counselling)
 * Mrs. Ononye ( Matron)
+* Mr Orokpo (Agric; Prep Master) - 2015
 
 
 ## Students
-* Aluba Uche (Class of ’89)
+* Aluba Uche (Class of 1989)
 * Chiamaka Ikenta
 * Chika Nwude
 * Chikaodili Ezeife 
+* Chinenye Francisca Igbokwe (Class of 2012) - 2015
 * Chineze Udezue 
 * Chinwe Joan Onuorah 
 * Chinwe Ochei 
 * Chinwe Onyema
 * Chinwe Osefo
 * Chinyere Igbozulike
+* Chioma Eze (Class of 2006) - 2015
 * Chioma Okoyeugha 
 * Demie Banigo (Class of ’89)
 * Ifeoma Anyadibe
 * Ifesinachi Anyigbo 
 * Ifeyinwa Dike 
-* Ijeoma Chinwe Theresa Onyuike (Class of ’89)
+* Ijeoma Chinwe Theresa Onyuike (Class of 1989) - 2012
 * KC Obiokoye
 * Maureen Mbaegbu 
 * Oge Anakwenze
 * Ogechi Onwubuya 
 * Onyinye Okegbe
-* Tosin Adepegba
-* Uche Mefoh-Igweonu (Class of ’94)
+* Tosin Adepegba (Class of 1991) - 2014
+* Uche Mefoh-Igweonu (Class of 1994)
 * Uchenna Nkemneme
 * Uzo Ofomata
+* Victoria Nwuanyanwu (Class of 2011) - 2015
 * Uzoamaka Iweka
 
 
