@@ -1,5 +1,5 @@
-title:            FGGC Onitsha - USA/Canada Alumni Association
-description:      The website for the FGGC Onitsha USA/Canada Alumni Association.
+title:            FGGC Onitsha - USA/Canada Alumnae Association
+description:      The website for the FGGC Onitsha USA/Canada Alumnae Association.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:             http://www.fggconitsha.com
 url: 			   http://marifyo.github.io/fggcosha
@@ -8,7 +8,7 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           FGGC Onitsha USA/Canada Alumni
+  name:           FGGC Onitsha Alumnae Association USA/Canada Chapter 
   avatar:         
   bio:            "Pro Unitate"
   email:          contactus@fggconitsha.com
