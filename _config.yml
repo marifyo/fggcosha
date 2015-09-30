@@ -1,7 +1,7 @@
 title:            FGGC Onitsha - USA/Canada Alumnae Association
 description:      The website for the FGGC Onitsha USA/Canada Alumnae Association.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:             http://www.fggconitsha.com
+# url:             http://www.fggconitsha.com
 url: 			   http://marifyo.github.io/fggcosha
 # url:				http://localhost:4000 
 disqus_shortname:
@@ -45,6 +45,8 @@ links:
     url: /payments
   - title: Spotlight
     url: /spotlight
+  - title: Reunion 2016
+    url: /reunion2016
 #  - title: Events
 #    url: /events/
  # - title: Reunion Weekend
@@ -53,6 +55,10 @@ links:
 #    url: /spotlight
   - title: In Memoriam
     url: /inmemoriam/
+  - title: Join
+    url: /join
+  - title: Shop
+    url: http://www.cafepress.com/fggcoshaalumnaeuccshop
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

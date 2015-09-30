@@ -35,8 +35,8 @@
 </div>
 
 <div id="index">
-  <h3><a href="{{ site.url}}/posts/">Latest News</a></h3>
-  {% for post in site.posts limit:5 %}    
+  <h3><a href="{{ site.url}}/posts/">Latest Reunion News</a></h3>
+  {% for post in site.categories.reunion2016 limit:10 %}    
   <article>
     {% if post.link %}
       <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="icon-link"></i></h2>

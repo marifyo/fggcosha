@@ -53,16 +53,17 @@
   {% if site.disqus_shortname and page.comments %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}
+  <p class="notice"><em>Do you know any alumna you would like Spotlighted? <a href="mailto:spotlight@alumnae.fggconitsha.com">Click here to email us</a></em></p>
   </article>
 </div><!-- /#main -->
 
 <div class="footer-wrap"> 
  {% for pc in page.categories %}
-   {% if pc == "reunion2016" %}
+ {% if pc == "spotlight" %}
   <div class="related-articles">
-  <h4>Check out related posts on the 2016 Reunion </h4>
+  <h4>Check out our other Spotlights </h4>
     <ul>
-	{% for post in site.categories.reunion2016 %}
+	{% for post in site.categories.spotlight %}
 	    {% if page.title != post.title %}   
        <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
          {% endif %}
@@ -71,7 +72,7 @@
     <hr />
   </div> 
   {% endif %}
-  {% endfor %}
+{% endfor %}
 <!--
   <div class="related-articles">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>

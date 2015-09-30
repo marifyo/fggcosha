@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: spotlight
 title: Spotlight Corner - Mrs. Obiesie
 description: "Check out our Spotlight Corner - Celebrating Women's Achievements, featuring our former principal, Mrs. Obiesie."
 modified: 2015-04-02
@@ -71,3 +71,4 @@ God bless
 
 #### Comments Anyone?
 *If you would like to comment on this post, head over to our [Facebook](https://www.facebook.com/groups/Fggcoshathegreatest/10152702871926244/) page.*
+

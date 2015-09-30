@@ -5,7 +5,7 @@ description: "Join us for the next monthly meeting on July 11, 2015 at 11am EST.
 modified: 2015-6-28
 tags: [fggc osha alumni, meeting reminder]
 comments: true
-published: true
+published: false
 ---
 
 The F.G.G.C. Onitsha - USA and Canada alumnae association invites you to its monthly meeting on every 2nd Saturday of the month. 

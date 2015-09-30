@@ -35,25 +35,13 @@
     {% include _author-bio.html %}
   </div>
   <article>
-    <div class="headline-wrap">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
-      {% endif %}
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
-       {{ content }}
-      <hr />
-    <!--
-      <footer role="contentinfo">
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <a href="{{ site.url }}/about" title="About {{ site.owner.name }}">{{ site.owner.name }}</a>.</p>
-      </footer> -->
-    </div><!-- /.article-wrap --> 
-  {% if site.disqus_shortname and page.comments %}
-    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  {% endif %}
-  </article>
+  <div>
+  <iframe src="https://docs.google.com/forms/d/1TYzcvzzAS5EP6TpK9YKKQVIkDnyN7WRP0U6FJTHx_9M/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  </div>
+  <div>
+  <iframe src="https://docs.google.com/forms/d/1aGEGVv6uhZ7FcwdO2hVmDcj1ZMQNWkerX_BJb_9m7rI/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+  </div>
+</article>
 </div><!-- /#main -->
 
 <div class="footer-wrap"> 
