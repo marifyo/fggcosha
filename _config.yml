@@ -59,6 +59,7 @@ links:
     url: /join
   - title: Shop
     url: http://www.cafepress.com/fggcoshaalumnaeuccshop
+    external: true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
