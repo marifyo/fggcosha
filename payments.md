@@ -46,6 +46,7 @@ We have multiple options for payments.
 **NOTE:** Please call PayPal's Customer Service Line on 1 (888) 221-1161 if you have any issues making payments and provide our **payee** email address, payments@fggconitsha.com to their customer service team. 
 {: .notice} 
 
+<br>
 If you have a PayPal account, you may also pay directly from your PayPal account to ours, **Recipient Email:** payments@fggconitsha.com. 
 <br>
 Be sure to note the name of the transaction e.g. 2015 Membership Fee or Donation for Projects or Donation for LA 2016 Reunion.
@@ -66,6 +67,7 @@ Pay directly into our bank account (In person, Bill Pay or Wire Transfers). [Con
 Payment plans for your membership dues are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
 
 ---
+
 ## Donations
 
 We have multiple projects in the works and your contributions are always welcome. 
