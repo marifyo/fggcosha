@@ -5,5 +5,5 @@ title: "Reunion LA 2016"
 description: "Reunion LA 2016"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: reunionbanner2016v2.png
+  feature: reunionbanner2016v4.png
 ---

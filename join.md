@@ -16,9 +16,7 @@ tags: [register]
 </section><!-- /#table-of-contents -->
 
 ## Registration Request
-<iframe src="https://docs.google.com/forms/d/1TYzcvzzAS5EP6TpK9YKKQVIkDnyN7WRP0U6FJTHx_9M/viewform?embedded=true" width="540" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
-<br>
+<iframe src="https://docs.google.com/forms/d/1TYzcvzzAS5EP6TpK9YKKQVIkDnyN7WRP0U6FJTHx_9M/viewform?embedded=true" width="540" height="11000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <hr>
 
