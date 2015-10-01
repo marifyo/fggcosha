@@ -9,6 +9,15 @@ comments: true
 image:
   feature: paymentbanner.jpg
 ---
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3 >Join</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
 ## Membership Dues
 
@@ -43,6 +52,7 @@ Send your check directly to our Treasurer. [Contact Us](mailto:payments@fggconit
 ### Option 3: Pay into the Bank
 Pay directly into our bank account (In person, Bill Pay or Wire Transfers). [Contact Us](mailto:payments@fggconitsha.com) for bank account information.
 
+---
 ---
 
 ## Payment Plans
