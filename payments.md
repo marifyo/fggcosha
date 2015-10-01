@@ -49,6 +49,7 @@ We have multiple options for payments.
 <br>
 If you have a PayPal account, you may also pay directly from your PayPal account to ours, **Recipient Email:** payments@fggconitsha.com. 
 <br>
+<br>
 Be sure to note the name of the transaction e.g. 2015 Membership Fee or Donation for Projects or Donation for LA 2016 Reunion.
 
 ---
