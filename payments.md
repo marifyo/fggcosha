@@ -7,15 +7,10 @@ tags: [dues]
 modified: 5-9-2015
 comments: true
 image:
-  feature: spotlight.jpg
+  feature: paymentbanner.jpg
 ---
 
 ## Membership Dues
-
-<figure>
-	<a href="{{ site.url }}/images/MembershipFee3.png"><img src="{{ site.url }}/images/MembershipFee3.png"></a>
-</figure>
-{: .image-pull-left}
 
 We have multiple options for payments.
 
@@ -35,7 +30,7 @@ We have multiple options for payments.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Please call PayPal Support Line on 1 (888) 221-1161 if you have any issues making payments and provide our payee email payments@fggconitsha.com to their customer service team. 
+Please call PayPal's Customer Service Line on 1 (888) 221-1161 if you have any issues making payments and provide our payee email payments@fggconitsha.com to their customer service team. 
 {: .notice} 
 
 
