@@ -13,17 +13,20 @@ image:
   <header>
     <h3 >Payments</h3>
   </header>
-<div id="drawer" markdown="3">
+<div id="drawer" markdown="1">
 *  Auto generated table of contents
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
 
-## Membership Dues
+## Payments and Donations
+You can make your registration and membership payments or donations via our site.
+
+### Membership Dues
 
 We have multiple options for payments.
 
-### Option 1: Pay Now via PayPal
+#### Option 1: Pay Now via PayPal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="DXBYSHJD5CQG4">
@@ -44,19 +47,31 @@ Please call PayPal's Customer Service Line on 1 (888) 221-1161 if you have any i
 
 ---
 
-### Option 2: Mail your check
+#### Option 2: Mail your check
 Send your check directly to our Treasurer. [Contact Us](mailto:payments@fggconitsha.com) for mailing information.
 
 ---
 
-### Option 3: Pay into the Bank
+#### Option 3: Pay into the Bank
 Pay directly into our bank account (In person, Bill Pay or Wire Transfers). [Contact Us](mailto:payments@fggconitsha.com) for bank account information.
 
 ---
----
 
-## Payment Plans
-Payment plans are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
+### Payment Plans
+Payment plans for your membership dues are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
+
+---
+## Donations
+
+We have multiple projects in the works and your contributions are always welcome. 
+
+### Donate online
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="G7XHMY79JWAFC">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form> 
 
 ---
 
