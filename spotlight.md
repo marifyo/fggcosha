@@ -7,5 +7,5 @@ tags: [profile]
 modified: 5-9-2015
 comments: true
 image:
-  feature: reunionbanner2016v4.png
+  feature: spotlight.jpg
 ---
