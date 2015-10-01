@@ -15,10 +15,14 @@ tags: [register]
 </div>
 </section><!-- /#table-of-contents -->
 
-## Registration Request
+
+## Join The Chapter
+Please fill out the form below to submit a registration request. You can also refer an alumna who you know resides in USA or Canada for membership.
+
+### Registration Request
 <iframe src="https://docs.google.com/forms/d/1TYzcvzzAS5EP6TpK9YKKQVIkDnyN7WRP0U6FJTHx_9M/viewform?embedded=true" width="540" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <hr>
 
-## Refer An Alumna
+### Refer An Alumna
 <iframe src="https://docs.google.com/forms/d/1aGEGVv6uhZ7FcwdO2hVmDcj1ZMQNWkerX_BJb_9m7rI/viewform?embedded=true" width="540" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

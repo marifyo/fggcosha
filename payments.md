@@ -33,9 +33,12 @@ We have multiple options for payments.
 Please call PayPal's Customer Service Line on 1 (888) 221-1161 if you have any issues making payments and provide our payee email payments@fggconitsha.com to their customer service team. 
 {: .notice} 
 
+---
 
 ### Option 2: Mail your check
 Send your check directly to our Treasurer. [Contact Us](mailto:payments@fggconitsha.com) for mailing information.
+
+---
 
 ### Option 3: Pay into the Bank
 Pay directly into our bank account (In person, Bill Pay or Wire Transfers). [Contact Us](mailto:payments@fggconitsha.com) for bank account information.
