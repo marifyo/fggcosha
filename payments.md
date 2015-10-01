@@ -19,12 +19,13 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Payments and Donations
 You can make your registration and membership payments or donations via our site.
 
-### Membership Dues
+## Membership Dues
 
 We have multiple options for payments.
+
+### Payment Options
 
 #### Option 1: Pay Now via PayPal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -42,8 +43,12 @@ We have multiple options for payments.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Please call PayPal's Customer Service Line on 1 (888) 221-1161 if you have any issues making payments and provide our payee email payments@fggconitsha.com to their customer service team. 
+**NOTE:** Please call PayPal's Customer Service Line on 1 (888) 221-1161 if you have any issues making payments and provide our **payee** email address, payments@fggconitsha.com to their customer service team. 
 {: .notice} 
+
+If you have a PayPal account, you may also pay directly from your PayPal account to ours, **Recipient Email:** payments@fggconitsha.com. 
+<br>
+Be sure to note the name of the transaction e.g. 2015 Membership Fee or Donation for Projects or Donation for LA 2016 Reunion.
 
 ---
 
