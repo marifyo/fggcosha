@@ -11,9 +11,9 @@ image:
 ---
 <section id="table-of-contents" class="toc">
   <header>
-    <h3 >Join</h3>
+    <h3 >Payments</h3>
   </header>
-<div id="drawer" markdown="1">
+<div id="drawer" markdown="3">
 *  Auto generated table of contents
 {:toc}
 </div>
