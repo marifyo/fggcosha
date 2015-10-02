@@ -41,12 +41,12 @@ links:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Payments
-    url: /payments
   - title: Spotlight
     url: /spotlight
   - title: Reunion 2016
     url: /reunion2016
+  - title: Payments
+    url: /payments
 #  - title: Events
 #    url: /events/
  # - title: Reunion Weekend
@@ -57,9 +57,9 @@ links:
     url: /inmemoriam/
   - title: Join
     url: /join
-  - title: Shop
-    url: http://www.cafepress.com/fggcoshaalumnaeuccshop
-    external: true
+#  - title: Shop
+#    url: http://www.cafepress.com/fggcoshaalumnaeuccshop
+#    external: true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

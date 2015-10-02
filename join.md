@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /join/
 description: "Send a Registration Request or Refer an Alum."
 tags: [register]
 ---

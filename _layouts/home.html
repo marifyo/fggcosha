@@ -15,6 +15,7 @@
 
 {% if page.image.feature %}
   <div class="image-wrap">
+  <a href="{{ site.url }}/join">
   <img src=
     {% if page.image.feature contains 'http://' %}
       "{{ page.image.feature }}"
@@ -24,6 +25,7 @@
       "{{ site.url }}/images/{{ page.image.feature }}"
     {% endif %}
   alt="{{ page.title }} feature image">
+  </a>
   {% if page.image.credit %}
     <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
   {% endif %}
