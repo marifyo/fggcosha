@@ -68,6 +68,6 @@ $(document).ready(function() {
 
 
 $(document).ready(function() {
-	$('.slider').jcider();
+	$('.image-wrap').jcider();
 });
 
