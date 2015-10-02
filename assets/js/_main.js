@@ -66,4 +66,4 @@ $(document).ready(function() {
   });
 });
 
-$(document).ready(function(){$('.image-wrap').jcider();});
+$(document).ready(function(){$('.slider').jcider();});
