@@ -15,6 +15,6 @@ links:
     url: /inmemoriam/
   - title: Join
     url: /join
-#  - title: Shop
-#    url: http://www.cafepress.com/fggcoshaalumnaeuccshop
-#    external: true
+  - title: Shop
+    url: http://www.cafepress.com/fggcoshaalumnaeuccshop
+    external: true
