@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: reunion2016
 title: "All Roads Lead to Los Angeles - Reunion 2016"
-description: "The destination is set. 2016 Reunion will be in the City of Angels..."
+author: ify_obi
+excerpt: "The destination is set. 2016 Reunion will be in the City of Angels..."
 modified: 2015-04-12
 tags: [fggc osha alumni]
 categories: [reunion2016]
@@ -17,10 +18,8 @@ The location for our 4th Reunion is set. The city of Los Angeles, California wil
 
 Next up will be engaging alumnae and association members, far and wide, in the planning of the weekend. Committees have been set up. 
 
-<br>
 Expect details of the committees shortly along with descriptions so you can see where you will lend your talents, skills and time.
 
-<br>
 *"Coming together is a beginning. Keeping together is progress. Working together is success."*
 <br>
 *~ Henry Ford*

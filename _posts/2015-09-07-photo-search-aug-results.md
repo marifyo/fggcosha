@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: reunion2016
 title: "LA 2016 - Photo Search: August Winning Pics"
-description: "Check out the winning pictures from August Submissions! Fostering Unity!"
+author: chinweoke_eke
+excerpt: "Check out the winning pictures from August Submissions! Fostering Unity!"
 modified: 2015-09-07
 tags: [fggc osha alumni, reunion]
 categories: [reunion2016]
@@ -31,5 +32,4 @@ Lagos Chapter is rocking! The Class of '92 ladies spared a minute to take this l
 *Note:* Submitted your picture yet? Head over to the Facebook Album [Road to LA 2016 - Photo Search: Alumnae GROUP of The Year](https://www.facebook.com/media/set/?set=oa.10152892392226244&type=1), upload and hashtag ‪#‎FGGCOPhotoSearch‬.
 {: .notice} 
 
-<br>
 Questions? [Contact us](mailto:la2016@fggconitsha.com)

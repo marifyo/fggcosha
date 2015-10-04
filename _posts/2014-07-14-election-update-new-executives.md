@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Election Update - Voting Concluded"
+author: ify_obi
 description: "Get the latest news on the election of our Executives!"
 modified: 2014-07-14
 tags: [fggc osha alumni, election update]

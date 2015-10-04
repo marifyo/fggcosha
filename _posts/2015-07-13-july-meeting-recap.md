@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "July Meeting Recap"
-description: "Read the short recap of our meeting on July 11, 2015."
+author: ify_obi
+excerpt: "Read the short recap of our meeting on July 11, 2015."
 modified: 2015-07-13
 tags: [fggc osha alumni, meeting recap]
 comments: true
@@ -10,7 +11,6 @@ published: true
 
 Thanks to all those who attended our June 13th 2015 meeting. We had a good turnout and updates.
 
-<br>
 Here is a brief recap of the discussions:
 
 * Planning Committee Update: Chinwe Abaelu provided a brief update on the planning effort. The location has not yet been confirmed but they have been evaluating options and costs. The goal remains to have a location locked down by August.
@@ -21,8 +21,6 @@ Here is a brief recap of the discussions:
 
 If you are a member of this alumnae chapter and do not receive the Meeting Minutes, please contact [Ijeoma Ejiofor Onwuogu](mailto:ijeoma.ejiofor@fggconitsha.com) to get your contact information updated.
 
-<br>
 As always, you are the strength of this chapter.
 
-<br>
 *Igwebuike Anyi!*

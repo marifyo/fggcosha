@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "October Meeting Reminder"
-description: "Join us for the next monthly meeting on October 11, 2014 at 11am EST."
+excerpt: "Join us for the next monthly meeting on October 11, 2014 at 11am EST."
 modified: 2014-10-04
 tags: [fggc osha alumni, meeting reminder]
 comments: true

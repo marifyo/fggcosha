@@ -1,75 +1,23 @@
-title:            FGGC Onitsha - USA/Canada Alumnae Association
-description:      The website for the FGGC Onitsha USA/Canada Alumnae Association.
-# Your site's domain goes here. Leave localhost server or blank when working locally.
-# url:             http://www.fggconitsha.com
-url: 			   http://marifyo.github.io/fggcosha
-# url:				http://localhost:4000 
-disqus_shortname:
-
-# Owner/author information
-owner:
-  name:           FGGC Onitsha Alumnae Association USA/Canada Chapter 
-  avatar:         
-  bio:            "Pro Unitate"
-  email:          contactus@fggconitsha.com
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:		Fggcoshaalumni2       
-  facebook:		groups/Fggcoshathegreatest/       
-  github:
-  stackoverflow:
-  linkedin:
-  instagram:
-  lastfm:
-  tumblr:
-  pinterest:
-  foursquare:
-  steam:
-  dribbble:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about/
-  - title: Posts
-    url: /posts/
-  - title: Spotlight
-    url: /spotlight
-  - title: Reunion 2016
-    url: /reunion2016
-  - title: Payments
-    url: /payments
-#  - title: Events
-#    url: /events/
- # - title: Reunion Weekend
- #   url: /reunion-weekend
-#   - title: Spotlight
-#    url: /spotlight
-  - title: In Memoriam
-    url: /inmemoriam/
-  - title: Join
-    url: /join
-#  - title: Shop
-#    url: http://www.cafepress.com/fggcoshaalumnaeuccshop
-#    external: true
+# Site wide configuration
+header:           Test Site    
+title:            FGGC Onitsha Alumnae Association USA Canada Chapter
+locale:           en_US
+# url:            marifyo.github.io/fggcosha
+# url:            http://fggconitsha.com
+url:			  http://localhost:4000 
 
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter: pygments
-markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# Jekyll configuration
+
 permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
@@ -78,12 +26,39 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+
+# Site owner
+owner:
+  name:  
+  avatar: 
+  bio:  Find Us via...
+  email: contactus@fggconitsha.com
+  disqus-shortname: fggconitshaalum-ucc
+  twitter: Fggcoshaalumni2
+  facebook: groups/Fggcoshathegreatest/ 
+  google:
+    plus: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: 
+  stackoverflow: 
+  linkedin: 
+  xing: 
+  instagram: 
+  lastfm: 
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  youtube: #username
+  soundcloud: 
+  weibo: 
+  flickr: 
+  codepen: 
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

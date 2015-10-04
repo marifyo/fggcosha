@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Meet Our New Executives Elect"
+author: ify_obi
 description: "The results are in. Get the latest news on the election of our Executives!"
 modified: 2014-07-14
 tags: [fggc osha alumni, meeting reminder]

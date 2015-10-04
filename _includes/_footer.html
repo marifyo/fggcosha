@@ -1,1 +1,22 @@
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }} <!-- Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme. --> </span>
+{% if site.owner.google.ad-client and site.owner.google.ad-slot %}
+<div class="google-ads">
+  <!-- 320 x 50 ad -->
+  <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:320px;height:50px"
+       data-ad-client="{{ site.owner.google.ad-client }}"
+       data-ad-slot="{{ site.owner.google.ad-slot }}"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div><!-- /.google-ads -->
+{% endif %}
+<hr>
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. </span>
+
+
+<!--  {% if site.owner.email %}<a href="mailto:{{ site.owner.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i></a>{% endif %}
+  {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i></a>{% endif %}
+  {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i></a>{% endif %}
+  {% if site.owner.google.plus %}<a href="http://plus.google.com/+{{ site.owner.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i></a>{% endif %}
+-->

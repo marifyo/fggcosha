@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "Your Annual Membership Fee is Due"
-description: "If you have not paid your membership fee, please do so now. The April 15th deadline has passed."
+author: ijay
+excerpt: "If you have not paid your membership fee, please do so now. The April 15th deadline has passed."
 modified: 2015-4-18
 tags: [fggc osha alumni, membership reminder]
-comments: true
+share: false
+comments: false
 published: true
 ---
 <figure>
@@ -16,14 +18,11 @@ published: true
 
 If not, here's our reminder to you to pay your $100 annual membership fee. 
 
-<br>
 New members have an additional $20 registration fee, a one-time payment.
 
-<br>
 Payment plans are available. Contact [the Financial Secretary](mailto:chinwe.onyekwelu@fggconitsha.com) for options.
 
-<br>
 As always, you are the strength of this chapter.
 
-<br>
+
 *Igwebuike Anyi!*

@@ -1,6 +1,6 @@
-# FGGC Onitsha, USA/Canada Alumni Association
+# FGGC Onitsha Alumnae Association USA/Canada Chapter
 
-This website created as an information website for the FGGC Onitsha, USA/Canada Alumni Association.
+This website created as an information website for the FGGC Onitsha Alumnae Association USA/Canada Chapter.
 
 ## Source
 

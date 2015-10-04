@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Torch is Passed - Our New Executives Assume Office"
-description: "As we usher in a new year, so we usher in a new committee to take over the leadership..."
+author: ify_obi
+excerpt: "As we usher in a new year, so we usher in a new committee to take over the leadership..."
 modified: 2015-01-10
 tags: [fggc osha alumni, meeting reminder]
 comments: true
@@ -54,9 +55,7 @@ We wish to express our heartfelt gratitude to our founding members and outgoing 
 |=====
 {: rules="groups"}
 
-<br>
 *"Coming together is a beginning. Keeping together is progress. Working together is success."*
-<br>
 *~ Henry Ford*
 
 <br>
