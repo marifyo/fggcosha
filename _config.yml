@@ -2,9 +2,9 @@
 header:           Test Site    
 title:            FGGC Onitsha Alumnae Association USA Canada Chapter
 locale:           en_US
-# url:            marifyo.github.io/fggcosha
+url:            marifyo.github.io/fggcosha
 # url:            http://fggconitsha.com
-url:			  http://localhost:4000 
+# url:			  http://localhost:4000 
 
 
 
