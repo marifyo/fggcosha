@@ -24,4 +24,5 @@ So don't wait, Shop! Shop! Shop!
 
 <div markdown="0"><a href="http://www.cafepress.com/fggcoshaalumnaeuccshop" class="btn btn-info">Shop Now</a></div>
 
-Questions? [Contact us](mailto:shop@alumnae.fggconitsha.com)
+## Questions? 
+[Contact us](mailto:shop@alumnae.fggconitsha.com)
