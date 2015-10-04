@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Open for Business"
-author: aijay
+author: gloria
 excerpt: "Our online store is now open for business! Check it out."
 modified: 2015-10-09
 tags: [fggc osha alumnae, shop, reunion2016]
 comments: true
 published: true
+image:
+  feature: merchshop.jpg
+
 ---
 
 We are thrilled to announce that our online store with branded merchandize ranging from our Chapter brand to our LA 2016 event, and even including other fun branding like Double Monger. 
