@@ -10,6 +10,7 @@ comments: true
 published: true
 image:
   feature: MrsObiesie6.png
+  credit: Ifeyinwa Obi
 ---
 *Introduction by Ifeyinwa Obi*
 

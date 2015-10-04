@@ -8,4 +8,5 @@ modified: 5-9-2015
 comments: false
 image:
   feature: spotlight1.jpg
+  credit: Ifeyinwa Obi
 ---

@@ -7,6 +7,7 @@ modified: 9-9-2013
 comments: false
 image:
   feature: houseflowers.jpg
+  credit: Ifeyinwa Obi
 ---
 
 <section id="table-of-contents" class="toc">

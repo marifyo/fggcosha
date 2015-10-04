@@ -9,6 +9,7 @@ categories: [spotlight]
 comments: true
 image:
   feature: okobiprofile.png
+  credit: Ifeyinwa Obi
 ---
 *Introduction by Ifeyinwa Obi*
 

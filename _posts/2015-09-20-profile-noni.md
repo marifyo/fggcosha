@@ -10,6 +10,7 @@ comments: true
 published: true
 image:
   feature: noni13.png
+  credit: Ifeyinwa Obi
 ---
 *By Elsie Obadiaru*
 

@@ -10,6 +10,7 @@ comments: true
 published: true
 image:
   feature: Unomabackground.png
+  credit: Ifeyinwa Obi
 ---
 *By Elsie Obadiaru*
 

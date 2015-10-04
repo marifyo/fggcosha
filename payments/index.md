@@ -9,6 +9,7 @@ comments: false
 share: false
 image:
   feature: paymentbanner2.jpg
+  credit: Ifeyinwa Obi
 ---
 <section id="table-of-contents" class="toc">
   <header>
