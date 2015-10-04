@@ -22,7 +22,7 @@ Our Alumnae Chapter shall receive a percentage of each sale which will go toward
 
 So don't wait, Shop! Shop! Shop! 
 
-<div markdown="0"><a href="http://www.cafepress.com/fggcoshaalumnaeuccshop" class="btn btn-info">Shop Now</a></div>
+<div markdown="0"><a href="http://www.cafepress.com/fggcoshaalumnaeuccshop" class="btn">Shop Now</a></div>
 
 ## Questions? 
 [Contact us](mailto:shop@alumnae.fggconitsha.com)
