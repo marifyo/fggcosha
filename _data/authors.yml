@@ -14,7 +14,7 @@ chinweoke_eke:
   name: Chinweoke Eke
   email: 
   bio: 
-  avatar: bio-chinweoke.jpg
+  avatar: bio/bio-chinweoke.jpg
   twitter: 
   google:
     plus: 
@@ -23,7 +23,7 @@ elsie:
   name: Elsie Olejeme Obadiaru
   email: 
   bio: 
-  avatar: bio-elsie.jpg
+  avatar: bio/bio-elsie.jpg
   twitter: 
   google:
     plus: 
@@ -32,7 +32,7 @@ aijay:
   name: Ijeoma (Aijay) Ejiofor Okaa
   email: 
   bio: Secretary, EXCO
-  avatar: bio-aijay.jpg
+  avatar: bio/bio-aijay.jpg
   twitter: 
   google:
     plus: 
@@ -41,7 +41,7 @@ ijay:
   name: Ijeoma Agulefo Obunse
   email: 
   bio: Treasurer, EXCO
-  avatar: bio-ijagulefo.jpg
+  avatar: bio/bio-ijagulefo.jpg
   twitter: 
   google:
     plus: 
@@ -50,7 +50,7 @@ jules:
   name: Juliet Ume-Onyido
   email: 
   bio: President, EXCO
-  avatar: bio-juliet.jpg
+  avatar: bio/bio-juliet.jpg
   twitter: 
   google:
     plus: 
@@ -59,7 +59,7 @@ titi:
   name: Titilayo Alakija Oyebadejo
   email: 
   bio: Legal Adviser, EXCO
-  avatar: bio-juliet.jpg
+  avatar: bio/bio-juliet.jpg
   twitter: 
   google:
     plus: 
@@ -68,7 +68,7 @@ chinweo:
   name: Chinwe Onyekwelu Abaelu
   email: 
   bio: Financial Secretaty, EXCO
-  avatar: bio-chinwe.jpg
+  avatar: bio/bio-chinwe.jpg
   twitter: 
   google:
     plus: 
@@ -77,7 +77,7 @@ gloria:
   name: Gloria Ejimbe Ilochonwu
   email: 
   bio: 
-  avatar: bio-gloria.jpg
+  avatar: bio/bio-gloria.jpg
   twitter: 
   google:
     plus: 
