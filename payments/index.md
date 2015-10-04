@@ -8,7 +8,7 @@ modified: 5-9-2015
 comments: false
 share: false
 image:
-  feature: paymentbanner.jpg
+  feature: paymentbanner2.jpg
 ---
 <section id="table-of-contents" class="toc">
   <header>

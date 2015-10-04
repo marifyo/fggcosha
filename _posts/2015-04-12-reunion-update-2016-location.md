@@ -9,7 +9,7 @@ categories: [reunion2016]
 comments: true
 published: true
 image:
-  feature: losangeles.png
+  feature: losangeles.jpg
 ---
 
 The location for our 4th Reunion is set. The city of Los Angeles, California will be hosting us for the Reunion, which next year will be a 4-day weekend. 

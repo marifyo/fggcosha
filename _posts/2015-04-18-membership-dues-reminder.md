@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Your Annual Membership Fee is Due"
-author: ijay
+author: chinweo
 excerpt: "If you have not paid your membership fee, please do so now. The April 15th deadline has passed."
 modified: 2015-4-18
 tags: [fggc osha alumni, membership reminder]

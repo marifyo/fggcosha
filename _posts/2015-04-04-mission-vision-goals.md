@@ -5,13 +5,13 @@ author: jules
 excerpt: "Thanks to all of you, we have clarified our mission, our vision and our goals as an organization. Join us in fulfilling them..."
 modified: 2015-04-05
 tags: [fggc osha alumni]
-comments: true
+comments: false
 published: true
 image:
   feature: MissionVisionGoals2.jpg
 ---
 ## Mission 
-To provide opportunities for FGGC Onitsha alumnae across North America, to collectively give back for the continued growth and development of our Alma Mater and the society, and to promote networking between alumnae that enrich their professional and personal lives.
+To provide opportunities for FGGC Onitsha alumnae across North America, to collectively give back for the continued growth and development of our Alma Mater and the society and to promote networking between alumnae that enrich their professional and personal lives.
 
 ## Vision 
 To build a strong sisterhood and provide all Alumnae the opportunity to actively and collectively support the school through service, philanthropy and leadership.
@@ -19,7 +19,7 @@ To build a strong sisterhood and provide all Alumnae the opportunity to actively
 ## Goals and Objectives
 
 1. Maintaining a comprehensive database of alumnae community in North America, to enhance collective engagement and contributions to our alma mater.
-2. Supporting the institution, which guided us through our formative years, by enhancing the educational (human capital) and infrastructural development (living environment), of the institution.
+2. Supporting the institution that guided us through our formative years, by enhancing the educational (human capital) and infrastructural development (living environment), of the institution.
 3. Providing avenues for social and professional mentoring & networking for the alumnae community.
 4. Implementing fundraising and social events/activities like the bi-annual conventions to support our alma mater.
 5. Undertaking projects that directly enhance the quality of life, teaching and learning environments of the students and members of staff.
