@@ -12,7 +12,7 @@ published: true
 We're 3 months in and things are heating up! September saw some fantastic submissions and the judges were spoilt for choice! The pictures were so good we added one more - by Popular choice!
 
 ## Lagos Chapter Ladies at their September Meeting - Pro Unitate!
-The alumnae of the Lagos Chapter at their September Meeting. Representatives from different sets makes for a lovely variety [Lagos Connection](https://www.facebook.com/photo.php?fbid=10153235239041656&set=oa.10152892392226244&type=3&theater).
+The alumnae of the Lagos Chapter at their September Meeting. Representatives from different sets makes for a lovely variety. [Lagos Connection](https://www.facebook.com/photo.php?fbid=10153235239041656&set=oa.10152892392226244&type=3&theater).
 <figure>
 	<a href="{{ site.url }}/images/lagoschapter-septmeeting.jpg"><img src="{{ site.url }}/images/lagoschapter-septmeeting.jpg"></a>
 </figure>
@@ -39,7 +39,7 @@ Yet another one of the pictures from the class of 1990 at the Bahamas made its w
 </figure>
 {: .image-pull-left}
 
-Thanks again to everyone for your submissions!
+Thanks again to everyone for the submissions!
 
 *Note:* Submitted your picture yet? Head over to the Facebook Album [Road to LA 2016 - Photo Search: Alumnae GROUP of The Year](https://www.facebook.com/media/set/?set=oa.10152892392226244&type=1), upload and hashtag ‪#‎FGGCOPhotoSearch‬.
 {: .notice} 

@@ -2,7 +2,7 @@
 layout: post
 title: "Open for Business"
 author: gloria
-excerpt: "Our online store is now open for business! Check it out."
+excerpt: "Our online store is now open for business! Check it out..."
 modified: 2015-10-06
 tags: [fggc osha alumnae, shop, reunion2016]
 comments: true
