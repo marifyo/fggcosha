@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Open for Business"
+title: "Open for Business!"
 author: gloria
-excerpt: "Our online store is now open for business! Check it out and Start Shopping..."
+excerpt: "Our online store is now open for business! Check it out and start shopping..."
 modified: 2015-10-06
 tags: [fggc osha alumnae, shop, reunion2016]
 comments: true

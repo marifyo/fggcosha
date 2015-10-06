@@ -76,7 +76,7 @@ $(document).ready(function() {
       singleItem:true,
       transitionStyle : "fade",
       autoPlay: true,
-      stopOnHover : true,
+      stopOnHover : false,
 
       // "singleItem:true" is a shortcut for:
       // items : 1, 
