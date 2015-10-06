@@ -16,7 +16,6 @@ Thanks to all who attended our meeting on September 12th 2015. The Minutes will 
 Our next monthly meeting is on **Saturday, October 10th 2015 at 11.00 am EST.**. 
 {: .notice} 
 
-<br>
 We shall have updates on the 2016 Reunion planning from the various committees especially regarding the venue. There shall also be a number of very key discussions and votes taken at this first meeting of the 4th quarter of 2015 so it is really important you attend and provide your valuable input.
 
 ## Dial In 

@@ -3,7 +3,7 @@ layout: post
 title: "Open for Business"
 author: gloria
 excerpt: "Our online store is now open for business! Check it out."
-modified: 2015-10-09
+modified: 2015-10-06
 tags: [fggc osha alumnae, shop, reunion2016]
 comments: true
 published: true
@@ -12,7 +12,7 @@ image:
   credit: Ifeyinwa Obi 
 ---
 
-We are thrilled to announce that our online store with branded merchandize ranging from our Chapter brand to our LA 2016 event, and even including other fun branding like Double Monger. 
+We are thrilled to announce that our online store with branded merchandize ranging from our Chapter brand to our LA 2016 event, and even including other fun branding like Double Monger is **NOW LIVE**. 
 
 Remember your Boarding House? You can get baseball caps with your House Name on it in your house color!
 

@@ -71,12 +71,12 @@ $(document).ready(function() {
   $("#owl-demo").owlCarousel({
  
       navigation : true, // Show next and prev buttons
-      slideSpeed : 500,
+      slideSpeed : 300,
       paginationSpeed : 400,
       singleItem:true,
       transitionStyle : "fade",
-      autoPlay: true
- //     stopOnHover : false,
+      autoPlay: true,
+      stopOnHover : true,
 
       // "singleItem:true" is a shortcut for:
       // items : 1, 

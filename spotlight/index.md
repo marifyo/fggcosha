@@ -7,6 +7,6 @@ tags: [profile]
 modified: 5-9-2015
 comments: false
 image:
-  feature: spotlight1.jpg
+  feature: spotlighting.jpg
   credit: Ifeyinwa Obi
 ---
