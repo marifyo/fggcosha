@@ -10,6 +10,7 @@ published: true
 image:
   feature: merchshop.jpg
   credit: Ifeyinwa Obi 
+  thumb: shop-thumb.jpg
 ---
 
 We are thrilled to announce that our online store with branded merchandize ranging from our Chapter brand to our LA 2016 Reunion Weekend event, and even including other fun branding like Double Monger is **NOW LIVE**. 
