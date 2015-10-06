@@ -20,7 +20,7 @@ Want to Give Back? Donate to our LA 2016 event by ordering from the Give Back se
 
 Our Alumnae Chapter shall receive a percentage of each sale which will go toward our project initiatives.
 
-So don't wait, Shop! Shop! Shop! 
+So don't wait! Shop! Shop! Shop! 
 
 <div markdown="0"><a href="http://www.cafepress.com/fggcoshaalumnaeuccshop" class="btn">Shop Now</a></div>
 
