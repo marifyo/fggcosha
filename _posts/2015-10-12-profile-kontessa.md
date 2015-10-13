@@ -20,10 +20,9 @@ In the month of October, we are shining our spotlight on Ijeoma Nwobi Ubosi, cla
 
 Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up, began her secondary school education at FGGC Sagamu then transferred to FGGC Onitsha in 1986. Ijeoma’s entrepreneurial spirit was first awakened in 1992 after her university freshman year.  While shopping at an outlet mall in the United States during her summer vacation, she began to actualize the idea of turning her love of shopping and her keen sense of style into a profitable side business. She purchased several name brand clothing that resulted in quick sales once back in the UK. Inspired by the success of this experience, Ijeoma began making frequent shopping trips to the US, and within a few years had expanded her customer base to Nigeria.
 
-In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
-
-![Smithsonian Image]({{ site.url }}/images/ijpro2.jpg)
+![Smithsonian Image]({{ site.url }}/images/ijpro.png)
 {: .image-pull-right}
+In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
 
 Looking back on how far she has come from the early days of her business, Ijeoma recounts the initial challenges she faced. From modest beginnings, selling her merchandise from her “mobile shop”, the trunk of the car she shared with her husband; to setting up shop in her living room on the weekends, where she made the shopping experience more enjoyable for her customers by creating a comfortable, spa-like atmosphere with hors d’oeuvres and drinks, she was able to build up a loyal clientele. Her business quickly outgrew the confines of her living room and she expanded by converting her guesthouse into a store.
 
@@ -61,9 +60,6 @@ In 2011, at the inaugural Reunion Weekend of the USA Canada Chapter in Atlanta, 
 
 **So what advice does Ijeoma have for budding entrepreneurs?**
 
-
-![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .image-pull-right}
 She believes the key to a successful business venture lies in identifying your passion and pursuing it whole-heartedly because *“doing what you love will give you the confidence to overcome any challenges and pitfalls that may arise”*.  She also recommends starting small to minimize financial loss and scaling up as your business grows.
 
 While Ijeoma hopes to someday practice pharmacy, now regulated in Nigeria, in the meantime she intends to ride the wave of the successes of her business ventures. And how does she do it all? As a wife, mother of three beautiful children (two daughters and a son), and a multi-business entrepreneur, she says the key to juggling these roles is making a conscious effort to create a good work-life balance.
