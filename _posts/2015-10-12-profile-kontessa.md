@@ -24,24 +24,29 @@ Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up,
 {: .image-pull-right}
 In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
 
-Looking back on how far she has come from the early days of her business, Ijeoma recounts the initial challenges she faced. From modest beginnings, selling her merchandise from her “mobile shop”, the trunk of the car she shared with her husband; to setting up shop in her living room on the weekends, where she made the shopping experience more enjoyable for her customers by creating a comfortable, spa-like atmosphere with hors d’oeuvres and drinks, she was able to build up a loyal clientele. Her business quickly outgrew the confines of her living room and she expanded by converting her guesthouse into a store.
-
 <figure>
 	<a href="{{ site.url }}/images/ijeoma.jpg"><img src="{{ site.url }}/images/ijeoma.jpg"></a>
 	<figcaption>Ijeoma at her at one of her Kontessa stores</figcaption>
 </figure>
 {: .image-pull-left}
+
+Looking back on how far she has come from the early days of her business, Ijeoma recounts the initial challenges she faced. From modest beginnings, selling her merchandise from her “mobile shop”, the trunk of the car she shared with her husband; to setting up shop in her living room on the weekends, where she made the shopping experience more enjoyable for her customers by creating a comfortable, spa-like atmosphere with hors d’oeuvres and drinks, she was able to build up a loyal clientele. Her business quickly outgrew the confines of her living room and she expanded by converting her guesthouse into a store.
  
 In 2000, three years after she began, Ijeoma opened her first store named Kontessa at Elpina Plaza, Victoria Island (VI), Lagos. In addition to the VI location, she now has locations in Ikeja, Lagos as well as in Abuja, Warri and Port Harcourt with plans to open another in Kano by the end of 2015. She believes that great customer service leading to positive feedback was pivotal to her success as her business grew from referrals made by satisfied customers.
 
+<figure>
+	<a href="{{ site.url }}/images/kontessa/storepic1.jpg"><img src="{{ site.url }}/images/kontessa/storepic1.jpg"></a>
+	<figcaption>A glimpse into one of the Kontessa stores</figcaption>
+</figure>
+{: .image-pull-left}
+
 Kontessa, a medium to high end apparel and leather goods store, initially only catered to the adult market. After a course at Lagos Business School made her aware that the younger generation was a profitable segment with rapid growth, Ijeoma expanded her inventory to children’s fashion. The course also made her see the value of diversification and so she added on two more businesses, **Arsenal Ventures**, which not only specializes in gold and diamond jewelry but also represents *Tumi* and *Lancel* luxury luggage brands, and **Nara Camicie**, a franchise Italian clothing line for men and women.
 
-<figure class="half">
-    <a href="{{ site.url }}/images/kontessa/storepic1.jpg"><img src="{{ site.url }}/images/kontessa/storepic1.jpg"></a>
-    <a href="{{ site.url }}/images/kontessa/storepic2.jpg"><img src="{{ site.url }}/images/kontessa/storepic2.jpg"></a>
-    <figcaption>A Glipmse into Kontessa Stores</figcaption>
+<figure>
+	<a href="{{ site.url }}/images/kontessa/storepic2.jpg"><img src="{{ site.url }}/images/kontessa/storepic2.jpg"></a>
 </figure>
-<br>
+{: .image-pull-left}
+
 Aside from running her various fashion enterprises, Ijeoma is passionate about giving back to the community.  She firmly believes that it is crucial to find time to help those that need assistance in the community, and that all your accomplishments in life mean nothing if you are unable to positively impact your environment and society.  
 
 Sharing her experiences with those around her and encouraging others to utilize their God-given talents to pursue their goals is extremely important to her, which is why she has become a business mentor to other aspiring entrepreneurs, and been instrumental in helping others set up their own business.
