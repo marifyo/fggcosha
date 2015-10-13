@@ -124,6 +124,9 @@ You can pay via our PayPal option. You may also pay by mail or into our bank acc
 
 <div markdown="0"><a href="{{site.url}}/payments" class="btn btn-info">More About Payments</a></div>
 
+### Meetings
+Our Monthly meetings are every **second Saturday at 11am ET**. For conference call details, email [our Secretary](mailto:ijeoma.ejiofor@fggconitsha.com).
+
 ## How to Help
 
 There are various ways in which you can support the FGGC Onitsha Alumnae Association USA/Canada Chapter and its mission. As a member, you will be invited to participate in several give back initiatives. Members and non-members may also donate financially to support our various project initiatives.

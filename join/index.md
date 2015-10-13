@@ -18,10 +18,19 @@ tags: [register]
 
 
 ## Join The Chapter
-Please fill out the form below to submit a registration request. You can also refer an alumna who you know resides in USA or Canada for membership.
+Are you an alumna in the USA or Canada?
+
+Join us and be part of a vibrant group of women doing great things, supporting one another, networking and giving back to our alma mater!
+
+**Want to learn more?**
+Our Monthly meetings are every **second Saturday at 11am ET**. For conference call details, email [our Secretary](mailto:ijeoma.ejiofor@fggconitsha.com).
+
+Our Association Fees are $120 for new members, including the $20 one-time registration fee and $100 annual membership fee.
+
+To join, please fill out the form below and submit a registration request. You can also refer an alumna who you know resides in USA or Canada for membership.
 
 ### Registration Request
-<iframe src="https://docs.google.com/forms/d/1TYzcvzzAS5EP6TpK9YKKQVIkDnyN7WRP0U6FJTHx_9M/viewform?embedded=true" width="540" height="1160" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1TYzcvzzAS5EP6TpK9YKKQVIkDnyN7WRP0U6FJTHx_9M/viewform?embedded=true" width="540" height="1420" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <hr>
 
