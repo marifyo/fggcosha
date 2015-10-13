@@ -30,15 +30,14 @@ Looking back on how far she has come from the early days of her business, Ijeoma
  
 In 2000, three years after she began, Ijeoma opened her first store named Kontessa at Elpina Plaza, Victoria Island (VI), Lagos. In addition to the VI location, she now has locations in Ikeja, Lagos as well as in Abuja, Warri and Port Harcourt with plans to open another in Kano by the end of 2015. She believes that great customer service leading to positive feedback was pivotal to her success as her business grew from referrals made by satisfied customers.
 
+Kontessa, a medium to high end apparel and leather goods store, initially only catered to the adult market. After a course at Lagos Business School made her aware that the younger generation was a profitable segment with rapid growth, Ijeoma expanded her inventory to children’s fashion. The course also made her see the value of diversification and so she added on two more businesses, **Arsenal Ventures**, which not only specializes in gold and diamond jewelry but also represents *Tumi* and *Lancel* luxury luggage brands, and **Nara Camicie**, a franchise Italian clothing line for men and women.
+
 <figure class="half">
     <a href="{{ site.url }}/images/kontessa/storepic1.jpg"><img src="{{ site.url }}/images/kontessa/storepic1.jpg"></a>
     <a href="{{ site.url }}/images/kontessa/storepic2.jpg"><img src="{{ site.url }}/images/kontessa/storepic2.jpg"></a>
     <figcaption>Kontessa Stores</figcaption>
 </figure>
-
-
-Kontessa, a medium to high end apparel and leather goods store, initially only catered to the adult market. After a course at Lagos Business School made her aware that the younger generation was a profitable segment with rapid growth, Ijeoma expanded her inventory to children’s fashion. The course also made her see the value of diversification and so she added on two more businesses, Arsenal Ventures, which not only specializes in gold and diamond jewelry but also represents Tumi and Lancel luxury luggage brands, and Nara Camicie, a franchise Italian clothing line for men and women.
-
+<br>
 Aside from running her various fashion enterprises, Ijeoma is passionate about giving back to the community.  She firmly believes that it is crucial to find time to help those that need assistance in the community, and that all your accomplishments in life mean nothing if you are unable to positively impact your environment and society.  
 
 Sharing her experiences with those around her and encouraging others to utilize their God-given talents to pursue their goals is extremely important to her, which is why she has become a business mentor to other aspiring entrepreneurs, and been instrumental in helping others set up their own business.
