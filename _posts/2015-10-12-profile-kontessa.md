@@ -58,6 +58,9 @@ In 2011, at the inaugural Reunion Weekend of the USA Canada Chapter in Atlanta, 
 
 **So what advice does Ijeoma have for budding entrepreneurs?**
 
+
+![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
+{: .image-pull-right}
 She believes the key to a successful business venture lies in identifying your passion and pursuing it whole-heartedly because *“doing what you love will give you the confidence to overcome any challenges and pitfalls that may arise”*.  She also recommends starting small to minimize financial loss and scaling up as your business grows.
 
 While Ijeoma hopes to someday practice pharmacy, now regulated in Nigeria, in the meantime she intends to ride the wave of the successes of her business ventures. And how does she do it all? As a wife, mother of three beautiful children (two daughters and a son), and a multi-business entrepreneur, she says the key to juggling these roles is making a conscious effort to create a good work-life balance.
