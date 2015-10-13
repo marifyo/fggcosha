@@ -20,8 +20,6 @@ In the month of October, we are shining our spotlight on Ijeoma Nwobi Ubosi, cla
 
 Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up, began her secondary school education at FGGC Sagamu then transferred to FGGC Onitsha in 1986. Ijeoma’s entrepreneurial spirit was first awakened in 1992 after her university freshman year.  While shopping at an outlet mall in the United States during her summer vacation, she began to actualize the idea of turning her love of shopping and her keen sense of style into a profitable side business. She purchased several name brand clothing that resulted in quick sales once back in the UK. Inspired by the success of this experience, Ijeoma began making frequent shopping trips to the US, and within a few years had expanded her customer base to Nigeria.
 
-![Smithsonian Image]({{ site.url }}/images/ijpro.png)
-{: .image-pull-right}
 In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
 
 <figure>
@@ -51,6 +49,8 @@ Aside from running her various fashion enterprises, Ijeoma is passionate about g
 
 Sharing her experiences with those around her and encouraging others to utilize their God-given talents to pursue their goals is extremely important to her, which is why she has become a business mentor to other aspiring entrepreneurs, and been instrumental in helping others set up their own business.
 
+![Smithsonian Image]({{ site.url }}/images/ijpro.png)
+{: .image-pull-right}
 Another way in which Ijeoma gives back to the community is through the Freedom Foundation run by The Present House Church, Lagos where Ijeoma is a member. The foundation supports children unable to afford an education and also rehabilitates prostitutes and drug addicts. Ijeoma not only contributes financially to the foundation but also gives motivational talks to the beneficiaries. 
 
 A few years ago, when FGGC Onitsha AlumnaeAssociation’s Lagos Chapter approached Ijeoma about giving back to the school, she gladly contributed toward a prize for the student with the highest mark in Chemistry at the annual speech and prize giving day event. 
