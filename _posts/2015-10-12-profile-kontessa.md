@@ -36,6 +36,7 @@ In 2000, three years after she began, Ijeoma opened her first store named Kontes
     <figcaption>Kontessa Stores</figcaption>
 </figure>
 
+
 Kontessa, a medium to high end apparel and leather goods store, initially only catered to the adult market. After a course at Lagos Business School made her aware that the younger generation was a profitable segment with rapid growth, Ijeoma expanded her inventory to children’s fashion. The course also made her see the value of diversification and so she added on two more businesses, Arsenal Ventures, which not only specializes in gold and diamond jewelry but also represents Tumi and Lancel luxury luggage brands, and Nara Camicie, a franchise Italian clothing line for men and women.
 
 Aside from running her various fashion enterprises, Ijeoma is passionate about giving back to the community.  She firmly believes that it is crucial to find time to help those that need assistance in the community, and that all your accomplishments in life mean nothing if you are unable to positively impact your environment and society.  
@@ -56,7 +57,7 @@ In 2011, at the inaugural Reunion Weekend of the USA Canada Chapter in Atlanta, 
 
 > Identify your passion and pursue it wholeheartedly. Doing what you love will give you the confidence to overcome any challenges and pitfalls that may arise.
 
-*So what advice does Ijeoma have for budding entrepreneurs?*
+**So what advice does Ijeoma have for budding entrepreneurs?**
 
 She believes the key to a successful business venture lies in identifying your passion and pursuing it whole-heartedly because *“doing what you love will give you the confidence to overcome any challenges and pitfalls that may arise”*.  She also recommends starting small to minimize financial loss and scaling up as your business grows.
 
