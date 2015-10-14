@@ -49,7 +49,7 @@
     <article>
       {% if post.link %}
         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-        <p style="margin-top: -0.9em; margin-bottom: 0em;">{{ post.date | date: '%D' }}</span>
+        <p style="margin-top: -1.1em; margin-bottom: 0em;">{{ post.date | date: '%D' }}</span>
      {% else %}
         <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
         <p style="margin-top: 0.6em; margin-bottom: 0em;">{{ post.date | date: '%D' }}</span>
