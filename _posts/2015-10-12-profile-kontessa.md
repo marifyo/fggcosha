@@ -27,7 +27,7 @@ In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris U
 Looking back on how far she has come from the early days of her business, Ijeoma recounts the initial challenges she faced. From modest beginnings, selling her merchandise from her “mobile shop”, the trunk of the car she shared with her husband; to setting up shop in her living room on the weekends, where she made the shopping experience more enjoyable for her customers by creating a comfortable, spa-like atmosphere with hors d’oeuvres and drinks, she was able to build up a loyal clientele. Her business quickly outgrew the confines of her living room and she expanded by converting her guesthouse into a store.
 
 <figure>
-<a href="{{ site.url }}/images/kontessa/ijestore.jpg"><img src="{{ site.url }}/images/kontessa/ijestore.jpg"></a>
+<a href="{{ site.url }}/images/kontessa/ijestore.JPG"><img src="{{ site.url }}/images/kontessa/ijestore.JPG"></a>
 <figcaption>Ijeoma at her at one of her Kontessa stores</figcaption>
 </figure>
  
