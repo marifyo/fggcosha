@@ -24,7 +24,7 @@ In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris U
 
 <figure>
 <a href="{{ site.url }}/images/kontessa/ijestore1.jpg"><img src="{{ site.url }}/images/kontessa/ijestore1.jpg"></a>
-<figcaption>Ijeoma at her at one of her Kontessa stores</figcaption>
+<figcaption>Ijeoma at one of her Kontessa stores</figcaption>
 </figure>
 {: .image-pull-left}
 
