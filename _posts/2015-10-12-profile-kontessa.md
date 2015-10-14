@@ -2,7 +2,7 @@
 layout: spotlight
 title: Spotlight Corner - Ijeoma Nwobi Ubosi
 author: ijay
-excerpt: "Check out our October Spotlight in the Fostering Unity Series featuring Ijeoma Nwobi Ubosi, Class of '89."
+excerpt: "Check out our October Spotlight for the Fostering Unity Series featuring Ijeoma Nwobi Ubosi, Class of '89."
 modified: 2015-10-12
 tags: [fggc osha alumni, profile]
 categories: [spotlight, reunion2016]
