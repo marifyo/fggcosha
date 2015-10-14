@@ -16,7 +16,7 @@ By Ijeoma Agulefo Obunse
 
 > Identify your passion and pursue it wholeheartedly. Doing what you love will give you the confidence to overcome any challenges and pitfalls that may arise. ~ Ijeoma Ubosi
 
-In the month of October, we are shining our spotlight on Ijeoma Nwobi Ubosi, class of ‘89, a trained pharmacist from the University of Bath, UK who decided to follow her passion and launch her own fashion business. Ijeoma is the founder and CEO of Kontessa, a multi-branch fashion retail store, and of Arsenal Ventures, and has been a successful entrepreneur for over a decade. 
+In the month of October, we are shining our spotlight on Ijeoma Nwobi Ubosi, class of ‘89, a trained pharmacist, graduate of the University of Bath, UK who decided to follow her passion and launch her own fashion business. Ijeoma is the founder and CEO of Kontessa, a multi-branch fashion retail store, and of Arsenal Ventures, and has been a successful entrepreneur for over a decade. 
 
 Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up, began her secondary school education at FGGC Sagamu then transferred to FGGC Onitsha in 1986. Ijeoma’s entrepreneurial spirit was first awakened in 1992 after her university freshman year.  While shopping at an outlet mall in the United States during her summer vacation, she began to actualize the idea of turning her love of shopping and her keen sense of style into a profitable side business. She purchased several name brand clothing that resulted in quick sales once back in the UK. Inspired by the success, Ijeoma began making frequent shopping trips to the US, and within a few years had expanded her customer base to Nigeria.
 
