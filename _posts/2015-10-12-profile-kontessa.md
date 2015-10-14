@@ -51,7 +51,7 @@ Another way in which Ijeoma gives back to the community is through the Freedom F
 
 A few years ago, when FGGC Onitsha Alumnae Association’s Lagos Chapter approached Ijeoma about giving back to the school, she gladly contributed toward a prize for the student with the highest mark in Chemistry at the annual speech and prize giving day event. 
 
-In 2011, at the inaugural Reunion Weekend of the USA Canada Chapter in Atlanta, Ijeoma followed up with a donation of One Million Naira toward a school bus for the students. She then made another donation of Six Thousand Dollars at the 2014 3rd Reunion Weekend in Maryland, for the renovation of the school library. Needless to say, the FGGC Onitsha Alumnae Association is extremely grateful to Ijeoma for her generosity and applauds her efforts to support our alma mater.
+In 2011, at the inaugural Reunion Weekend of the USA Canada Chapter in Atlanta, Ijeoma followed up with a donation of one million naira toward a school bus for the students. She then made another donation of six thousand dollars at the 2014 3rd Reunion Weekend in Maryland, for the renovation of the school library. Needless to say, the FGGC Onitsha Alumnae Association is extremely grateful to Ijeoma for her generosity and applauds her efforts to support our alma mater.
 
 <figure>
 	<a href="{{ site.url }}/images/kontessa/ijeoma3.jpg"><img src="{{ site.url }}/images/kontessa/ijeoma3.jpg"></a>
