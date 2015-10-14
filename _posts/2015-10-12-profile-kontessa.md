@@ -23,8 +23,10 @@ Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up,
 In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
 
 <figure>
-<a href="{{ site.url }}/images/kontessa/ijestore.png"><img src="{{ site.url }}/images/kontessa/ijestore.png"></a>
+<a href="{{ site.url }}/images/kontessa/ijestore1.jpg"><img src="{{ site.url }}/images/kontessa/ijestore1.jpg"></a>
+<figcaption>Ijeoma at her at one of her Kontessa stores</figcaption>
 </figure>
+{: .image-pull-left}
 
 Looking back on how far she has come from the early days of her business, Ijeoma recounts the initial challenges she faced. From modest beginnings, selling her merchandise from her “mobile shop”, the trunk of the car she shared with her husband; to setting up shop in her living room on the weekends, where she made the shopping experience more enjoyable for her customers by creating a comfortable, spa-like atmosphere with hors d’oeuvres and drinks, she was able to build up a loyal clientele. Her business quickly outgrew the confines of her living room and she expanded by converting her guesthouse into a store.
  
@@ -36,7 +38,7 @@ In 2000, three years after she began, Ijeoma opened her first store named Kontes
 </figure>
 {: .image-pull-left}
 
-Kontessa, a medium to high end apparel and leather goods store, initially only catered to the adult market. After a course at Lagos Business School made her aware that the younger generation was a profitable segment with rapid growth, Ijeoma expanded her inventory to children’s fashion. The course also made her see the value of diversification and so she added on two more businesses, **Arsenal Ventures**, which not only specializes in gold and diamond jewelry but also represents *Tumi* and *Lancel* luxury luggage brands, and **Nara Camicie**, a franchise Italian clothing line for men and women.
+Kontessa, a medium to high end apparel and leather goods store, initially only catered to the adult market. After a course at Lagos Business School made her aware that the younger generation was a profitable segment with rapid growth, Ijeoma expanded her inventory to children’s fashion. The course also made her see the value of diversification and so she added on two more businesses; **Arsenal Ventures**, which not only specializes in gold and diamond jewelry but also represents *Tumi* and *Lancel* luxury luggage brands, and **Nara Camicie**, a franchise Italian clothing line for men and women.
 
 <figure>
 	<a href="{{ site.url }}/images/kontessa/storepic2.jpg"><img src="{{ site.url }}/images/kontessa/storepic2.jpg"></a>
@@ -47,11 +49,11 @@ Aside from running her various fashion enterprises, Ijeoma is passionate about g
 
 Sharing her experiences with those around her and encouraging others to utilize their God-given talents to pursue their goals is extremely important to her, which is why she has become a business mentor to other aspiring entrepreneurs, and been instrumental in helping others set up their own business.
 
-Another way in which Ijeoma gives back to the community is through the Freedom Foundation run by The Present House Church, Lagos where Ijeoma is a member. The foundation supports children unable to afford an education and also rehabilitates prostitutes and drug addicts. Ijeoma not only contributes financially to the foundation but also gives motivational talks to the beneficiaries. 
+Another way in which Ijeoma gives back to the community is through the Freedom Foundation run by This Present House Church, Lagos where Ijeoma is a member. The foundation supports children unable to afford an education and also rehabilitates prostitutes and drug addicts. Ijeoma not only contributes financially to the foundation but also gives motivational talks to the beneficiaries. 
 
 A few years ago, when FGGC Onitsha Alumnae Association’s Lagos Chapter approached Ijeoma about giving back to the school, she gladly contributed toward a prize for the student with the highest mark in Chemistry at the annual speech and prize giving day event. 
 
-In 2011, at the inaugural Reunion Weekend of the USA Canada Chapter in Atlanta, Ijeoma followed up with a donation of one million naira toward a school bus for the students. She then made another donation of six thousand dollars at the 2014 3rd Reunion Weekend in Maryland, for the renovation of the school library. Needless to say, the FGGC Onitsha Alumnae Association is extremely grateful to Ijeoma for her generosity and applauds her efforts to support our alma mater.
+In 2011, at the inaugural Reunion Weekend of the USA/Canada Chapter in Atlanta, Ijeoma followed up with a donation of one million naira toward a school bus for the students. She then made another donation of six thousand dollars at the 2014 3rd Reunion Weekend in Maryland, for the renovation of the school library. Needless to say, the FGGC Onitsha Alumnae Association is extremely grateful to Ijeoma for her generosity and applauds her efforts to support our alma mater.
 
 <figure>
 	<a href="{{ site.url }}/images/kontessa/ijeoma3.jpg"><img src="{{ site.url }}/images/kontessa/ijeoma3.jpg"></a>
