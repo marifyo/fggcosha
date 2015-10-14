@@ -18,17 +18,14 @@ By Ijeoma Agulefo Obunse
 
 In the month of October, we are shining our spotlight on Ijeoma Nwobi Ubosi, class of ‘89, a trained pharmacist and graduate of the University of Bath, UK who decided to follow her passion and launch her own fashion business. Ijeoma is the founder and CEO of Kontessa, a multi-branch fashion retail store, and of Arsenal Ventures, and has been a successful entrepreneur for over a decade. 
 
-<figure>
-<a href="{{ site.url }}/images/kontessa/ijestore.png"><img src="{{ site.url }}/images/kontessa/ijestore.png"></a>
-<figcaption>Ijeoma at her at one of her Kontessa stores</figcaption>
-</figure>
-
 Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up, began her secondary school education at FGGC Sagamu then transferred to FGGC Onitsha in 1986. Ijeoma’s entrepreneurial spirit was first awakened in 1992 after her university freshman year.  While shopping at an outlet mall in the United States during her summer vacation, she began to actualize the idea of turning her love of shopping and her keen sense of style into a profitable side business. She purchased several name brand clothing that resulted in quick sales once back in the UK. Inspired by the success, Ijeoma began making frequent shopping trips to the US, and within a few years had expanded her customer base to Nigeria.
 
 In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
 
-![Smithsonian Image]({{ site.url }}/images/kontessa/ijpro.png)
-{: .image-pull-right}
+<figure>
+<a href="{{ site.url }}/images/kontessa/ijestore.png"><img src="{{ site.url }}/images/kontessa/ijestore.png"></a>
+</figure>
+
 Looking back on how far she has come from the early days of her business, Ijeoma recounts the initial challenges she faced. From modest beginnings, selling her merchandise from her “mobile shop”, the trunk of the car she shared with her husband; to setting up shop in her living room on the weekends, where she made the shopping experience more enjoyable for her customers by creating a comfortable, spa-like atmosphere with hors d’oeuvres and drinks, she was able to build up a loyal clientele. Her business quickly outgrew the confines of her living room and she expanded by converting her guesthouse into a store.
  
 In 2000, three years after she began, Ijeoma opened her first store named Kontessa at Elpina Plaza, Victoria Island (VI), Lagos. In addition to the VI location, she now has locations in Ikeja, Lagos as well as in Abuja, Warri and Port Harcourt with plans to open another in Kano by the end of 2015. She believes that great customer service leading to positive feedback was pivotal to her success as her business grew from referrals made by satisfied customers.
