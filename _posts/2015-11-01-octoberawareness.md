@@ -22,9 +22,14 @@ Issues which have directly impacted our lives or the life of at least one person
 
 Indeed the month of Pink and Purple is one which is recognized across the globe and many have rallied to raise awareness, funding and support for these two causes.
 
-Many of our alumna have been involved in some form or the other. 
+Many of our alumna have been involved in some form or the other. In particular, we want to acknowledge the class of ’89’s own Oge Nwakoby Ilegbune, who having recently relocated from the UK to Nigeria, has been passionately and actively raising awareness for breast cancer in our home country.
+<figure>
+<a href="{{ site.url }}/images/bca/oge.jpg"><img src="{{ site.url }}/images/bca/oge.jpg"></a>
+<figcaption>Dr. Oge Nwakoby Ilegbune, championing the fight against breast cancer by raising awareness and inspiring her classmates to join her.</figcaption>
+</figure>
+{: .image-pull-left}
 
-In particular, we want to acknowledge the class of ’89’s own Oge Nwakoby Ilegbune, who having recently relocated from the UK to Nigeria, has been passionately and actively raising awareness for breast cancer in our home country, #BeBreastWise, and her mission engaged her fellow alumna classmates who banded and joined in her cause, raising breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even to the U.S., class of 1989 alumnae gathered, some in public places, using their branded t-shirts as a conversation piece for anyone they met, some even involved their colleagues in various ways.
+#BeBreastWise, and her mission engaged her fellow alumna classmates who banded and joined in her cause, raising breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even to the U.S., class of 1989 alumnae gathered, some in public places, using their branded t-shirts as a conversation piece for anyone they met, some even involved their colleagues in various ways.
 
 Indeed, we celebrate the class of ’89, along with Dr. Mrs. Oge Nwakoby Ilegbune, for their active participation in the cause.
 
@@ -35,20 +40,10 @@ We are Women! We are powerful! We can do much! When you wake up tomorrow, know t
 Step Out, Step Up, Be, Give, Live!
 
 Watch the clip of Dr Oge Ilegbune’s Interview on Inside Eve on YouTube:
-{% highlight html %}
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jBF288cjO4I" frameborder="0"> </iframe>
-{% endhighlight %}
 The interview is 23 mins into the show.
 
 Check out the pics and stories from the Class of 89’s Breast Cancer Awareness support.
-<figure>
-<a href="{{ site.url }}/images/bca/oge.jpg"><img src="{{ site.url }}/images/bca/oge.jpg"></a>
-<figcaption>Dr. Oge Nwakoby Ilegbune, championing the fight against breast cancer by raising awareness and inspiring her classmates to join her.</figcaption>
-</figure>
-{: .image-pull-left}
-
----
-
 <figure>
 <a href="{{ site.url }}/images/bca/c89bca.jpg"><img src="{{ site.url }}/images/bca/c89bca.jpg"></a>
 <figcaption>Class of 1989 - Fostering Unity and Raising Awareness for Breast Cancer.</figcaption>
