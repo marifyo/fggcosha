@@ -44,7 +44,7 @@ Another champion of these predominantly women’s causes is our very own Chapter
 
 We are Women! We are powerful! We can do much! 
 
-![Domestic Violence Awareness]({{ site.url }}/images/dv.jpg)
+![Domestic Violence Awareness]({{ site.url }}/images/dv.JPG)
 {: .image-pull-right}
 When you wake up tomorrow, know that you have many gifts, know that you are empowered, know that you can make a difference that day, know that you DO make a difference, you add tremendous value; don’t ever let anyone tell you otherwise.
 
