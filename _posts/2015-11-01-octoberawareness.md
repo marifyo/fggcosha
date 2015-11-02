@@ -29,7 +29,7 @@ Many of our alumna have been involved in some form or the other. In particular, 
 </figure>
 {: .image-pull-left}
 
-The hashtag, #BeBreastWise", and her mission engaged her fellow alumna classmates who banded and joined in her cause, raising breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even to the U.S., class of 1989 alumnae gathered, some in public places, using their branded t-shirts as a conversation piece for anyone they met, some even involved their colleagues in various ways.
+The hashtag, #BeBreastWise", and her mission engaged her fellow alumna classmates who banded and joined in her cause, raising breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even to the U.S., class of 1989 alumnae gathered, some in public places, using their branded t-shirts as a conversation piece for anyone they met; some even involved their colleagues in various ways.
 
 Indeed, we celebrate the class of ’89, along with Dr. Mrs. Oge Nwakoby Ilegbune, for their active participation in the cause.
 
@@ -39,9 +39,10 @@ We are Women! We are powerful! We can do much! When you wake up tomorrow, know t
 
 Step Out, Step Up, Be, Give, Live!
 
-Watch the clip of Dr Oge Ilegbune’s Interview on Inside Eve on YouTube:
+---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jBF288cjO4I" frameborder="0">  </iframe>
+Watch the clip of Dr Oge Ilegbune’s Interview on Inside Eve on YouTube:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jBF288cjO4I" frameborder="0" > </iframe>
 
 The interview is 23 mins into the show.
 
