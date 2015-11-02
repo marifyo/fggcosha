@@ -23,7 +23,7 @@ Ijeoma or **‘Kontessa,’** as she is fondly known in Lagos where she grew up,
 In 1997, Ijeoma relocated back to Nigeria and shortly thereafter married Chris Ubosi, the love of her life. Disenchanted with the state of the pharmaceutical industry in Nigeria which was unregulated, Ijeoma decided to put her pharmacy career on hold and focus her attention on her family and on building up her fashion business. To her utmost joy, within a few short years, her company Kontessa was thriving.
 
 <figure>
-<a href="{{ site.url }}/images/kontessa/ijestore1.jpg"><img src="{{ site.url }}/images/kontessa/ijestore1.jpg"></a>
+<a href="{{ site.url }}/images/kontessa/ijestore2.jpg"><img src="{{ site.url }}/images/kontessa/ijestore2.jpg"></a>
 <figcaption>Ijeoma at one of her Kontessa stores</figcaption>
 </figure>
 {: .image-pull-left}
@@ -51,7 +51,7 @@ Sharing her experiences with those around her and encouraging others to utilize 
 
 Another way in which Ijeoma gives back to the community is through the Freedom Foundation run by This Present House Church, Lagos where Ijeoma is a member. The foundation supports children unable to afford an education and also rehabilitates prostitutes and drug addicts. Ijeoma not only contributes financially to the foundation but also gives motivational talks to the beneficiaries. 
 
-A few years ago, when FGGC Onitsha Alumnae Association’s Lagos Chapter approached Ijeoma about giving back to the school, she gladly contributed toward a prize for the student with the highest mark in Chemistry at the annual speech and prize giving day event. 
+A few years ago, when FGGC Onitsha Alumnae Association’s Lagos Chapter approached Ijeoma about giving back to the school, she gladly contributed toward a prize for the student with the highest score in Chemistry at the annual speech and prize giving day event. 
 
 In 2011, at the inaugural Reunion Weekend of the USA/Canada Chapter in Atlanta, Ijeoma followed up with a donation of one million naira toward a school bus for the students. She then made another donation of six thousand dollars at the 2014 3rd Reunion Weekend in Maryland, for the renovation of the school library. Needless to say, the FGGC Onitsha Alumnae Association is extremely grateful to Ijeoma for her generosity and applauds her efforts to support our alma mater.
 
