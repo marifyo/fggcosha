@@ -40,12 +40,12 @@ We recognize and applaud the class of ’89, along with Dr. Mrs. Oge Nwakoby Ile
 
 ---
 
+![Domestic Violence Awareness]({{ site.url }}/images/dv.JPG)
+{: .image-pull-right}
 Another champion of these predominantly women’s causes is our very own Chapter President, Juliet Ume-Onyido, who is very active in the empowerment and liberation of women, and in raising awareness and providing support for survivors of Domestic Violence. With her enlightening posts shared on FB and on [her website](http://www.wholewomannetwork.com), we get an insight into how she has touched the lives of women who have struggled, some surviving, some not so fortunate, as they strive to break the chains of domestic violence in their lives.
 
 We are Women! We are powerful! We can do much! 
 
-![Domestic Violence Awareness]({{ site.url }}/images/dv.JPG)
-{: .image-pull-right}
 When you wake up tomorrow, know that you have many gifts, know that you are empowered, know that you can make a difference that day, know that you DO make a difference, you add tremendous value; don’t ever let anyone tell you otherwise.
 
 Step Out, Step Up, Be, Give, Live!
