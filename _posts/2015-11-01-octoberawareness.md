@@ -35,13 +35,13 @@ Watch the clip of Dr Oge Ilegbune’s Interview on Inside Eve on YouTube:
 
 The interview is **23 mins** into the show.
 
-The hashtag, #BeBreastWise", and her mission engaged her fellow alumna classmates who banded and joined in her cause, raising breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even to the U.S., class of 1989 alumnae gathered, some in public places, using their branded t-shirts as a conversation piece for anyone they met; some even involved their colleagues in various ways.
+The hashtag, #BeBreastWise", and her mission engaged her fellow alumna classmates who banded and joined in her campaign to raise breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even in the U.S., class of 1989 alumnae gathered, some in public places, using their branded "Class of 89 - Breast Cancer Awareness" t-shirts as a conversation piece for anyone they encountered; some even involved their colleagues in various ways.
 
-Indeed, we celebrate the class of ’89, along with Dr. Mrs. Oge Nwakoby Ilegbune, for their active participation in the cause.
+We recognize and applaud the class of ’89, along with Dr. Mrs. Oge Nwakoby Ilegbune, for their active participation in the cause.
 
 ---
 
-Another champion of these predominantly women’s causes is our very own Chapter President, Juliet Ume-Onyido, who is very active in the empowerment and liberation of women, and in raising awareness and providing support for survivors of Domestic Violence. With her empowering and enlightening posts shared on FB and her website, http://www.wholewomannetwork.com, we get an insight into how she has touched the lives of women who have struggled, some surviving, some not so fortunate, as they strive to break the chains of domestic violence in their lives.
+Another champion of these predominantly women’s causes is our very own Chapter President, Juliet Ume-Onyido, who is very active in the empowerment and liberation of women, and in raising awareness and providing support for survivors of Domestic Violence. With her enlightening posts shared on FB and on [her website](http://www.wholewomannetwork.com), we get an insight into how she has touched the lives of women who have struggled, some surviving, some not so fortunate, as they strive to break the chains of domestic violence in their lives.
 
 We are Women! We are powerful! We can do much! 
 
@@ -62,7 +62,7 @@ Check out the pics and stories from the Class of '89’s Breast Cancer Awareness
 
 <figure>
 <a href="{{ site.url }}/images/bca/ogoandcolleagues.jpg"><img src="{{ site.url }}/images/bca/ogoandcolleagues.jpg"></a>
-<figcaption>Ogo Emodi Akpan with her colleagues in the office. </figcaption>
+<figcaption>Ogo Emodi Akpan, 2nd right, with her colleagues in the office. </figcaption>
 </figure>
 {: .image-pull-left}
 
@@ -79,7 +79,7 @@ Check out the pics and stories from the Class of '89’s Breast Cancer Awareness
 <figure class="half">
 	<a href="{{ site.url }}/images/bca/ogeandnenyeteam1.jpg"><img src="{{ site.url }}/images/bca/ogeandnenyeteam1.jpg"></a>
 	<a href="{{ site.url }}/images/bca/nenyegrp.jpg"><img src="{{ site.url }}/images/bca/nenyegrp.jpg"></a>
-	<figcaption>Chinenye Cynthia Enuma Ucheaguwa, with her business team, supporting the awareness campaign.</figcaption>
+	<figcaption>Chinenye Cynthia Enuma Ucheaguwa, with her business team, supporting the #BeBreastWise campaign.</figcaption>
 </figure>
 
 
