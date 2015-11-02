@@ -34,7 +34,7 @@ Watch the clip of Dr Oge Ilegbune’s Interview on Inside Eve on YouTube:
 
 The interview is **23 mins** into the show.
 
-The hashtag, #BeBreastWise", and her mission engaged her fellow alumna classmates who banded and joined in her campaign to raise breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even in the U.S., class of 1989 alumnae gathered, some in public places, using their branded "Class of 89 - Breast Cancer Awareness" t-shirts as a conversation piece for anyone they encountered; some even involved their colleagues in various ways.
+The hashtag, #BeBreastWise", and her mission motivated her fellow alumna classmates who banded and joined in her campaign to raise breast cancer awareness in the month of October. From the shores of Nigeria, in the UK and even in the U.S., class of 1989 alumnae gathered, some in public places, using their branded "Class of 89 - Breast Cancer Awareness" t-shirts as a conversation piece for anyone they encountered; some even involved their colleagues in various ways.
 
 We recognize and applaud the class of ’89, along with Dr. Mrs. Oge Nwakoby Ilegbune, for their active participation in the cause.
 
@@ -46,7 +46,7 @@ Another champion of these predominantly women’s causes is our very own Chapter
 
 We are Women! We are powerful! We can do much! 
 
-When you wake up tomorrow, know that you have many gifts, know that you are empowered, know that you can make a difference that day, know that you DO make a difference, you add tremendous value; don’t ever let anyone tell you otherwise.
+When you wake up tomorrow, know that you have many gifts, know that you are empowered, know that you can make a difference that day, know that you DO make a difference, that you add tremendous value and don’t ever let anyone tell you otherwise.
 
 Step Out, Step Up, Be, Give, Live!
 
