@@ -1,6 +1,6 @@
 ---
 layout: reunion2016
-title: "The Venue Unveiling: Hyatt Regency Orange County, Garden Grove California"
+title: "The Venue Unveiled: Hyatt Regency Orange County, Garden Grove California"
 author: ify_obi
 excerpt: "The venue for the 2016 Weekend Events has been set.."
 modified: 2015-11-06
