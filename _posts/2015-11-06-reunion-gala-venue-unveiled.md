@@ -28,7 +28,7 @@ Check out this slideshow of the hotel! This promises to be a truly fantastic get
 * Bola Ogundairo Sanwo - Class of '90
 * Uju Ezejiofor Obasi - Class of '92
 * Ogo Emodi Akpan - Class of '89
-* Chika Ogbuefi - Class of '90
+* Chika Ogbuefi Ojukwu - Class of '90
 * Chiko Umeadi Ndaguibe - Class of 97
 * Chito Onochie Uyanwune - Class of '90
 * Nneka Okpaloka Offiah - Class of '89
