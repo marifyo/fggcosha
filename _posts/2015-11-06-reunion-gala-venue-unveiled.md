@@ -26,13 +26,13 @@ Check out this slideshow of the hotel! This promises to be a truly fantastic get
 * Alero Koiki - Class of '91
 * Alice Okali - Class of '91
 * Bola Ogundairo - Class of '90
-* Uju Ezejiofor - Class of '90
+* Uju Ezejiofor - Class of '92
 * Ogo Emodi - Class of '89
 * Chika Ogbuefi - Class of '90
 * Chiko Ndaguibe - Class of 97
 * Chito Onochie - Class of '90
 * Nneka Okpaloka - Class of '89
-* Uche Manafa - Class of '91
+* Uche Manafa - Class of '90
 * Obby Onyeama - Class of '86
 * Chiazor Asika - Class of '90
 * Titi Alakija - Class of '89
