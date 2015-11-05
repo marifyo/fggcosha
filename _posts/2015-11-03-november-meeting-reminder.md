@@ -18,7 +18,6 @@ The F.G.G.C. Onitsha Alumnae Association USA/Canada Chapter invites you to its m
 Thanks to all who attended our meeting on October 10th 2015. The Minutes will be distributed via email.
 
 <br>
-<br>
 
 Our next monthly meeting is on **Saturday, November 14th 2015 at 11.00 am EST.**. 
 {: .notice} 
