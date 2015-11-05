@@ -19,7 +19,6 @@ Thanks to all who attended our meeting on October 10th 2015. The Minutes will be
 
 <br>
 <br>
-<br>
 
 Our next monthly meeting is on **Saturday, November 14th 2015 at 11.00 am EST.**. 
 {: .notice} 
