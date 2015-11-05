@@ -22,21 +22,21 @@ Check out this slideshow of the hotel! This promises to be a truly fantastic get
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wyslm5OmqiI" frameborder="0" > </iframe>
 
 ## Planning Committee
-* Chinwe Onyekwelu - Class of '89
-* Alero Koiki - Class of '91
+* Chinwe Onyekwelu Abaelu - Class of '89
+* Alero Koiki Okolosi - Class of '91
 * Alice Okali - Class of '91
-* Bola Ogundairo - Class of '90
-* Uju Ezejiofor - Class of '92
-* Ogo Emodi - Class of '89
+* Bola Ogundairo Sanwo - Class of '90
+* Uju Ezejiofor Obasi - Class of '92
+* Ogo Emodi Akpan - Class of '89
 * Chika Ogbuefi - Class of '90
-* Chiko Ndaguibe - Class of 97
-* Chito Onochie - Class of '90
-* Nneka Okpaloka - Class of '89
-* Uche Manafa - Class of '90
-* Obby Onyeama - Class of '86
+* Chiko Umeadi Ndaguibe - Class of 97
+* Chito Onochie Uyanwune - Class of '90
+* Nneka Okpaloka Offiah - Class of '89
+* Uche Ezeokonkwo Manafa - Class of '90
+* Obby Onyeama Denchukwu - Class of '86
 * Chiazor Asika - Class of '90
-* Titi Alakija - Class of '89
-* Juliet Umeh - Class of '92
+* Titi Alakija Oyebadejo - Class of '89
+* Juliet Umeh Ume-Onyido - Class of '92
 
 Our thanks go to our Planning Committee, led by our Financial Secretary and LA area resident, Chinwe Onyekwelu Abaelu. So many have been involved in working to make this happen and they are still hard at work.
 
