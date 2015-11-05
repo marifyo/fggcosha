@@ -19,7 +19,7 @@ The Gala & Fundraising Ball will take place in one of the hotel's grand ballroom
 
 Check out this slideshow of the hotel! This promises to be a truly fantastic getaway weekend and the Planning Committee are putting together activities to make it a “5-star weekend”.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyslm5OmqiI" frameborder="0" > </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnBzb2PtPzM" frameborder="0" > </iframe>
 
 ## Planning Committee
 * Chinwe Onyekwelu Abaelu - Class of '89

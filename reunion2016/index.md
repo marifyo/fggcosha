@@ -5,6 +5,6 @@ title: "Reunion LA 2016"
 description: "Reunion LA 2016"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: reunionbanner2016.jpg
+  feature: reunionbanner-LA2016v1.jpg
   credit: Ifeyinwa Obi
 ---
