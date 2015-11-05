@@ -9,7 +9,7 @@ comments: true
 published: true
 ---
 
-![November Date]({{ site.url }}/images/meetingnov.png)
+![November Date]({{ site.url }}/images/meetingnov.jpg)
 {: .image-pull-left} 
 The F.G.G.C. Onitsha Alumnae Association USA/Canada Chapter invites you to its monthly meeting on every 2nd Saturday of the month. 
 
