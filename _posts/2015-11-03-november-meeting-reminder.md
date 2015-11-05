@@ -3,15 +3,14 @@ layout: post
 title: "Monthly Meeting Reminder: Join us for our November Meeting"
 author: aijay
 excerpt: "Join us for the next monthly meeting on Saturday, November 14, 2015 at 11am EST."
-modified: 2015-11-03
+modified: 2015-11-07
 tags: [fggc osha alumni, meeting reminder]
 comments: true
 published: true
-image:
-   thumb: meetingoct.png
 ---
 
-The F.G.G.C. Onitsha Alumnae Association USA/Canada Chapter invites you to its monthly meeting on every 2nd Saturday of the month. 
+![November Date]({{ site.url }}/images/meetingoct.png)
+{: .image-pull-right} The F.G.G.C. Onitsha Alumnae Association USA/Canada Chapter invites you to its monthly meeting on every 2nd Saturday of the month. 
 
 Thanks to all who attended our meeting on October 10th 2015. The Minutes will be distributed via email.
 

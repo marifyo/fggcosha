@@ -61,7 +61,7 @@ Step Out. Step Up. Be, Give, Live!
 Check out the pics and stories from the Class of '89’s Breast Cancer Awareness support.
 <figure>
 <a href="{{ site.url }}/images/bca/c89bca.jpg"><img src="{{ site.url }}/images/bca/c89bca.jpg"></a>
-<figcaption>Class of 1989 - Fostering Unity and Raising Awareness for Breast Cancer. The T-shirts were designed by Nkechi Eneli (Nigeria), Isobel Ijomah (UK) and Ifeyinwa Obi (US).</figcaption>
+<figcaption>Class of 1989 - Fostering Unity and Raising Awareness for Breast Cancer. The T-shirts were designed by Nkechi Eneli Madiebo (Nigeria), Isobel Ijomah Okoye (UK) and Ifeyinwa Obi (US).</figcaption>
 </figure>
 {: .image-pull-left}
 
