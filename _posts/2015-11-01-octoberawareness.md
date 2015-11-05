@@ -19,9 +19,9 @@ image:
 
 Issues which have directly impacted our lives or the life of at least one person we know.
 
-Indeed the month of Pink and Purple is one which is recognized across the globe; many have rallied to raise awareness, funding and support for these two causes.
+Indeed the month of Pink and Purple is one which is recognized across the globe; every October since the 1980's, in increasing numbers, people have rallied to raise awareness, funding and support for these two causes.
 
-Many of our alumnae have been involved in some way. In particular, we want to acknowledge the class of ’89’s own Oge Nwakoby Ilegbune, who  recently relocated from the UK to Nigeria and has been passionately and actively raising awareness for breast cancer in our home country.
+Many of our alumnae have been involved in some way. This year, we want to acknowledge the class of ’89’s Oge Nwakoby Ilegbune, who recently relocated from the UK to Nigeria and has been passionately and actively raising awareness for breast cancer in our home country.
 <figure>
 <a href="{{ site.url }}/images/bca/oge.jpg"><img src="{{ site.url }}/images/bca/oge.jpg"></a>
 <figcaption>Dr. Oge Nwakoby Ilegbune, championing the fight against breast cancer by raising awareness and inspiring her classmates to join her.</figcaption>
@@ -34,19 +34,25 @@ Watch the clip of Dr Oge Ilegbune’s Interview on Inside Eve on YouTube:
 
 The interview is **23 mins** into the show.
 
-The hashtag, #BeBreastWise", and her mission motivated her fellow alumnae classmates who banded and joined in her campaign to raise breast cancer awareness throughout the month of October. From the shores of Nigeria, in the UK and even in the U.S., class of 1989 alumnae gathered, some in public places, using their branded "Class of 89 - Breast Cancer Awareness" t-shirts as a conversation piece with anyone they encountered; some even involved their colleagues in various ways.
+The hashtag, #BeBreastWise, and her mission motivated her fellow alumnae classmates who banded and joined in her campaign to raise breast cancer awareness throughout the month of October. From the shores of Nigeria, in the UK and even in the U.S., class of 1989 alumnae gathered, some in public places, using their branded "Class of 89 - Breast Cancer Awareness" t-shirts as a conversation piece with anyone they encountered; some even involved their colleagues in various ways.
 
-We recognize and applaud the class of ’89 for their active participation in the cause.
+We also want to recognize class of '95's Chioma Akpotha who successfully organized a Breast Cancer Awareness & Fundraising Run on October 10th. Free Screening and Mammogram Vouchers were offered at the free event held to raise awareness and involve the community in this fight against breast cancer.
+<figure>
+<a href="{{ site.url }}/images/bca/c95bca.jpg"><img src="{{ site.url }}/images/bca/c95bca.jpg"></a>
+<figcaption>Chioma Akpotha's Breast Cancer Run Flyer.</figcaption>
+</figure>
+
+We applaud the classes of ’89 and '95 for their active participation in the cause.
 
 ---
 
 ![Domestic Violence Awareness]({{ site.url }}/images/dv.JPG)
 {: .image-pull-right}
-Another champion of these predominantly women’s causes is our very own Chapter President, Juliet Ume-Onyido, who is very active in the empowerment and liberation of women, and in raising awareness and providing support for survivors of Domestic Violence. With her enlightening posts shared on FB and on [her website](http://www.wholewomannetwork.com), we get an insight into how she has touched the lives of women who have struggled, some surviving, some not so fortunate, as they strive to break the chains of domestic violence in their lives.
+Another champion of these predominantly women’s causes is our very own Chapter President, Juliet Ume-Onyido, who is very active in the empowerment of women, engaging and educating them on healthy options so they can make informed decisions, and in raising awareness and providing support for survivors of Domestic Violence. With her enlightening posts shared on FB and on [her website](http://www.wholewomannetwork.com), we get an insight into how she has touched the lives of women who have struggled, some surviving, some not so fortunate, as they strive to break the chains of domestic violence in their lives.
 
 We are Women! We are powerful! We can do much! 
 
-When you go to sleep tonight, when you wake up tomorrow, know that you have many gifts, that you are empowered, know that you can make a difference that day, that you DO make a difference, and don’t ever let anyone tell you otherwise.
+When you go to sleep tonight, when you wake up tomorrow, know that you have many gifts, that you are empowered, know that you can make a difference, that you DO make a difference, and don’t ever let anyone tell you otherwise.
 
 Step Out. Step Up. Be, Give, Live!
 
@@ -55,7 +61,7 @@ Step Out. Step Up. Be, Give, Live!
 Check out the pics and stories from the Class of '89’s Breast Cancer Awareness support.
 <figure>
 <a href="{{ site.url }}/images/bca/c89bca.jpg"><img src="{{ site.url }}/images/bca/c89bca.jpg"></a>
-<figcaption>Class of 1989 - Fostering Unity and Raising Awareness for Breast Cancer.</figcaption>
+<figcaption>Class of 1989 - Fostering Unity and Raising Awareness for Breast Cancer. The T-shirts were designed by Nkechi Eneli (Nigeria), Isobel Ijomah (UK) and Ifeyinwa Obi (US).</figcaption>
 </figure>
 {: .image-pull-left}
 
@@ -63,7 +69,7 @@ Check out the pics and stories from the Class of '89’s Breast Cancer Awareness
 
 <figure>
 <a href="{{ site.url }}/images/bca/ogoandcolleagues.jpg"><img src="{{ site.url }}/images/bca/ogoandcolleagues.jpg"></a>
-<figcaption>Ogo Emodi Akpan, 2nd right, with her colleagues in the office. </figcaption>
+<figcaption>Ogo Emodi Akpan, 2nd right, with her colleagues in the office. Everyone in the picture held or wore a pink object. See if you can spot them.</figcaption>
 </figure>
 {: .image-pull-left}
 
