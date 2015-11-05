@@ -38,6 +38,6 @@ Check out this slideshow of the hotel! This promises to be a truly fantastic get
 * Titi Alakija - Class of '89
 * Juliet Umeh - Class of '92
 
-Our thanks go to our Planning Committee, led by our Financial Secretary and LA resident, Chinwe Onyekwelu Abaelu. So many have been involved in working to make this happen and they are still hard at work.
+Our thanks go to our Planning Committee, led by our Financial Secretary and LA area resident, Chinwe Onyekwelu Abaelu. So many have been involved in working to make this happen and they are still hard at work.
 
-Stay tuned for more. We’ll be providing you more information on registration and hotel booking so you can start making arrangements.
+Stay tuned. We’ll be providing you more information on registration and hotel booking so you can start making arrangements.
