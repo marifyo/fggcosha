@@ -6,7 +6,7 @@ excerpt: "Join us for the next monthly meeting on Saturday, November 14, 2015 at
 modified: 2015-11-07
 tags: [fggc osha alumni, meeting reminder]
 comments: true
-published: true
+published: false
 image:
    thumb: meetingnov.jpg
 ---
