@@ -16,7 +16,7 @@ By Chinweoke Eke
 
 > There are few things more life-changing and rewarding than assisting in the creation and welcoming of new life to our beautiful world.
 
-In this wonderful season of Christmas as we celebrate the birth of Jesus and the miracle of life, birth and salvation, it seems fitting that our December spotlight is our very own Dr. Milie Nwoye-Delmotte, class of 1995 alumna of FGGC Onitsha and renowned U.S. board-certified Obstetrician & Gynecologist and European-trained fertility specialist.
+In this wonderful season of Christmas as we celebrate the birth of Jesus and the miracle of life, birth and salvation, it seems fitting that the December spotlight is our very own Dr. Milie Nwoye-Delmotte, class of 1995 alumna of FGGC Onitsha and renowned U.S. board-certified Obstetrician & Gynecologist and European-trained fertility specialist.
 
 <figure>
 <a href="{{ site.url }}/images/millie/milliedoc.jpg"><img src="{{ site.url }}/images/millie/milliedoc.jpg"></a>
