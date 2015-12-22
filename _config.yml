@@ -1,15 +1,12 @@
 # Site wide configuration
-header:           Test Site    
+header:           Alumnae Website  
 title:            FGGC Onitsha Alumnae Association USA Canada Chapter
 locale:           en_US
-url:            http://marifyo.github.io/fggcosha
-# url:            http://fggconitsha.com
-# url:			  http://localhost:4000 
-
-
+url:            http://marifyo.github.io/fggcosha 
+# url:			  http://localhost:4000
+# url:              http://fggconitsha.com
 
 # Jekyll configuration
-
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: pygments

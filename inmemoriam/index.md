@@ -27,6 +27,7 @@ title: In Memoriam
 * Chineze Okeke (Class of 1995)
 * Chineze Udezue 
 * Chinwe Joan Onuorah 
+* Chinwe Ifezulike Nzekwe (Class of 1982) - 2015
 * Chinwe Ochei 
 * Chinwe Onyema
 * Chinwe Osefo
