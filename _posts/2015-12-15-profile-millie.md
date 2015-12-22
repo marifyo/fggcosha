@@ -9,7 +9,7 @@ categories: [spotlight, reunion2016]
 comments: true
 published: true
 image:
-  feature: milliespotlight.jpg
+  feature: MillieSpotlight.jpg
   credit: Ifeyinwa Obi
 ---
 By Chinweoke Eke
