@@ -47,5 +47,6 @@ In her spare time, she loves to inspire young students and females from less pri
 
 She has written various groundbreaking publications, made professional presentations and belongs to 7 globally-acclaimed professional Boards, Colleges and Organizations. She is also multilingual, speaks perfect English and Dutch as well as French. 
 
-Mmiliaku, a celebrated alumna and woman of accomplishment is making us proud globally! She has generously volunteered to provide one-on-one counselling sessions during our 2016 Reunion Convention in Los Angeles. 
+Mmiliaku is also supporter of our Alumnae and has generously volunteered to provide one-on-one counselling sessions during our 2016 Reunion Convention in Los Angeles. 
 
+Federal Government Girls' College Onitsha Alumnae Association USA/Canada Chapter is very proud of Dr. Milie Nwoye, a celebrated alumna and woman of accomplishment who is making us proud globally!
