@@ -12,9 +12,9 @@ image:
   feature: milliespotlight3.jpg
   credit: Ifeyinwa Obi
 ---
-By Chinweoke Eke
+By Chinweoke Helena Eke
 
-> There are few things more life-changing and rewarding than assisting in the creation and advent of new life to our beautiful world.
+> There are few things more life-changing and rewarding than assisting in the creation and advent of new life into our beautiful world.
 
 In this wonderful season of Christmas as we celebrate the birth of baby Jesus and the miracle of life, hope and salvation, it seems fitting that the December spotlight is our very own Dr. Milie Nwoye-Delmotte, class of 1995 alumna of FGGC Onitsha.
 
