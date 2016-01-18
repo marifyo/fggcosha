@@ -32,32 +32,46 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  
-    <div id="index">
-       <h3><a href="{{ site.url}}/posts/">Latest Reunion News</a></h3>
-	  {% for post in site.categories.reunion2016 limit:20 %}    
-    	<article>
-      	{% if post.link %}
-        	<h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
-      	{% else %}
-        	<h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-        	<p style="margin-top: 0.6em; margin-bottom: 0em;">{{ post.date | date: '%D' }}</span>
-       		<p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-     	{% endif %}
-    	</article>
-       {% endfor %}
-     	<hr>
-        <footer role="contentinfo">
-   	     {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        </footer>
-  	  </div><!-- /#index -->
-    {% if site.owner.disqus-shortname and page.comments == true %}
-	    <section id="disqus_thread"></section><!-- /#disqus_thread -->
-  	{% endif %}
-
+  <article class="post">
+    <div class="headline-wrap">
+      {% if page.link %}
+        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
+      {% else %}
+        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
+      {% endif %}
+    </div><!--/ .headline-wrap -->
+    <div class="article-wrap">
+      {{ content }}
+      <hr />
+      <footer role="contentinfo">
+        {% if page.share != false %}{% include _social-share.html %}{% endif %}
+        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+      </footer>
+    </div><!-- /.article-wrap -->
+  {% if site.owner.disqus-shortname and page.comments == true %}
+    <section id="disqus_thread"></section><!-- /#disqus_thread -->
+  {% endif %}
+  </article>
 </div><!-- /#main -->
 
 <div class="footer-wrap">
+  {% if site.related_posts.size > 0 %} 
+  	{% for pc in page.categories %}
+  		{% if pc == "reunion2016" %}
+  			<div class="related-articles">
+  				<h4>Check out related posts on the 2016 Reunion </h4>
+  				  <ul>
+					{% for post in site.categories.reunion2016 %}
+					    {% if page.title != post.title %}   
+   						    <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  				       {% endif %}
+ 				   {% endfor %}
+ 				  </ul>
+  				  <hr />
+			</div><!-- /.related-articles -->
+	    {% endif %}
+ 	{% endfor %}
+  {% endif %} 
  <footer>
     {% include _footer.html %}
   </footer>
