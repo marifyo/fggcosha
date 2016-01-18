@@ -4,6 +4,8 @@ permalink: /reunion2016/
 title: "Reunion LA 2016"
 description: "Reunion LA 2016"
 tags: [Jekyll, theme, responsive, blog, template]
+categories: [reunion2016]
+comments: true
 image:
   feature: reunionbanner-LA2016v1.jpg
   credit: Ifeyinwa Obi
