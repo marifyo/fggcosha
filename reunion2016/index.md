@@ -10,11 +10,11 @@ image:
   feature: reunionbanner-LA2016v1.jpg
   credit: Ifeyinwa Obi
 ---
-FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from July 26th - 28th 2016.
+FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from July 29th - 31st 2016.
 
 Our reunion weekend, held every other year is always a very special event, a wonderful package put together for alumna, friends and family, and this one hosted in the city of dreams, promises to be the best one yet.
 
-There will be several activities lined up for alumna and their guests, starting with the Friday Social Gathering night where guests get to kick off their heels and dance the night away, to the Saturday 4-hour Guided Bus Tour around the City of Angels and culminating in our not to be missed grand event, the Black Tie - Dress-to-Kill Gala and Fundraising Ball on Saturday Night.
+There will be several activities lined up for alumna and their guests, starting with the Friday Social Gathering night where guests get to kick off their heels and dance the night away, to the Saturday 4-hour Guided Bus Tour around the City of Angels, culminating in our not to be missed grand event, the Black Tie - Dress-to-Kill Gala and Fundraising Ball on Saturday Night.
 
 ## Event Registration
 
@@ -31,8 +31,7 @@ Stay tuned - Event Registration will open soon.
 	<a href="{{ site.url }}/images/hyatt-venue.jpg"><img src="{{ site.url }}/images/hyatt-venue.jpg"></a>
 </figure>
 {: .image-pull-left}
-The place to be from 26th - 28th July 2016 is The Hyatt Regency, Orange County CA, where the Gala & Fundraising Event will take place and where special rates have been negotiated for our guests.
+The place to be is The Hyatt Regency, Orange County CA, where the Gala & Fundraising Event will take place and where special rates have been negotiated for our guests.
 
 <div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Reserve Your Room Now</a></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnBzb2PtPzM" frameborder="0" > </iframe>
