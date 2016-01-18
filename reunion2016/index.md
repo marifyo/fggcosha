@@ -10,11 +10,11 @@ image:
   feature: 2016reunionbanner.jpg
   credit: Ifeyinwa Obi
 ---
-FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from *July 29th - 31st 2016*.
+FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from **July 29th - 31st 2016**.
 
 Our reunion weekend, held every other year is always a very special event, a wonderful package put together for alumna, friends and family, and this one hosted in the city of dreams, promises to be the best one yet.
 
-There are several activities lined up for alumnae and their guests, starting with the Friday Social Gathering night where guests get to kick off their heels and dance the night away, to the Saturday 4-hour Guided Bus Tour around the City of Angels, culminating in the not to be missed grand event, the Black Tie - Dress-to-Kill Gala and Fundraising Ball on Saturday Night.
+There are several activities lined up for alumnae and their guests, starting with the Friday Social Gathering night where guests get to kick off their heels and dance the night away, to the Saturday 4-hour Guided Bus Tour around the City of Angels, culminating in the grand event, the Black Tie - Dress-to-Kill Fundraising Gala on Saturday Night.
 
 ## Hotel Reservations
 <figure>
@@ -35,3 +35,7 @@ Invited guests are requested to RSVP for the Gala & Fundraising Event. RSVPs wil
 
 Stay tuned - Event Registration will open soon.
 
+## Air Travel
+There are 2 airports listed below which are in close proximity the event location:
+* Orange County/John Wayne Airport (SNA) - approximately 13 miles
+* Los Angeles Int'l Airport (LAX) - approximately 38 miles
