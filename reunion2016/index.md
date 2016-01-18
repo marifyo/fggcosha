@@ -1,7 +1,7 @@
 ---
 layout: reunionweekend-LA2016
 permalink: /reunion2016/
-title: "Reunion LA 2016"
+title: "4th Reunion Weekend - LA 2016"
 description: "Reunion LA 2016"
 tags: [Jekyll, theme, responsive, blog, template]
 categories: [reunion2016]
@@ -27,7 +27,12 @@ Invited guests are requested to RSVP for the Gala & Fundraising Event. RSVPs wil
 Stay tuned - Event Registration will open soon.
 
 ## Hotel Reservations
-
+<figure>
+	<a href="{{ site.url }}/images/hyatt-venue.jpg"><img src="{{ site.url }}/images/hyatt-venue.jpg"></a>
+</figure>
+{: .image-pull-left}
 The place to be from 26th - 28th July 2016 is The Hyatt Regency, Orange County CA, where the Gala & Fundraising Event will take place and where special rates have been negotiated for our guests.
 
 <div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Reserve Your Room Now</a></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnBzb2PtPzM" frameborder="0" > </iframe>
