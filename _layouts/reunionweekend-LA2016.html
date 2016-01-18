@@ -42,11 +42,10 @@
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       {{ content }}
-    <!--</div><!-- /.article-wrap -->
+  </div><!-- /.article-wrap -->
       <hr />
-	<!--<div id="index">
-      <hr />
-	   <h3><a href="{{ site.url}}/posts/">Latest Reunion News</a></h3>
+	<div id="index">
+       <h3><a href="{{ site.url}}/posts/">Latest Reunion News</a></h3>
 	  {% for post in site.categories.reunion2016 limit:20 %}    
     	<article>
       	{% if post.link %}
@@ -70,23 +69,6 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
-  {% if site.related_posts.size > 0 %} 
-  	{% for pc in page.categories %}
-  		{% if pc == "reunion2016" %}
-  			<div class="related-articles">
-  				<h4>Check out related posts on the 2016 Reunion </h4>
-  				  <ul>
-					{% for post in site.categories.reunion2016 %}
-					    {% if page.title != post.title %}   
-   						    <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  				       {% endif %}
- 				   {% endfor %}
- 				  </ul>
-  				  <hr />
-			</div><!-- /.related-articles -->
-	    {% endif %}
- 	{% endfor %}
-  {% endif %} 
  <footer>
     {% include _footer.html %}
   </footer>
