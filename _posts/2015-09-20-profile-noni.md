@@ -45,7 +45,7 @@ Noni’s drive to touch more lives and reach out to a different audience would e
 
 In FGGC Onitsha, to a burgeoning and deeply enthralled crowd she spent the day teaching the girls transferable craft skills. She taught them how to make candles, lip balm, jewellery, different types of jams and to bake cookies. This workshop lasted 9 hours and for the entire day Noni had full attendance by both students AND teachers. The school principal was undeniably excited as this was a first of its kind and made a special request to Noni to return as a motivational speaker. 
 <figure>
-	<a href="{{ site.url }}/images/bca/c89bca.jpg"><img src="{{ site.url }}/images/bcac/c89bca.jpg"></a>
+	<a href="{{ site.url }}/images/nonye/nonispeech.jpg"><img src="{{ site.url }}/images/nonye/nonispeech.jpg"></a>
 	<figcaption>Noni speaking to the students of FGGC Onitsha</figcaption>
 </figure>
 {: .image-pull-left}
