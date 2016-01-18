@@ -33,7 +33,7 @@ All Alumnae will be required to register for the weekend.
 ### Guest Registration
 Invited guests are requested to RSVP for the Gala & Fundraising Event. RSVPs will be eligible for our fabulous door prizes and the first 20 will be entered into our evening goodwill raffle draw featuring fantastic prizes.
 
-Stay tuned - Event Registration will open soon.
+**Stay tuned** - Event Registration will open soon.
 {: .notice} 
 
 ## Air Travel
@@ -43,3 +43,4 @@ There are 2 airports listed below which are in close proximity the event locatio
 * Los Angeles Int'l Airport (LAX) - approximately 38 miles
 
 Questions? [Contact us](mailto:la2016@fggconitsha.com)
+{: .notice}
