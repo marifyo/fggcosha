@@ -28,4 +28,4 @@ Stay tuned - Event Registration will open soon.
 
 The place to be from 26th - 28th July 2016 is The Hyatt Regency, Orange County CA, where the Gala & Fundraising Event will take place and where special rates have been negotiated for our guests.
 
-<div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Book Now</a></div> and reserve your room.
+<div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Reserve Your Room Now</a></div>.
