@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 categories: [reunion2016]
 comments: true
 image:
-  feature: reunion2016banner.jpg
+  feature: 2016reunionbanner.jpg
   credit: Ifeyinwa Obi
 ---
 FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from July 29th - 31st 2016.
