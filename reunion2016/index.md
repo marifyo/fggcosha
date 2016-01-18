@@ -1,7 +1,7 @@
 ---
 layout: reunionweekend-LA2016
 permalink: /reunion2016/
-title: "4th Reunion Weekend - LA 2016"
+title: "LA 2016 Reunion Weekend"
 description: "Reunion LA 2016"
 tags: [Jekyll, theme, responsive, blog, template]
 categories: [reunion2016]
