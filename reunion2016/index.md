@@ -14,7 +14,7 @@ FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reun
 
 Our reunion weekend, held every other year is always a very special event, a wonderful package put together for alumna, friends and family, and this one hosted in the city of dreams, promises to be the best one yet.
 
-There are several activities lined up for alumnae and their guests, starting with the Friday Social Gathering night where guests get to kick off their heels and dance the night away, to the Saturday 4-hour Guided Bus Tour around the City of Angels, culminating in the grand event, the Black Tie - Dress-to-Kill Fundraising Gala on Saturday Night.
+There are several activities lined up for alumnae and their guests, starting with the Friday Social Gathering night where guests get to kick off their heels and dance the night away, to the Saturday 4-hour Guided Bus Tour around LA/Hollywood, culminating in the grand event, the Black Tie - Dress-to-Kill Fundraising Gala on Saturday Night.
 
 ## Hotel Reservations
 <figure>
