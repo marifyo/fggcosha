@@ -15,7 +15,7 @@ The Venue is locked down!!!
 
 Our 4th Reunion Weekend in July 2016 will be held at the Hyatt Regency Orange County, Garden Grove California, located just 1.4 miles from Disneyland Resort.
 
-<div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Reserve Now</a></div>
+<div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Reserve Your Room Now</a></div>
 
 Saturday night's Gala & Fundraising Ball will take place in one of the hotel's grand ballrooms. Group rates have been negotiated at the same hotel starting at $159 (less taxes) for Single and Double Occupancy Rooms. 
 
