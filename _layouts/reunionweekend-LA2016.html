@@ -32,18 +32,7 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  <article class="post">
-    <div class="headline-wrap">
-      {% if page.link %}
-        <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
-      {% else %}
-        <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
-      {% endif %}
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
-      {{ content }}
-    </div><!-- /.article-wrap -->
- </article>
+
       <hr />
 	<div id="index">
        <h3><a href="{{ site.url}}/posts/">Latest Reunion News</a></h3>
