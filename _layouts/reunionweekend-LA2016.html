@@ -54,7 +54,6 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
-  {% if site.related_posts.size > 0 %} 
   	{% for pc in page.categories %}
   		{% if pc == "reunion2016" %}
   			<div class="related-articles">
@@ -70,7 +69,6 @@
 			</div><!-- /.related-articles -->
 	    {% endif %}
  	{% endfor %}
-  {% endif %} 
  <footer>
     {% include _footer.html %}
   </footer>
