@@ -86,7 +86,8 @@ $(document).ready(function() {
       // itemsMobile : false
  
   });
-  
+ 
+ /* 
    $('#clock').countdown('2016/07/29 00:00:00')
    .on('update.countdown', function(event) {
      var format = '%H:%M:%S';
@@ -102,6 +103,22 @@ $(document).ready(function() {
     $(this).html('This offer has expired!')
       .parent().addClass('disabled');
   
-  });
+  }); 
+  
+    $('#wrapper').countdown('2016/07/29', function(event) {
+    $('#clock').html(event.strftime('%m months %w weeks %d days %H hours'));
+  }); */
+  
+   $('#clock').Countdown({
+									year: 2016, 							// This is what you would normally put in here... just a number for the year
+									month:7, 
+									day:29, 
+								 	//time: 86400 * 3, // 86400 seconds = 1 day
+									width:300, 
+									height:60,  
+									rangeHi:"month",
+									timezone: -5,
+									style:"flip"	// <- no comma on last item!
+									});
  
 });
