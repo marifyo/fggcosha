@@ -107,7 +107,7 @@ $(document).ready(function() {
   
     $('#wrapper').countdown('2016/07/29', function(event) {
     $('#clock').html(event.strftime('%m months %w weeks %d days %H hours'));
-  }); */
+  });
   
    $('#clock').Countdown({
 									year: 2016, 							// This is what you would normally put in here... just a number for the year
@@ -120,5 +120,5 @@ $(document).ready(function() {
 									timezone: -5,
 									style:"flip"	// <- no comma on last item!
 									});
- 
+*/ 
 });
