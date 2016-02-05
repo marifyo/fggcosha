@@ -12,8 +12,6 @@ image:
 ---
 FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from **Friday 29th - Sunday 31st July 2016**.
 
-Our reunion weekend, held every other year is always a very special event, a wonderful package put together for alumna, friends and family, and this one hosted in the city of dreams, promises to be the best one yet.
-
 <figure>
 	<a href="{{ site.url }}/images/starpackage3.jpg"><img src="{{ site.url }}/images/starpackage3.jpg"></a>
 </figure>
