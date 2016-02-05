@@ -1,8 +1,8 @@
 ---
 layout: reunion2016
-title: "Register for LA 2016"
+title: "Registration Opens for LA 2016"
 author: ify_obi
-excerpt: "Registration is now open for our 4th Reunion Weekend. Register Now and pay the Early Bird fee!"
+excerpt: "Registration is now open to all alumnae and guests for our 4th Reunion Weekend. Register Now and get the Early Bird rate!"
 modified: 2016-2-5
 tags: [fggc osha alumni]
 categories: [reunion2016]

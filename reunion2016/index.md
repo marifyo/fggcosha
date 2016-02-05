@@ -15,6 +15,7 @@ image:
 FGGC Onitsha Alumnae Association, USA/Canada Chapter invites you to her 4th Reunion Weekend this summer in Los Angeles, CA from **Friday 29th - Sunday 31st July 2016**.
 
 <a href="http://www.eventbrite.com/e/4th-reunion-weekend-fundraising-gala-registration-21184714050?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=21184714050" alt="Eventbrite - 4th Reunion Weekend &amp; Fundraising Gala" /></a>
+
 All Alumnae are required to register for the weekend.
 
 Invited guests are requested to RSVP for the Fundraising Gala. RSVPs will be eligible for our fabulous door prizes and the first 20 will be entered into the evening raffle draw featuring fantastic prizes.
