@@ -42,20 +42,20 @@ In 2014, Millicent won the  **YouWiN!** award  jointly  bestowed by the 
 As of today, Millicent has had over 40 art exhibitions, including international exhibits in the USA, Kenya, South-Africa and Italy.  
 
 In Millicent’s own words, 
-*“My personality has a viral influence on my work. I have a passion for people with much focus on women and children.*
-*Faces and figures are my favourite subjects as the opportunity to convey emotion and life through human faces and forms are my greatest passion and satisfaction.* 
+*“My personality has a viral influence on my work. I have  a  passion for people with much focus on women and children.*
+*Faces and figures are my  favourite  subjects as the opportunity to convey emotion and life through human faces and forms are my greatest passion and satisfaction.* 
 *I believe that a great art work should reveal the heart of the artist within the work.* 
-*My approach is resilient; I employ bold strokes with generous application of colours to imbue my work with character, mood, and emotional richness.* 
-*I passionately attack my surface, working exhaustively and daringly playing with colours at the same time, I strive to capture that moment of honest expression and gesture revealed by my subject.* 
-*By consciously feeding on my passion and willingly allowing it to influence everything I do, I have experienced art beyond mere strokes on canvas.* 
-*I have learnt that strategy, struggle and eventual victory are the common course of human existence and growth.”* 
+*My approach is resilient; I  employ bold strokes with generous application of  colours  to imbue my work with character, mood, and emotional richness.* 
+*I passionately attack my surface, working exhaustively and daringly playing with  colours  at the same time, I strive to capture that moment of honest expression and gesture revealed by my subject.* 
+*By consciously feeding on my passion and willingly allowing it to influence everything  I do, I have experienced art beyond mere strokes on  canvas.* 
+*I have learnt that strategy, struggle and eventual victory are the common course of human  existence and growth.”* 
 
 <figure>
 <a href="{{ site.url }}/images/millicent/millicentatwork.jpg"><img src="{{ site.url }}/images/millicent/millicentatwork.jpg"></a>
 </figure>
 {: .image-pull-left}
 
-Millicent Osumuo is a contemporary Nigerian artist who has made a mark for herself on the Nigerian visual art scene.  She feels that her greatest achievement is being able to build a successful and global career in art; no easy feat given the harsh realities and complexities of Africa’s artistic landscape. Her vision is to inspire young girls including students of our alma mater, and challenge them to grow in confidence, continuously and courageously building on their achievements to become independent women. To this end, she has several ideas.
+Millicent  Osumuo  is a contemporary Nigerian artist who has made a mark for herself on the Nigerian visual art scene.  She feels that her greatest achievement is  being able to build a successful and global career in art; no easy feat given the harsh realities and complexities of Africa’s artistic landscape.  Her  vision is to inspire young girls including students of our alma mater, and challenge them to grow in confidence, continuously and courageously building on their achievements to become independent women. To this end, she has several ideas.
 
 One of these is her planned *“Sobriety & Elegance”* exhibition taking place on **March 7th 2016** in commemoration of the International Women’s Day. This is an all-female art exhibition devised to celebrate the dignity of womanhood while highlighting the crucial role of women in the artistic development of Nigeria. 
 Its underlying message is the necessity to encourage females to pursue art as a career for robust and national development. 
@@ -65,7 +65,7 @@ Its underlying message is the necessity to encourage females to pursue art as a 
 </figure>
 {: .image-pull-left}
 
-The exhibition will feature three (3) art students from three (3) secondary schools, three (3) art undergraduates from three (3) art schools and our very own Millicent Osumuo, an Abuja-based international artist whose professional experience will be brought to bear on the show. 
+The exhibition will feature three (3) art students from three (3) secondary schools, three (3) art undergraduates from three (3) art schools and our very own Millicent  Osumuo, the Abuja-based international artist whose professional experience will be brought to bear on the show. 
 
 Federal Government Girls' College Onitsha Alumnae Association USA/Canada Chapter is very proud of this celebrated alumna and woman of accomplishment, the incredibly talented Millicent Osumuo, making her mark and touching lives through her art, inspiring each of us to explore our talent and follow our dreams!
 
