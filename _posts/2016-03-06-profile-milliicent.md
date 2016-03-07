@@ -39,22 +39,16 @@ During her National Youth Service Corp (NYSC) in  Sokoto State, Millicent was 
 {: .image-pull-left}
 
 In 2014, Millicent won the  **YouWiN!** award  jointly  bestowed by the  Ministry of Finance, the Ministry of Communication Technology, the Ministry of Youth Development and the Ministry of Women Affairs and Social Development.  She is currently the owner and Principal Art Consultant at  Colourmimi  Ltd., her art production, sales and consulting firm. 
-As of today, Millicent has had over 40 art exhibitions, including international exhibits in the USA, Kenya, South-Africa and Italy.  
+As of today, Millicent has had over 40 art exhibitions, including international exhibits in the USA, Kenya, South Africa and Italy.  
 
 In Millicent’s own words, 
 
 *“My personality has a viral influence on my work. I have  a  passion for people with much focus on women and children.*
-
 *Faces and figures are my  favourite  subjects as the opportunity to convey emotion and life through human faces and forms are my greatest passion and satisfaction.* 
-
 *I believe that a great art work should reveal the heart of the artist within the work.* 
-
 *My approach is resilient; I  employ bold strokes with generous application of  colours  to imbue my work with character, mood, and emotional richness.* 
-
 *I passionately attack my surface, working exhaustively and daringly playing with  colours  at the same time, I strive to capture that moment of honest expression and gesture revealed by my subject.* 
-
 *By consciously feeding on my passion and willingly allowing it to influence everything  I do, I have experienced art beyond mere strokes on  canvas.* 
-
 *I have learnt that strategy, struggle and eventual victory are the common course of human  existence and growth.”* 
 
 <figure>
