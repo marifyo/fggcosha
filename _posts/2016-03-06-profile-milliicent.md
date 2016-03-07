@@ -14,17 +14,17 @@ image:
 ---
 By Chinweoke Helena Eke
 
-> By consciously feeding on my passion and willingly allowing it to influence everything I do, I have experienced art beyond mere strokes on canvas. 
+> By consciously feeding on my passion and willingly allowing it to influence everything  I do, I have experienced art beyond mere strokes on  canvas. 
 
-January was the month of new beginnings. February brought us the promise of love and romance. March, with its hint of spring brings with it the beauty of creation, nature and life. Art as a universal language of creative expression emotes all these and so it is most fitting that our first spotlight of 2016 is the talented international artist Millicent Osumuo, class of 1996.
+January was the month of new beginnings. February brought us the promise of love and romance. March, with its hint of spring brings with it the beauty of creation, nature and life. Art as a universal language of creative expression emotes all these and so it is most fitting that our first spotlight of 2016 is the talented international artist Millicent Osumuo, class of  1996.
 
 <figure>
 <a href="{{ site.url }}/images/millicent/millicentart.jpg"><img src="{{ site.url }}/images/millicent/millicentart.jpg"></a>
 </figure>
 {: .image-pull-left}
 
-Millicent comes from an extremely creative family.  Her maternal grandfather was an ironsmith, her paternal grandfather a guitarist and her aunt a cartoonist. With creativity firmly embedded in her DNA, it is not surprising that art became not only her first love, but her everything. 
-From an early age she has been living, breathing and dreaming art. She credits her creative gifts to her father, her family both maternal and paternal, and most of all to God. 
+Millicent comes from an extremely creative family.  Her maternal grandfather was an ironsmith, her paternal grandfather a guitarist and her aunt a cartoonist.  With creativity firmly embedded in her DNA, it is not surprising that art became not only her first love, but  her everything. 
+From an early age she has been  living, breathing and dreaming art. She credits her creative gifts to her father, her family both  maternal and paternal,  and most of all to God. 
 
 *#ProudlyAnambra*,  she is from Nnewi-North LGA and was born the only daughter in a family of four. Her artistic talent was obvious from a very tender age and like her three brothers, she relentlessly pursued her passion through early formal and informal art practice.   
 
