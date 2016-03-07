@@ -36,6 +36,7 @@ Invited guests are requested to RSVP for the Fundraising Gala. RSVPs will be eli
 | Fundraising Gala | Saturday July 30th @ 8pm  |  The Ballroom - Hyatt Regency | This is *The Event* of the weekend. Dress like you're going to the Oscars knowing you will be bringing home a trophy! You might sight a celebrity or two at this event so be sure to RSVP when registration opens up. |
 {: rules="groups"}
 
+---
 
 ## Hotel Reservations
 <figure>
@@ -46,12 +47,25 @@ The place to be is **The Hyatt Regency, Orange County CA** where the Fundraising
 
 <div markdown="0"><a href="https://resweb.passkey.com/go/fggconitsha2016" class="btn">Reserve Your Room Now</a></div>
 
+---
 
 ## Air Travel
 There are 2 airports listed below which are in close proximity to the event location:
 
 * Orange County/John Wayne Airport (SNA) - approximately 13 miles.
 * Los Angeles Int'l Airport (LAX) - approximately 38 miles.
+
+---
+
+## Shop Shop Shop
+<figure>
+	<a href="{{ site.url }}/images/merchpic.jpg"><img src="{{ site.url }}/images/merchpic.jpg"></a>
+</figure>
+
+Don't forget to check out our Merchandize Store for select items branded exclusively for the event. All proceeds go towards our projects.
+
+<div markdown="0"><a href="http://www.cafepress.com/fggcoshaalumnaeuccshop/12831975" class="btn">Shop Now</a></div>
+ 
 
 Questions? [Contact us](mailto:la2016@fggconitsha.com)
 {: .notice}

@@ -6,7 +6,7 @@ excerpt: "Join us for the next monthly meeting on Saturday, February 13, 2016 at
 modified: 2016-1-31
 tags: [fggc osha alumni, meeting reminder]
 comments: true
-published: true
+published: false
 ---
 
 Happy New Year to everyone!
