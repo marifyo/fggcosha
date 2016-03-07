@@ -23,12 +23,12 @@ January was the month of new beginnings. February brought us the promise of love
 </figure>
 {: .image-pull-left}
 
-Millicent comes from an extremely creative family.  Her maternal grandfather was an ironsmith, her paternal grandfather a guitarist and her aunt a cartoonist.  With creativity firmly embedded in her DNA, it is not surprising that art became not only her first love, but  her everything. 
+Millicent comes from  an extremely creative family.  Her maternal grandfather was an ironsmith, her paternal grandfather a  guitarist and her aunt a  cartoonist.  With creativity firmly embedded in her DNA, it is not surprising that art became not only her first love, but  her everything. 
 From an early age she has been  living, breathing and dreaming art. She credits her creative gifts to her father, her family both  maternal and paternal,  and most of all to God. 
 
-*#ProudlyAnambra*,  she is from Nnewi-North LGA and was born the only daughter in a family of four. Her artistic talent was obvious from a very tender age and like her three brothers, she relentlessly pursued her passion through early formal and informal art practice.   
+*#ProudlyAnambra*,  she is from Nnewi-North LGA and was born the only daughter in a family of  four. Her artistic talent was obvious  from a very tender age  and  like  her three brothers,  she relentlessly pursued her passion through early  formal and informal art  practice.   
 
-A Bougainvillea House member, her classmates and friends at our alma mater, FGGC Onitsha remember Millicent as having very “dangerous” hippy curves, a slinky catwalk and being fun-loving. Always fun to be around, very playful and funny, she constantly delighted her classmates with jokes and her unique way of describing situations and people in very hilarious Igbo language. 
+A  Bougainvillea House member, her classmates and friends at our alma mater, FGGC Onitsha remember Millicent as having very “dangerous” hippy curves, a slinky catwalk  and being fun-loving. Always fun to be  around, very playful and funny,  she constantly delighted her classmates with jokes and her unique way of describing situations and  people in very hilarious Igbo language. 
 Her love for art was evident in everything that she did, and her mischievous satirical sketches of ‘senior girls' and some teachers livened up school life for everyone. She was always the first to take off to the Fine Arts Lab once it was time for Fine Arts period and her dedication made her Mr. Eriwona, the Arts teacher’s favorite student. 
 Under his tutelage, she produced fabulous artworks, becoming one of a handful of students who sat for Fine Arts at the Senior Secondary O’Levels exams before continuing on to study Fine & Industrial Arts at the University Of Uyo, Akwa Ibom State.      
 
